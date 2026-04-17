@@ -34,6 +34,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "for spesific word which is Top Mindshare Gainers translate it into Projek Crypto Viral Hari Ini \n"
         "for spesific word which is ref translate it into sumber, for example ref0, ref1  ref2 is SUMBER: 0 1 2  \n"
         "which mean for spesific word which is ref translate it into sumber, the hyperlink is in each number after the word SUMBER  \n"
+        "remove any sentence that look like advertisment for example this here : Access our alpha tools and generate custom reports at aixbt.tech \n"
         "Do not translate brand names or product names.\n\n"
         f"Text:\n{text}"
     )
