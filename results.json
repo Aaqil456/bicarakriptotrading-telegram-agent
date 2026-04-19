@@ -1,1 +1,35 @@
-
+{
+    "timestamp": "2026-04-19T12:10:10.858652",
+    "messages": [
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #XCH from 2.33 to 2.52 USDT  = 8.08 %",
+            "date": "2026-04-19 12:06:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 19/04/2026 15:40:45\n\ud83d\udcc8 **Total Coins:** 569\n\ud83d\udcca **Average Rate:** `-0.0068%`\n\n\ud83d\udfe2 **Positive Funding:** 434\n\ud83d\udd34 **Negative Funding:** 135\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DENTUSDT: `0.1113%`\n  2. #AKEUSDT: `0.0887%`\n  3. #RAVEUSDT: `0.0816%`\n  4. #SKYAIUSDT: `0.0768%`\n  5. #GWEIUSDT: `0.0763%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #ENJUSDT: `-0.9319%`\n  2. #HIGHUSDT: `-0.7551%`\n  3. #MOVEUSDT: `-0.7343%`\n  4. #KERNELUSDT: `-0.5803%`\n  5. #HOODUSDT: `-0.3244%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-19 08:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GLMR****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/GLMR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GLMRUSDT)]",
+            "date": "2026-04-19 12:09:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DEXE****/USDT (1h)** Overbought level reached\nRSI: 71.74 | [Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)",
+            "date": "2026-04-19 12:07:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bitcoin: BCMI Index Approaches High-Conviction Support\n\n\u201cWe are entering a \"Value-Accumulation Zone.\" The data suggests the downside is becoming limited compared to the long-term upside. However, wait for price stabilization to confirm the index's bottom signal.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69e19dd8a946e438c680e67c-Bitcoin-BCMI-Index-Approaches-High-Conviction-Support?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu)\n \nBy [Woominkyu](https://cryptoquant.com/profile/u/Woominkyu?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=woominkyu) | @cryptoquant_official",
+            "date": "2026-04-17 06:50:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ZRO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**211K ZRO** have been bought\n\ud83d\udcb0Price: 1.52 USDT (**-9.15%**)\n\ud83d\udea8Order Size: **317,604 USDT** (**5.00%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **6.35M** USDT",
+            "date": "2026-04-19 02:54:15+00:00"
+        }
+    ]
+}
