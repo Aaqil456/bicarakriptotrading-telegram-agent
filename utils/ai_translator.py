@@ -23,7 +23,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
 
      prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
-        
+    
         "### TONE & STYLE:\n"
         "- Use a friendly, relaxed, and 'santai' tone, like a friend sharing info.\n"
         "- Keep it simple and easy to understand.\n"
