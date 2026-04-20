@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-20T09:23:55.512138",
+    "timestamp": "2026-04-20T11:02:15.241024",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -315,6 +315,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**REZ/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**7.49M REZ** have been bought\n\ud83d\udcb0Price: 0.00387 USDT (**3.75%**)\n\ud83d\udea8Order Size: **28,625 USDT** (**5.03%**)\n\u23f3Duration: **14 minutes**\n\ud83d\udcca24h Vol: **569.63K** USDT",
             "date": "2026-04-20 07:53:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #BDX from 0.173 to 0.187 USDT  = 8.04 %",
+            "date": "2026-04-20 10:40:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ORDI****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)]",
+            "date": "2026-04-20 10:42:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUPER****/USDT (30m)** Overbought level reached\nRSI: 70.44 | [Binance](https://www.binance.com/en/trade/SUPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUPERUSDT)",
+            "date": "2026-04-20 10:42:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DCR/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.07K DCR** have been bought\n\ud83d\udcb0Price: 19.84 USDT (**2.80%**)\n\ud83d\udea8Order Size: **20,937 USDT** (**6.51%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **321.54K** USDT",
+            "date": "2026-04-20 10:45:36+00:00"
         }
     ]
 }
