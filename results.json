@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-20T02:30:59.898892",
+    "timestamp": "2026-04-20T05:10:39.836648",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -245,6 +245,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$SPK****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
             "date": "2026-04-20 02:25:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #ALICE from 0.155 to 0.168 USDT  = 8.51 %",
+            "date": "2026-04-20 04:41:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 20/04/2026 11:40:45\n\ud83d\udcc8 **Total Coins:** 563\n\ud83d\udcca **Average Rate:** `-0.0002%`\n\n\ud83d\udfe2 **Positive Funding:** 417\n\ud83d\udd34 **Negative Funding:** 146\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #GUAUSDT: `0.2214%`\n  2. #BROCCOLIF3BUSDT: `0.21%`\n  3. #DENTUSDT: `0.1687%`\n  4. #BULLAUSDT: `0.1221%`\n  5. #SKYAIUSDT: `0.1166%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #KERNELUSDT: `-0.4932%`\n  2. #HIGHUSDT: `-0.455%`\n  3. #ENJUSDT: `-0.4149%`\n  4. #BLURUSDT: `-0.1794%`\n  5. #MOVEUSDT: `-0.1507%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-20 04:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RLUSD****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)]",
+            "date": "2026-04-20 04:37:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUPER****/USDT (30m)** Overbought level reached\nRSI: 70.47 | [Binance](https://www.binance.com/en/trade/SUPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUPERUSDT)",
+            "date": "2026-04-20 05:00:21+00:00"
         }
     ]
 }
