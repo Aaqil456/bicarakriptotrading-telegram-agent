@@ -2,97 +2,89 @@ import os
 import time
 import requests
 
+# Pastikan API Key ada dalam Environment Variables
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-GEMINI_MODEL = "gemini-2.5-flash"  # current, fast & cheap. Change to gemini-2.5-pro if you prefer.
+# Menggunakan 1.5-flash untuk kestabilan rate limit yang lebih baik pada akaun percuma
+GEMINI_MODEL = "gemini-2.5-flash" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
-    Translates `text` to Malay using Google Gemini API (Developer API).
-    Returns translated text or "" on failure.
+    Translates `text` to Malay using Google Gemini API.
+    Implemented with Throttling & 429 Handling to prevent Rate Limits.
     """
     if not text or not isinstance(text, str) or not text.strip():
-        print(f"[Warning] Empty or invalid text received for translation: {text}")
+        print(f"[Warning] Teks kosong atau tidak sah diterima.")
         return ""
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     headers = {
         "Content-Type": "application/json",
-        "x-goog-api-key": GEMINI_API_KEY,  # <-- use header, not ?key=
+        "x-goog-api-key": GEMINI_API_KEY,
     }
 
     prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
-    
         "### TONE & STYLE:\n"
         "- Use a friendly, relaxed, and 'santai' tone, like a friend sharing info.\n"
         "- Keep it simple and easy to understand.\n"
-        "- Avoid exaggerated slang or interjections (No 'Eh', 'Korang', 'Woi', 'Wooohooo').\n"
-        "- Maintain a clean, neutral, and informative vibe without unnecessary excitement.\n\n"
-        
+        "- Avoid exaggerated slang or interjections.\n"
+        "- Maintain a clean, neutral, and informative vibe.\n\n"
         "### KEY TERMINOLOGY:\n"
         "- 'Market Events' -> 'Update Pasaran'\n"
-        "- 'Top Mindshare Gainers' -> 'Projek Crypto Viral Hari Ini'\n"
-        "- Do not translate brand names or product names.\n\n"
-    
-        "### LINK & SOURCE HANDLING (CRITICAL):\n"
-        "- STRICTLY REMOVE all platform tags and source links (e.g., delete '[Binance | TV]', 'Binance | TradingView', or any similar platform labels).\n"
-        "- PURGE all call-to-action phrases and navigation links such as '**Akses Indikator**', 'Read more', or 'Source: [Link]'.\n"
-        "- REMOVE any phrases mentioning where the post originated (e.g., 'Originally from...', 'Posted by...').\n"
-        "- The ONLY exception is 'ref' tags. Translate 'ref0, ref1, ref2' into the format 'SUMBER: 0 1 2' while preserving their original hyperlinks.\n\n"
-    
+        "- 'Top Mindshare Gainers' -> 'Projek Crypto Viral Hari Ini'\n\n"
+        "### LINK & SOURCE HANDLING:\n"
+        "- STRICTLY REMOVE platform tags and source links.\n"
+        "- PURGE call-to-action phrases (e.g., 'Read more').\n"
+        "- Exception: 'ref0, ref1' -> 'SUMBER: 0 1'.\n\n"
         "### OUTPUT RULES:\n"
         "- Return ONLY the translated text.\n"
-        "- No explanations, no introductory text, and no emojis (unless they are in the original text).\n\n"
         f"Text:\n{text}"
     )
 
     payload = {
-        "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": prompt}],
-            }
-        ],
-        # Optional: you can guide style further
-        "generationConfig": {
-            "temperature": 0.2
-        }
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2}
     }
 
-    # Retry with exponential backoff for transient errors
     retries = 5
-    backoff = 2
     for attempt in range(1, retries + 1):
         try:
             resp = requests.post(url, headers=headers, json=payload, timeout=60)
-            # If you want to see the exact error body on non-2xx:
+            
+            # Jika terkena Rate Limit (429)
+            if resp.status_code == 429:
+                wait_time = 60  # Tunggu 1 minit penuh jika kena block
+                print(f"[Warning] HTTP 429 (Rate Limit). Rehat {wait_time}s sebelum cuba balik...")
+                time.sleep(wait_time)
+                continue 
+
             if not resp.ok:
-                # Helpful debug print
-                try:
-                    print(f"[Error] HTTP {resp.status_code}: {resp.text[:500]}")
-                except Exception:
-                    pass
+                print(f"[Error] HTTP {resp.status_code}: {resp.text[:200]}")
                 resp.raise_for_status()
 
             data = resp.json()
-
-            # Robust parse: candidates[0].content.parts[*].text
             candidates = data.get("candidates", [])
-            if not candidates:
-                print(f"[Warning] No candidates returned on attempt {attempt}.")
-            else:
+            
+            if candidates:
                 parts = candidates[0].get("content", {}).get("parts", [])
                 for p in parts:
                     t = p.get("text", "").strip()
                     if t:
-                        print(f"[Success] Translation completed for: {text[:60]}...")
+                        print(f"[Success] Terjemahan selesai.")
+                        
+                        # --- CARA 1: FIXED THROTTLING ---
+                        # Kita paksa rehat 5 saat selepas setiap kejayaan.
+                        # Ini memastikan kita tidak hantar lebih 12 request seminit.
+                        time.sleep(5) 
+                        
                         return t
 
-            print(f"[Warning] Empty translation on attempt {attempt}. Retrying...")
+            print(f"[Warning] Tiada hasil pada cubaan {attempt}. Cuba lagi...")
+            
         except requests.exceptions.RequestException as e:
-            print(f"[Error] Attempt {attempt} - Translation failed: {e}")
-        time.sleep(backoff ** attempt)
+            print(f"[Error] Cubaan {attempt} gagal: {e}")
+            time.sleep(2 ** attempt) # Exponential backoff untuk error rangkaian biasa
 
-    print(f"[Error] All attempts failed to translate: {text[:60]}...")
+    print(f"[Error] Semua cubaan gagal untuk teks: {text[:50]}...")
     return ""
