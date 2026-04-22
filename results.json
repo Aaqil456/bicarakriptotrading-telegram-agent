@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T23:06:24.234095",
+    "timestamp": "2026-04-22T23:56:49.836491",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -605,6 +605,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 28.89 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
             "date": "2026-04-22 23:05:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 4x DUMP #FIO from 0.00103 to 0.00094 USDT  = -8.74 %",
+            "date": "2026-04-22 23:53:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RLUSD****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)]",
+            "date": "2026-04-22 23:52:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (30m)** Oversold level reached\nRSI: 29.06 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "date": "2026-04-22 23:52:43+00:00"
         }
     ]
 }
