@@ -2,16 +2,16 @@ import os
 import time
 import requests
 
-# Pastikan API Key ada dalam Environment Variables
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# Use the technical Model ID (e.g., adding '-001' or '-preview' as per AI Studio specs)
+# For Gemini 3.1 Flash Lite, the stable endpoint is usually:
+GEMINI_MODEL = "gemini-3.1-flash-lite-001" 
 
-# Guna 1.5-flash-latest atau 2.0-flash (Mana yang stabil di akaun anda)
-GEMINI_MODEL = "gemini-3.1-flash-lite" 
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
-    Translates text to Malay and PURGES all source links/platforms using LLM.
-    Guaranteed to retry until success with smart throttling.
+    Translates text to Malay and PURGES all source links/platforms.
+    Limits retries to 2 attempts to prevent long hangs.
     """
     if not text or not isinstance(text, str) or not text.strip():
         return ""
@@ -22,17 +22,12 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "x-goog-api-key": GEMINI_API_KEY,
     }
 
-    # PROMPT ASAL ANDA (Sangat kuat untuk tapis link/source)
     prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
         "### TONE & STYLE:\n"
-        "- Use a friendly, relaxed, and 'santai' tone, like a friend sharing info.\n"
+        "- Use a friendly, relaxed, and 'santai' tone.\n"
         "- Keep it simple and easy to understand.\n"
-        "- Avoid exaggerated slang or interjections.\n"
         "- Maintain a clean, neutral, and informative vibe.\n\n"
-        "### KEY TERMINOLOGY:\n"
-        "- 'Market Events' -> 'Update Pasaran'\n"
-        "- 'Top Mindshare Gainers' -> 'Projek Crypto Viral Hari Ini'\n\n"
         "### LINK & SOURCE HANDLING:\n"
         "- STRICTLY REMOVE platform tags and source links.\n"
         "- PURGE call-to-action phrases (e.g., 'Read more').\n"
@@ -47,48 +42,42 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "generationConfig": {"temperature": 0.2}
     }
 
-    attempt = 0
-    while True:  # STRATEGI: BERDEGIL SAMPAI JADI
-        attempt += 1
+    max_retries = 2
+    for attempt in range(1, max_retries + 1):
         try:
-            resp = requests.post(url, headers=headers, json=payload, timeout=60)
+            resp = requests.post(url, headers=headers, json=payload, timeout=30)
             
-            # Jika terkena Rate Limit (429)
+            # 1. Handle Success
+            if resp.status_code == 200:
+                data = resp.json()
+                candidates = data.get("candidates", [])
+                if candidates:
+                    output = candidates[0].get("content", {}).get("parts", [{}])[0].get("text", "").strip()
+                    print(f"[Success] Cubaan #{attempt} Berjaya.")
+                    # Optional: Small delay to respect rate limits (RPM)
+                    time.sleep(2) 
+                    return output
+
+            # 2. Handle Specific "Model Not Found" (404) - Stop immediately
+            if resp.status_code == 404:
+                print(f"[Critical] Error 404: Model '{model}' tidak dijumpai. Sila semak Model ID.")
+                break 
+
+            # 3. Handle Rate Limits (429)
             if resp.status_code == 429:
-                # Rehat makin lama: 100s, 200s, 300s...
-                wait_time = min(100 * attempt, 300) 
-                print(f"[Warning] Google sekat (429). Cubaan #{attempt}. Rehat {wait_time}s...")
+                wait_time = 30 * attempt
+                print(f"[Warning] Google Sekat (429). Rehat {wait_time}s...")
                 time.sleep(wait_time)
-                continue 
-
-            # Jika Error lain (500, 503, etc)
-            if not resp.ok:
-                print(f"[Error] HTTP {resp.status_code}. Rehat 20s...")
-                time.sleep(20)
-                if attempt > 15: return text # Break kalau dah melampau sangat gagalnya
-                continue
-
-            data = resp.json()
-            candidates = data.get("candidates", [])
             
-            if candidates:
-                parts = candidates[0].get("content", {}).get("parts", [])
-                for p in parts:
-                    t = p.get("text", "").strip()
-                    if t:
-                        print(f"[Success] Terjemahan & Tapis selesai.")
-                        
-                        # --- CARA PALING CONFIRM: HARD DELAY ---
-                        # Setiap kali berjaya, WAJIB rehat 15 saat. 
-                        # Ini akan pastikan RPM anda sentiasa bawah 5. 
-                        # Google takkan sekat orang yang hantar 4-5 request seminit.
-                        time.sleep(15) 
-                        
-                        return t
+            # 4. Handle other Server Errors (500, 503)
+            else:
+                print(f"[Error] HTTP {resp.status_code}. Rehat 10s sebelum cubaan terakhir...")
+                time.sleep(10)
 
         except Exception as e:
-            print(f"[Error] Masalah teknikal: {e}. Rehat 15s...")
-            time.sleep(15)
-            if attempt > 10: return text
+            print(f"[Error] Masalah teknikal: {e}")
+            time.sleep(5)
 
+    # If all attempts fail, return original text so the bot doesn't crash
+    print(f"[Fail] Gagal selepas {max_retries} cubaan. Menggunakan teks asal.")
     return text
