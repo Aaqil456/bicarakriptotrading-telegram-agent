@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T10:03:13.809441",
+    "timestamp": "2026-04-22T05:06:00.286193",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -400,6 +400,31 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$PENDLE****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
             "date": "2026-04-21 09:56:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #SUSHI from 0.212 to 0.23 USDT  = 8.1 %",
+            "date": "2026-04-22 05:01:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 22/04/2026 11:40:45\n\ud83d\udcc8 **Total Coins:** 560\n\ud83d\udcca **Average Rate:** `0.0061%`\n\n\ud83d\udfe2 **Positive Funding:** 483\n\ud83d\udd34 **Negative Funding:** 77\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #CLOUSDT: `0.1722%`\n  2. #BROCCOLIF3BUSDT: `0.1247%`\n  3. #GUAUSDT: `0.1201%`\n  4. #ARIAUSDT: `0.1004%`\n  5. #GTCUSDT: `0.0996%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #CUSDT: `-0.1014%`\n  2. #AXLUSDT: `-0.094%`\n  3. #METUSDT: `-0.0902%`\n  4. #KERNELUSDT: `-0.0821%`\n  5. #WLDUSDT: `-0.0664%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-22 04:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZAMA****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)]",
+            "date": "2026-04-22 05:00:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ATOM****/USDT (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/ATOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATOMUSDT)",
+            "date": "2026-04-22 05:03:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**KNC/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**146.77K KNC** have been bought\n\ud83d\udcb0Price: 0.143 USDT (**-0.83%**)\n\ud83d\udea8Order Size: **21,131 USDT** (**5.69%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **371.23K** USDT",
+            "date": "2026-04-22 02:15:59+00:00"
         }
     ]
 }
