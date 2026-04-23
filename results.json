@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T21:08:09.853390",
+    "timestamp": "2026-04-23T21:58:08.609242",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -865,6 +865,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ORDI****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
             "date": "2026-04-23 21:05:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #DEGO from 0.118 to 0.108 USDT  = -8.47 %",
+            "date": "2026-04-23 21:46:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$W****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/W_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WUSDT)]",
+            "date": "2026-04-23 21:55:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNC****/USDT (30m)** Extreme Overbought level reached\nRSI: 81.43 | [Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)",
+            "date": "2026-04-23 21:57:01+00:00"
         }
     ]
 }
