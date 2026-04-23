@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T23:56:49.836491",
+    "timestamp": "2026-04-23T01:19:25.065257",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -620,6 +620,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ASTER****/USDT (30m)** Oversold level reached\nRSI: 29.06 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
             "date": "2026-04-22 23:52:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #FIO from 0.00085 to 0.00092 USDT  = 8.24 %",
+            "date": "2026-04-23 01:16:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 23/04/2026 07:40:45\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0014%`\n\n\ud83d\udfe2 **Positive Funding:** 404\n\ud83d\udd34 **Negative Funding:** 158\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #AGTUSDT: `0.126%`\n  2. #UBUSDT: `0.1231%`\n  3. #VELVETUSDT: `0.0997%`\n  4. #XMRUSDT: `0.0783%`\n  5. #MAGMAUSDT: `0.0717%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #AXLUSDT: `-0.1963%`\n  2. #GUNUSDT: `-0.1892%`\n  3. #ONTUSDT: `-0.1216%`\n  4. #SOONUSDT: `-0.1203%`\n  5. #BIOUSDT: `-0.1199%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-23 00:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SOL****/BTC (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SOL_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLBTC)]",
+            "date": "2026-04-23 01:10:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETC****/USDT (30m)** Oversold level reached\nRSI: 29.88 | [Binance](https://www.binance.com/en/trade/ETC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETCUSDT)",
+            "date": "2026-04-23 01:19:05+00:00"
         }
     ]
 }
