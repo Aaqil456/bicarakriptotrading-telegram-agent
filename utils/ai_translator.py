@@ -31,7 +31,6 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "### LINK & SOURCE HANDLING:\n"
         "- STRICTLY REMOVE platform tags and source links.\n"
         "- PURGE call-to-action phrases (e.g., 'Read more').\n"
-        "- Exception: 'ref0, ref1' -> 'SUMBER: 0 1'.\n\n"
         "### OUTPUT RULES:\n"
         "- Return ONLY the translated text.\n"
         f"Text:\n{text}"
