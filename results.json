@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T04:25:23.640483",
+    "timestamp": "2026-04-23T06:21:44.135005",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -660,6 +660,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**BIO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**12.57M BIO** have been bought\n\ud83d\udcb0Price: 0.0379 USDT (**16.26%**)\n\ud83d\udea8Order Size: **443,310 USDT** (**5.01%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **8.85M** USDT",
             "date": "2026-04-23 02:03:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #DODO from 0.0171 to 0.0185 USDT  = 8.17 %",
+            "date": "2026-04-23 05:46:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 23/04/2026 11:40:45\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `-0.0012%`\n\n\ud83d\udfe2 **Positive Funding:** 418\n\ud83d\udd34 **Negative Funding:** 144\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #XMRUSDT: `0.072%`\n  2. #VELVETUSDT: `0.0717%`\n  3. #PLAYUSDT: `0.0704%`\n  4. #BASUSDT: `0.0695%`\n  5. #UBUSDT: `0.0679%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #SPKUSDT: `-1.0458%`\n  2. #SOONUSDT: `-0.3019%`\n  3. #BIOUSDC: `-0.2803%`\n  4. #BIOUSDT: `-0.1885%`\n  5. #AXLUSDT: `-0.1654%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-23 04:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ICP****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ICP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)]",
+            "date": "2026-04-23 06:17:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (1h)** Oversold level reached\nRSI: 28.98 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "date": "2026-04-23 06:15:54+00:00"
         }
     ]
 }
