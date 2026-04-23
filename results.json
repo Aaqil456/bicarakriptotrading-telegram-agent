@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T11:02:26.445748",
+    "timestamp": "2026-04-23T12:01:05.020253",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -745,6 +745,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$SPK****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.06 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
             "date": "2026-04-23 11:01:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #TRU from 0.0048 to 0.0044 USDT  = -8.33 %",
+            "date": "2026-04-23 11:46:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BCH****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BCH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)]",
+            "date": "2026-04-23 12:00:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEMI****/USDT (4h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/HEMI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEMIUSDT)",
+            "date": "2026-04-23 11:43:44+00:00"
         }
     ]
 }
