@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T15:26:30.777199",
+    "timestamp": "2026-04-23T16:57:32.795839",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -800,6 +800,31 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**DODO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**5.84M DODO** have been bought\n\ud83d\udcb0Price: 0.0230 USDT (**17.65%**)\n\ud83d\udea8Order Size: **123,531 USDT** (**5.07%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **2.43M** USDT",
             "date": "2026-04-23 15:17:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #ENJ from 0.0573 to 0.0628 USDT  = 9.75 %",
+            "date": "2026-04-23 16:31:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 23/04/2026 23:40:45\n\ud83d\udcc8 **Total Coins:** 563\n\ud83d\udcca **Average Rate:** `0.0023%`\n\n\ud83d\udfe2 **Positive Funding:** 473\n\ud83d\udd34 **Negative Funding:** 90\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #ARIAUSDT: `0.0985%`\n  2. #KOMAUSDT: `0.0978%`\n  3. #BASUSDT: `0.0923%`\n  4. #AIAUSDT: `0.0862%`\n  5. #ATAUSDT: `0.0861%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #MOVRUSDT: `-0.7138%`\n  2. #SPKUSDT: `-0.5243%`\n  3. #SOONUSDT: `-0.3391%`\n  4. #AXLUSDT: `-0.1406%`\n  5. #METISUSDT: `-0.1123%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-23 16:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SHIB****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)]",
+            "date": "2026-04-23 16:56:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SKY****/USDT (30m)** Overbought level reached\nRSI: 71.11 | [Binance](https://www.binance.com/en/trade/SKY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SKYUSDT)",
+            "date": "2026-04-23 16:51:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**REZ/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**4.44M REZ** have been bought\n\ud83d\udcb0Price: 0.00391 USDT (**5.11%**)\n\ud83d\udea8Order Size: **16,979 USDT** (**5.14%**)\n\u23f3Duration: **8 minutes**\n\ud83d\udcca24h Vol: **330.54K** USDT",
+            "date": "2026-04-23 16:14:53+00:00"
         }
     ]
 }
