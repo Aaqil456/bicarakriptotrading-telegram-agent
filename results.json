@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T05:59:37.206967",
+    "timestamp": "2026-04-24T07:55:36.006541",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -960,6 +960,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**THE/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**418.27K THE** have been bought\n\ud83d\udcb0Price: 0.102 USDT (**-0.58%**)\n\ud83d\udea8Order Size: **42,796 USDT** (**5.38%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **795.96K** USDT",
             "date": "2026-04-24 04:36:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 4x DUMP #DEGO from 0.098 to 0.091 USDT  = -7.14 %",
+            "date": "2026-04-24 07:26:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BB****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BBUSDT)]",
+            "date": "2026-04-24 07:53:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVNT****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
+            "date": "2026-04-24 07:39:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**0G/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**490.36K 0G** have been sold\n\ud83d\udcb0Price: 0.572 USDT (**-0.52%**)\n\ud83d\udea8Order Size: **281,948 USDT** (**21.15%**)\n\u23f3Duration: **46 seconds**\n\ud83d\udcca24h Vol: **1.33M** USDT",
+            "date": "2026-04-24 07:44:31+00:00"
         }
     ]
 }
