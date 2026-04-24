@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T15:41:00.911029",
+    "timestamp": "2026-04-24T16:37:31.441137",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1090,6 +1090,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$VANA****/USDT (4h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/VANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)",
             "date": "2026-04-24 15:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #BLUR from 0.0322 to 0.0349 USDT  = 8.42 %",
+            "date": "2026-04-24 16:36:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$APT****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/APT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APTUSDT)]",
+            "date": "2026-04-24 16:36:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BLUR****/USDT (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/BLUR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BLURUSDT)",
+            "date": "2026-04-24 16:36:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**NFP/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.51M NFP** have been bought\n\ud83d\udcb0Price: 0.0168 USDT (**4.48%**)\n\ud83d\udea8Order Size: **25,077 USDT** (**5.74%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **437.21K** USDT",
+            "date": "2026-04-24 16:37:16+00:00"
         }
     ]
 }
