@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T07:55:36.006541",
+    "timestamp": "2026-04-24T09:22:18.705850",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -980,6 +980,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**0G/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**490.36K 0G** have been sold\n\ud83d\udcb0Price: 0.572 USDT (**-0.52%**)\n\ud83d\udea8Order Size: **281,948 USDT** (**21.15%**)\n\u23f3Duration: **46 seconds**\n\ud83d\udcca24h Vol: **1.33M** USDT",
             "date": "2026-04-24 07:44:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #1000SATS from 0.0000141000 to 0.0000153100 USDT  = 8.58 %",
+            "date": "2026-04-24 08:41:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RLUSD****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)]",
+            "date": "2026-04-24 09:18:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVNT****/USDT (30m)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
+            "date": "2026-04-24 09:18:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**AVA/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**61.35K AVA** have been bought\n\ud83d\udcb0Price: 0.254 USDT (**-1.36%**)\n\ud83d\udea8Order Size: **15,592 USDT** (**5.42%**)\n\u23f3Duration: **5 minutes**\n\ud83d\udcca24h Vol: **287.63K** USDT",
+            "date": "2026-04-24 09:16:06+00:00"
         }
     ]
 }
