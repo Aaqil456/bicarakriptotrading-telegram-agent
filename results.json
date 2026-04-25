@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T16:25:51.163697",
+    "timestamp": "2026-04-25T17:06:04.349902",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1525,6 +1525,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
             "date": "2026-04-25 16:22:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #SKL from 0.00774 to 0.00716 USDT  = -7.49 %",
+            "date": "2026-04-25 16:57:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SOL****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SOL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLUSDT)]",
+            "date": "2026-04-25 17:03:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORCA****/USDT (1h)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
+            "date": "2026-04-25 17:05:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/ratio__ \ud83d\udd25 \n\nThe '/ratio' command can be used to check out the **long/short** ratio of any future markets listed on **Binance**. \u2696  \nUse it to see **how much** people are **long or short** and observe if it maybe makes sense to be **contrarian** to the herd. \nThis command can be used on **all markets** available on binance futures, with its given format.\n\n**Command Format:**\n**-** /ratio btcusdt\n**-** /ratio ethusdt 4h\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/ratio__** to try the command now!",
+            "date": "2026-04-25 17:00:02+00:00"
         }
     ]
 }
