@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T18:30:10.180667",
+    "timestamp": "2026-04-25T19:25:59.461183",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1575,6 +1575,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$LUMIA****/USDT (4h)** Extreme Overbought level reached\nRSI: 83.81 | [Binance](https://www.binance.com/en/trade/LUMIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUMIAUSDT)",
             "date": "2026-04-25 18:25:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #MOVR from 2.58 to 2.39 USDT  = -7.22 %",
+            "date": "2026-04-25 19:01:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$IMX****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/IMX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:IMXUSDT)]",
+            "date": "2026-04-25 19:21:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XLM****/USDT (1h)** Oversold level reached\nRSI: 29.66 | [Binance](https://www.binance.com/en/trade/XLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XLMUSDT)",
+            "date": "2026-04-25 19:22:32+00:00"
         }
     ]
 }
