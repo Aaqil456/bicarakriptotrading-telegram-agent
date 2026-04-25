@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T15:52:56.430082",
+    "timestamp": "2026-04-25T16:25:51.163697",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1510,6 +1510,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**SXT/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.9M SXT** have been bought\n\ud83d\udcb0Price: 0.0173 USDT (**0.70%**)\n\ud83d\udea8Order Size: **32,779 USDT** (**5.74%**)\n\u23f3Duration: **2 seconds**\n\ud83d\udcca24h Vol: **571.38K** USDT",
             "date": "2026-04-25 15:46:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #GLMR from 0.0167 to 0.0182 USDT  = 8.98 %",
+            "date": "2026-04-25 16:21:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$VANA****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/VANA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)]",
+            "date": "2026-04-25 16:20:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "date": "2026-04-25 16:22:54+00:00"
         }
     ]
 }
