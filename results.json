@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T11:52:19.619076",
+    "timestamp": "2026-04-26T12:33:14.414954",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1855,6 +1855,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$HBAR****/USDT (1h)** Overbought level reached\nRSI: 71.14 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
             "date": "2026-04-26 11:47:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #GLMR from 0.0188 to 0.0174 USDT  = -7.45 %",
+            "date": "2026-04-26 12:32:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NEIRO****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/NEIRO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NEIROUSDT)]",
+            "date": "2026-04-26 12:32:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BONK****/USDT (30m)** Overbought level reached\nRSI: 70.59 | [Binance](https://www.binance.com/en/trade/BONK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)",
+            "date": "2026-04-26 12:16:10+00:00"
         }
     ]
 }
