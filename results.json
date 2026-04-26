@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T03:53:06.429649",
+    "timestamp": "2026-04-26T05:59:20.733503",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1730,6 +1730,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**IQ/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**22.57M IQ** have been bought\n\ud83d\udcb0Price: 0.00122 USDT (**7.01%**)\n\ud83d\udea8Order Size: **26,445 USDT** (**5.15%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **513.88K** USDT",
             "date": "2026-04-26 01:29:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #MINA from 0.0625 to 0.0677 USDT  = 8.32 %",
+            "date": "2026-04-26 05:55:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ETHFI****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ETHFI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ETHFIUSDT)]",
+            "date": "2026-04-26 05:58:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVNT****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.15 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
+            "date": "2026-04-26 05:57:19+00:00"
         }
     ]
 }
