@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T10:26:32.618208",
+    "timestamp": "2026-04-26T11:08:57.529542",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1815,6 +1815,31 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ALGO****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/ALGO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALGOUSDT)",
             "date": "2026-04-26 10:25:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #HIGH from 0.258 to 0.239 USDT  = -7.36 %",
+            "date": "2026-04-26 10:31:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 26/04/2026 18:05:09\n\ud83d\udcc8 **Total Coins:** 560\n\ud83d\udcca **Average Rate:** `0.001%`\n\n\ud83d\udfe2 **Positive Funding:** 474\n\ud83d\udd34 **Negative Funding:** 86\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.2403%`\n  2. #BASUSDT: `0.1099%`\n  3. #AVAAIUSDT: `0.1001%`\n  4. #KOMAUSDT: `0.0978%`\n  5. #AGTUSDT: `0.0776%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.7667%`\n  2. #ORCAUSDT: `-0.5334%`\n  3. #RAYSOLUSDT: `-0.4764%`\n  4. #INJUSDT: `-0.2641%`\n  5. #MINAUSDT: `-0.2498%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-26 11:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FIL****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/FIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FILUSDT)]",
+            "date": "2026-04-26 11:06:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVAX****/USDT (30m)** Overbought level reached\nRSI: 71.78 | [Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)",
+            "date": "2026-04-26 11:05:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SNX/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**69.61K SNX** have been bought\n\ud83d\udcb0Price: 0.308 USDT (**1.65%**)\n\ud83d\udea8Order Size: **21,258 USDT** (**5.16%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **412.3K** USDT",
+            "date": "2026-04-26 11:01:54+00:00"
         }
     ]
 }
