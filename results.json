@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T16:27:22.948196",
+    "timestamp": "2026-04-26T17:07:59.151837",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1955,6 +1955,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 70.73 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
             "date": "2026-04-26 16:22:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #MOVR from 2.42 to 2.25 USDT  = -7.15 %",
+            "date": "2026-04-26 16:55:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BIO****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/BIO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)]",
+            "date": "2026-04-26 17:05:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PLUME****/USDT (30m)** Overbought level reached\nRSI: 70.38 | [Binance](https://www.binance.com/en/trade/PLUME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PLUMEUSDT)",
+            "date": "2026-04-26 16:51:45+00:00"
         }
     ]
 }
