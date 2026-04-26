@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T23:05:07.554720",
+    "timestamp": "2026-04-26T23:53:22.093783",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2100,6 +2100,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$PAXG****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.88 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "date": "2026-04-26 23:01:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #PROM from 2.17 to 2.34 USDT  = 8.27 %",
+            "date": "2026-04-26 23:25:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 06:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0046%`\n\n\ud83d\udfe2 **Positive Funding:** 466\n\ud83d\udd34 **Negative Funding:** 96\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #HOODUSDT: `0.3362%`\n  2. #TSLAUSDT: `0.1639%`\n  3. #AGTUSDT: `0.1578%`\n  4. #1000RATSUSDT: `0.1205%`\n  5. #BASUSDT: `0.1099%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.1964%`\n  2. #AXLUSDT: `-0.1375%`\n  3. #PHBUSDT: `-0.1214%`\n  4. #SPKUSDT: `-0.0954%`\n  5. #ALLUSDT: `-0.091%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-26 23:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$INJ****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/INJ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:INJUSDT)]",
+            "date": "2026-04-26 23:50:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (1h)** Oversold level reached\nRSI: 28.44 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "date": "2026-04-26 23:51:06+00:00"
         }
     ]
 }
