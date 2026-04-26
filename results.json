@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T18:31:54.380505",
+    "timestamp": "2026-04-26T19:29:09.587193",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1995,6 +1995,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$RSR****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/RSR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RSRUSDT)",
             "date": "2026-04-26 18:14:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #CELR from 0.00268 to 0.0029 USDT  = 8.18 %",
+            "date": "2026-04-26 18:56:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 02:05:09\n\ud83d\udcc8 **Total Coins:** 564\n\ud83d\udcca **Average Rate:** `0.004%`\n\n\ud83d\udfe2 **Positive Funding:** 472\n\ud83d\udd34 **Negative Funding:** 92\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #HOODUSDT: `0.1779%`\n  2. #BASUSDT: `0.1099%`\n  3. #1000RATSUSDT: `0.1038%`\n  4. #AVAAIUSDT: `0.1001%`\n  5. #TSLAUSDT: `0.0994%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.3807%`\n  2. #RAYSOLUSDT: `-0.1402%`\n  3. #AXLUSDT: `-0.1375%`\n  4. #ALLUSDT: `-0.091%`\n  5. #SPKUSDT: `-0.0821%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-26 19:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BTC****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)]",
+            "date": "2026-04-26 19:25:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LDO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.26 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
+            "date": "2026-04-26 19:25:20+00:00"
         }
     ]
 }
