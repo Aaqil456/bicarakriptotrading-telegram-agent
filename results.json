@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T12:33:14.414954",
+    "timestamp": "2026-04-26T13:48:32.472219",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1870,6 +1870,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$BONK****/USDT (30m)** Overbought level reached\nRSI: 70.59 | [Binance](https://www.binance.com/en/trade/BONK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)",
             "date": "2026-04-26 12:16:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #MASK from 0.675 to 0.622 USDT  = -7.85 %",
+            "date": "2026-04-26 13:41:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BANANAS31/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)]",
+            "date": "2026-04-26 13:47:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (4h)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "date": "2026-04-26 13:39:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BABY/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.28M BABY** have been sold\n\ud83d\udcb0Price: 0.0156 USDT (**-1.27%**)\n\ud83d\udea8Order Size: **20,043 USDT** (**5.14%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **389.87K** USDT",
+            "date": "2026-04-26 13:37:30+00:00"
         }
     ]
 }
