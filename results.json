@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T15:55:04.546497",
+    "timestamp": "2026-04-26T16:27:22.948196",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1940,6 +1940,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$LDO****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
             "date": "2026-04-26 15:48:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #LDO from 0.4 to 0.433 USDT  = 8.41 %",
+            "date": "2026-04-26 16:00:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ONDO****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)]",
+            "date": "2026-04-26 16:24:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 70.73 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "date": "2026-04-26 16:22:06+00:00"
         }
     ]
 }
