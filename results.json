@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T18:56:01.816266",
+    "timestamp": "2026-04-27T20:03:49.095847",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2300,6 +2300,16 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$PROM****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/PROM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PROMUSDT)",
             "date": "2026-04-27 18:36:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #PYTH from 0.0515 to 0.0478 USDT  = -7.18 %",
+            "date": "2026-04-27 19:30:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TURTLE****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/TURTLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TURTLEUSDT)",
+            "date": "2026-04-27 20:03:24+00:00"
         }
     ]
 }
