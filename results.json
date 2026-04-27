@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T17:44:00.031929",
+    "timestamp": "2026-04-27T18:56:01.816266",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2285,6 +2285,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$OPEN****/USDT (4h)** Overbought level reached\nRSI: 70.56 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
             "date": "2026-04-27 17:41:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #XDB from 0.000169 to 0.000154 USDT  = -8.65 %",
+            "date": "2026-04-27 18:30:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LUNA****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/LUNA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUNAUSDT)]",
+            "date": "2026-04-27 18:52:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PROM****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/PROM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PROMUSDT)",
+            "date": "2026-04-27 18:36:19+00:00"
         }
     ]
 }
