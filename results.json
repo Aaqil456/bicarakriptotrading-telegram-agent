@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T23:58:41.488372",
+    "timestamp": "2026-04-28T02:04:50.089591",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2350,6 +2350,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$CRV****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
             "date": "2026-04-27 23:54:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #DEGO from 0.024 to 0.026 USDT  = 8.33 %",
+            "date": "2026-04-28 01:40:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$U****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/U_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:UUSDT)]",
+            "date": "2026-04-28 02:02:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TURTLE****/USDT (1h)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/TURTLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TURTLEUSDT)",
+            "date": "2026-04-28 02:01:08+00:00"
         }
     ]
 }
