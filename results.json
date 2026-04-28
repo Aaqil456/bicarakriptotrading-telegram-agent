@@ -1,1 +1,353 @@
-
+{
+    "timestamp": "2026-04-28T09:56:57.998516",
+    "messages": [
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #XTZ from 0.36 to 0.389 USDT  = 8.12 %",
+            "id": "262864",
+            "date": "2026-04-28 07:00:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #ACH from 0.00738 to 0.00686 USDT  = -7.05 %",
+            "id": "262865",
+            "date": "2026-04-28 07:05:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #CHR from 0.0207 to 0.0224 USDT  = 8.25 %",
+            "id": "262866",
+            "date": "2026-04-28 07:10:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #API3 from 0.332 to 0.365 USDT  = 9.89 %",
+            "id": "262867",
+            "date": "2026-04-28 07:10:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #EVER from 0.00305 to 0.00282 USDT  = -7.35 %",
+            "id": "262868",
+            "date": "2026-04-28 07:15:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 3x PUMP #APE from 0.173 to 0.188 USDT  = 8.9 %",
+            "id": "262869",
+            "date": "2026-04-28 07:35:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #AXS from 1.54 to 1.43 USDT  = -7.12 %",
+            "id": "262870",
+            "date": "2026-04-28 07:50:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #AMP from 0.000975 to 0.000906 USDT  = -7.08 %",
+            "id": "262871",
+            "date": "2026-04-28 08:20:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #LUNA from 0.0645 to 0.0701 USDT  = 8.68 %",
+            "id": "262872",
+            "date": "2026-04-28 09:10:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #BDX from 0.219 to 0.24 USDT  = 9.78 %",
+            "id": "262873",
+            "date": "2026-04-28 09:20:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\u26a1\ufe0f **Funding-fee alert:**\n\n**\ud83d\udca5 Coin: ****#RAYSOLUSDT**\n**\ud83d\udcca Funding: -0.4939%**\n**\ud83d\udcb0 Price: 0.819**\n\n\ud83d\udccb **Reason:** \ud83d\udcc9 Negative Increase: 0.4989% (from 0.005% \u2192 -0.4939%)\n\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58030",
+            "date": "2026-04-26 03:08:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\u26a1\ufe0f **Funding-fee alert:**\n\n**\ud83d\udca5 Coin: ****#SOMIUSDT**\n**\ud83d\udcca Funding: -0.2181%**\n**\ud83d\udcb0 Price: 0.223**\n\n\ud83d\udccb **Reason:** \ud83d\udcc9 Negative Increase: 0.2231% (from 0.005% \u2192 -0.2181%)\n\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58031",
+            "date": "2026-04-26 03:09:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 26/04/2026 14:05:09\n\ud83d\udcc8 **Total Coins:** 560\n\ud83d\udcca **Average Rate:** `-0.0005%`\n\n\ud83d\udfe2 **Positive Funding:** 469\n\ud83d\udd34 **Negative Funding:** 91\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #BASUSDT: `0.1099%`\n  2. #AVAAIUSDT: `0.1001%`\n  3. #KOMAUSDT: `0.0978%`\n  4. #AGTUSDT: `0.095%`\n  5. #ARIAUSDT: `0.0854%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #ORCAUSDT: `-2%`\n  2. #MINAUSDT: `-0.4329%`\n  3. #RAYSOLUSDT: `-0.2935%`\n  4. #ILVUSDT: `-0.1413%`\n  5. #AXLUSDT: `-0.1375%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58032",
+            "date": "2026-04-26 07:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 26/04/2026 18:05:09\n\ud83d\udcc8 **Total Coins:** 560\n\ud83d\udcca **Average Rate:** `0.001%`\n\n\ud83d\udfe2 **Positive Funding:** 474\n\ud83d\udd34 **Negative Funding:** 86\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.2403%`\n  2. #BASUSDT: `0.1099%`\n  3. #AVAAIUSDT: `0.1001%`\n  4. #KOMAUSDT: `0.0978%`\n  5. #AGTUSDT: `0.0776%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.7667%`\n  2. #ORCAUSDT: `-0.5334%`\n  3. #RAYSOLUSDT: `-0.4764%`\n  4. #INJUSDT: `-0.2641%`\n  5. #MINAUSDT: `-0.2498%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58033",
+            "date": "2026-04-26 11:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 26/04/2026 22:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.001%`\n\n\ud83d\udfe2 **Positive Funding:** 463\n\ud83d\udd34 **Negative Funding:** 99\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.1235%`\n  2. #IRUSDT: `0.1155%`\n  3. #BASUSDT: `0.1099%`\n  4. #AVAAIUSDT: `0.1001%`\n  5. #KOMAUSDT: `0.0978%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-1.098%`\n  2. #MASKUSDT: `-0.3711%`\n  3. #RAYSOLUSDT: `-0.1962%`\n  4. #ORCAUSDT: `-0.1938%`\n  5. #AXLUSDT: `-0.1375%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58034",
+            "date": "2026-04-26 15:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 02:05:09\n\ud83d\udcc8 **Total Coins:** 564\n\ud83d\udcca **Average Rate:** `0.004%`\n\n\ud83d\udfe2 **Positive Funding:** 472\n\ud83d\udd34 **Negative Funding:** 92\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #HOODUSDT: `0.1779%`\n  2. #BASUSDT: `0.1099%`\n  3. #1000RATSUSDT: `0.1038%`\n  4. #AVAAIUSDT: `0.1001%`\n  5. #TSLAUSDT: `0.0994%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.3807%`\n  2. #RAYSOLUSDT: `-0.1402%`\n  3. #AXLUSDT: `-0.1375%`\n  4. #ALLUSDT: `-0.091%`\n  5. #SPKUSDT: `-0.0821%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58035",
+            "date": "2026-04-26 19:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 06:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0046%`\n\n\ud83d\udfe2 **Positive Funding:** 466\n\ud83d\udd34 **Negative Funding:** 96\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #HOODUSDT: `0.3362%`\n  2. #TSLAUSDT: `0.1639%`\n  3. #AGTUSDT: `0.1578%`\n  4. #1000RATSUSDT: `0.1205%`\n  5. #BASUSDT: `0.1099%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.1964%`\n  2. #AXLUSDT: `-0.1375%`\n  3. #PHBUSDT: `-0.1214%`\n  4. #SPKUSDT: `-0.0954%`\n  5. #ALLUSDT: `-0.091%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58036",
+            "date": "2026-04-26 23:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 10:05:09\n\ud83d\udcc8 **Total Coins:** 561\n\ud83d\udcca **Average Rate:** `0.0055%`\n\n\ud83d\udfe2 **Positive Funding:** 476\n\ud83d\udd34 **Negative Funding:** 85\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.1744%`\n  2. #IRUSDT: `0.1219%`\n  3. #HOODUSDT: `0.1132%`\n  4. #BASUSDT: `0.1099%`\n  5. #AGTUSDT: `0.1008%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #AXLUSDT: `-0.1375%`\n  2. #SPKUSDT: `-0.1199%`\n  3. #ALLUSDT: `-0.091%`\n  4. #GUNUSDT: `-0.0804%`\n  5. #BICOUSDT: `-0.0591%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58037",
+            "date": "2026-04-27 03:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 14:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0039%`\n\n\ud83d\udfe2 **Positive Funding:** 435\n\ud83d\udd34 **Negative Funding:** 127\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #IRUSDT: `0.1692%`\n  2. #DAMUSDT: `0.1634%`\n  3. #BASUSDT: `0.1099%`\n  4. #AVAAIUSDT: `0.1001%`\n  5. #KOMAUSDT: `0.0978%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #AXLUSDT: `-0.1375%`\n  2. #SPKUSDT: `-0.1154%`\n  3. #ALLUSDT: `-0.091%`\n  4. #BICOUSDT: `-0.0813%`\n  5. #GUNUSDT: `-0.0804%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58038",
+            "date": "2026-04-27 07:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 18:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.003%`\n\n\ud83d\udfe2 **Positive Funding:** 445\n\ud83d\udd34 **Negative Funding:** 117\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.2864%`\n  2. #AIUSDT: `0.1617%`\n  3. #IRUSDT: `0.1278%`\n  4. #BASUSDT: `0.1099%`\n  5. #AVAAIUSDT: `0.1001%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #HIGHUSDT: `-0.4905%`\n  2. #BICOUSDT: `-0.4895%`\n  3. #AXLUSDT: `-0.1375%`\n  4. #ENJUSDT: `-0.093%`\n  5. #ALLUSDT: `-0.091%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "id": "58039",
+            "date": "2026-04-27 11:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ASTER****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)]",
+            "id": "200201",
+            "date": "2026-04-28 09:30:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BCH****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/BCH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)]",
+            "id": "200202",
+            "date": "2026-04-28 09:30:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ENJ****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ENJ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENJUSDT)]",
+            "id": "200203",
+            "date": "2026-04-28 09:31:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SAND****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SAND_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SANDUSDT)]",
+            "id": "200204",
+            "date": "2026-04-28 09:32:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$UNI****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/UNI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)]",
+            "id": "200205",
+            "date": "2026-04-28 09:32:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BONK****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BONK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)]",
+            "id": "200206",
+            "date": "2026-04-28 09:33:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)]",
+            "id": "200207",
+            "date": "2026-04-28 09:33:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FET****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/FET_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FETUSDT)]",
+            "id": "200208",
+            "date": "2026-04-28 09:34:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BTC****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)]",
+            "id": "200209",
+            "date": "2026-04-28 09:35:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NOT****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/NOT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NOTUSDT)]",
+            "id": "200210",
+            "date": "2026-04-28 09:40:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (1h)** Oversold level reached\nRSI: 29.88 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "359794",
+            "date": "2026-04-28 08:43:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (30m)** Oversold level reached\nRSI: 29.37 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "id": "359795",
+            "date": "2026-04-28 08:44:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GPS****/USDT (30m)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/GPS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GPSUSDT)",
+            "id": "359796",
+            "date": "2026-04-28 09:02:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$USTC****/USDT (30m)** Overbought level reached\nRSI: 70.93 | [Binance](https://www.binance.com/en/trade/USTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:USTCUSDT)",
+            "id": "359797",
+            "date": "2026-04-28 09:02:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "359798",
+            "date": "2026-04-28 09:02:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$USTC****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/USTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:USTCUSDT)",
+            "id": "359799",
+            "date": "2026-04-28 09:07:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNA****/USDT (30m)** Overbought level reached\nRSI: 70.56 | [Binance](https://www.binance.com/en/trade/LUNA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNAUSDT)",
+            "id": "359800",
+            "date": "2026-04-28 09:08:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNA****/USDT (1d)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/LUNA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNAUSDT)",
+            "id": "359801",
+            "date": "2026-04-28 09:09:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNA****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/LUNA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNAUSDT)",
+            "id": "359802",
+            "date": "2026-04-28 09:22:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Extreme Oversold level reached\nRSI: 20.00 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "359803",
+            "date": "2026-04-28 09:38:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "",
+            "id": "3560",
+            "date": "2026-04-22 08:07:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "USDe supply fell $800M (-14%) in 3 days: one of its largest redemptions.\n\nLiquidity is exiting fast, and pressure is spreading across DeFi.\n\n\ud83d\udc49 [Dive into the details.](https://cryptoquant.com/insights/research/69e8da6917b5395c97a10f07-22-April-2026-DeFi-Contagion-Kelp-DAO-rsETH-Hack-Drains-Liquidity-Spiking-Borrow?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=crypto-weekly-report) \n\n@cryptoquant_official",
+            "id": "3562",
+            "date": "2026-04-22 14:31:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Liquidity is not leaving crypto, it is concentrating\n\n\u201cBinance has already cleared $1.09 trillion in trading volume in 2026, and we\u2019re only 112 days into the year. That is a huge number for a market people keep calling weak or bearish.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69e92c5c7c981667c6c2db0d-Liquidity-is-not-leaving-crypto-it-is-concentrating?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=maartunn)\n \nBy [Maartunn](https://cryptoquant.com/profile/u/maartunn?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=maartunn) | @cryptoquant_official",
+            "id": "3563",
+            "date": "2026-04-23 07:46:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "BTC\u2019s Rally Was a Short Squeeze\n\n\u201cAs long as price depends more on derivatives than on solid spot validation, the structure will remain vulnerable to reversal.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69ea28e46aae2d16bb46ebdc-BTCs-Rally-Was-a-Short-Squeeze?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=carmelo-aleman)\n \nBy [Carmelo_Alem\u00e1n](https://cryptoquant.com/profile/u/1JGQZFMZ?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=carmelo-aleman) | @cryptoquant_official",
+            "id": "3567",
+            "date": "2026-04-24 07:46:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bullish Divergence in Ethereum: Active Addresses Hit Record Highs Amid Price Decline\n\n\u201cFrom an on-chain analysis perspective, this glaring divergence implies that Ethereum may currently be undervalued.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69ef24d46aae2d16bb46f242-Bullish-Divergence-in-Ethereum-Active-Addresses-Hit-Record-Highs-Amid-Price-Decl?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=cryptoonchain)\n \nBy [CryptoOnchain](https://cryptoquant.com/profile/u/CryptoOnchain?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=cryptoonchain) | @cryptoquant_official",
+            "id": "3568",
+            "date": "2026-04-27 09:05:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bitcoin\u2019s Sudden Drop Explained \u2014 Structural Downside Driven by Leverage Liquidations\n\n\u201cWeekend market structure played a key role. With reduced participation from institutions and liquidity providers, order books become thin, making prices more sensitive to market orders.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69efcfc47c981667c6c2e47f-Bitcoins-Sudden-Drop-Explained-%E2%80%94-Structural-Downside-Driven-by-Leverage-Liquidat?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin)\n \nBy [XWIN Japan](https://cryptoquant.com/profile/u/xwin?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=xwin) | @cryptoquant_official",
+            "id": "3569",
+            "date": "2026-04-28 07:53:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BABY/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.28M BABY** have been sold\n\ud83d\udcb0Price: 0.0156 USDT (**-1.27%**)\n\ud83d\udea8Order Size: **20,043 USDT** (**5.14%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **389.87K** USDT",
+            "id": "100818",
+            "date": "2026-04-26 13:37:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**AMP/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**50.28M AMP** have been bought\n\ud83d\udcb0Price: 0.00110 USDT (**19.18%**)\n\ud83d\udea8Order Size: **51,704 USDT** (**5.89%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **877.63K** USDT",
+            "id": "100819",
+            "date": "2026-04-26 13:59:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**TUT/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.76M TUT** have been sold\n\ud83d\udcb0Price: 0.0113 USDT (**-0.53%**)\n\ud83d\udea8Order Size: **31,135 USDT** (**9.91%**)\n\u23f3Duration: **8 minutes**\n\ud83d\udcca24h Vol: **314.18K** USDT",
+            "id": "100820",
+            "date": "2026-04-26 21:37:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**WBTC/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.87 WBTC** have been bought\n\ud83d\udcb0Price: 78,356 USDT (**0.65%**)\n\ud83d\udea8Order Size: **223,274 USDT** (**12.49%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **1.79M** USDT",
+            "id": "100821",
+            "date": "2026-04-26 21:55:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**0G/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**448.22K 0G** have been sold\n\ud83d\udcb0Price: 0.611 USDT (**1.66%**)\n\ud83d\udea8Order Size: **284,562 USDT** (**5.00%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **5.69M** USDT",
+            "id": "100822",
+            "date": "2026-04-27 00:27:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DOGS/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**412.31M DOGS** have been bought\n\ud83d\udcb0Price: 0.0000331 USDT (**3.44%**)\n\ud83d\udea8Order Size: **13,558 USDT** (**5.20%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **260.57K** USDT",
+            "id": "100823",
+            "date": "2026-04-27 05:57:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**NOT/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**422.28M NOT** have been sold\n\ud83d\udcb0Price: 0.000521 USDT (**18.41%**)\n\ud83d\udea8Order Size: **220,836 USDT** (**5.01%**)\n\u23f3Duration: **14 minutes**\n\ud83d\udcca24h Vol: **4.41M** USDT",
+            "id": "100824",
+            "date": "2026-04-27 06:03:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RAD/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**118.42K RAD** have been bought\n\ud83d\udcb0Price: 0.255 USDT (**2.82%**)\n\ud83d\udea8Order Size: **29,973 USDT** (**5.02%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **597.37K** USDT",
+            "id": "100825",
+            "date": "2026-04-27 07:09:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**MET/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**207.92K MET** have been bought\n\ud83d\udcb0Price: 0.155 USDT (**0.52%**)\n\ud83d\udea8Order Size: **32,101 USDT** (**5.05%**)\n\u23f3Duration: **7 minutes**\n\ud83d\udcca24h Vol: **635.79K** USDT",
+            "id": "100826",
+            "date": "2026-04-27 15:31:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**REZ/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**7.73M REZ** have been bought\n\ud83d\udcb0Price: 0.00413 USDT (**3.25%**)\n\ud83d\udea8Order Size: **31,685 USDT** (**5.56%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **569.7K** USDT",
+            "id": "100827",
+            "date": "2026-04-28 07:47:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/salamkrypto",
+            "original_text": "This is a testing message to see if two images can be sent together or not",
+            "id": "6",
+            "date": "2026-04-27 13:53:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/salamkrypto",
+            "original_text": "This is a testing message to see if two images can be sent together or not",
+            "id": "8",
+            "date": "2026-04-27 16:15:15+00:00"
+        }
+    ]
+}
