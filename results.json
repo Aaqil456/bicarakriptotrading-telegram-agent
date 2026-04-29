@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T21:49:26.399654",
+    "timestamp": "2026-04-29T22:44:50.441376",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -3486,6 +3486,72 @@
             "original_text": "**$LUNC****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)]",
             "id": "201219",
             "date": "2026-04-29 21:45:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #TKO from 0.0614 to 0.0571 USDT  = -7 %",
+            "id": "263032",
+            "date": "2026-04-29 22:20:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ASTER****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)]",
+            "id": "201229",
+            "date": "2026-04-29 22:30:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$CAKE****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)]",
+            "id": "201230",
+            "date": "2026-04-29 22:30:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PARTI****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)]",
+            "id": "201232",
+            "date": "2026-04-29 22:30:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GIGGLE****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)]",
+            "id": "201235",
+            "date": "2026-04-29 22:30:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DOGE****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/DOGE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOGEUSDT)]",
+            "id": "201237",
+            "date": "2026-04-29 22:34:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$EPIC****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)]",
+            "id": "201238",
+            "date": "2026-04-29 22:35:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CHZ****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.97 | [Binance](https://www.binance.com/en/trade/CHZ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CHZUSDT)",
+            "id": "360506",
+            "date": "2026-04-29 22:00:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.85 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "360507",
+            "date": "2026-04-29 22:05:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNC****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)",
+            "id": "360508",
+            "date": "2026-04-29 22:08:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RLUSD****/USDT (4h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)",
+            "id": "360509",
+            "date": "2026-04-29 22:16:47+00:00"
         }
     ]
 }
