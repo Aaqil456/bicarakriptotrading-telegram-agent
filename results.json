@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T22:15:21.361122",
+    "timestamp": "2026-04-30T23:08:42.512153",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -5082,6 +5082,54 @@
             "original_text": "**$ZAMA****/USDT (30m)** Oversold level reached\nRSI: 29.61 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
             "id": "360740",
             "date": "2026-04-30 22:06:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #DCR from 19.53 to 18.12 USDT  = -7.22 %",
+            "id": "263085",
+            "date": "2026-04-30 23:00:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FLOKI****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/FLOKI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FLOKIUSDT)]",
+            "id": "201964",
+            "date": "2026-04-30 22:37:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$D****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/D_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DUSDT)]",
+            "id": "201970",
+            "date": "2026-04-30 23:01:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORCA****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
+            "id": "360741",
+            "date": "2026-04-30 22:18:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORCA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
+            "id": "360742",
+            "date": "2026-04-30 22:21:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LDO****/USDT (30m)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
+            "id": "360743",
+            "date": "2026-04-30 22:37:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEAR****/USDT (1h)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
+            "id": "360744",
+            "date": "2026-04-30 22:40:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (1h)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "360745",
+            "date": "2026-04-30 22:48:41+00:00"
         }
     ]
 }
