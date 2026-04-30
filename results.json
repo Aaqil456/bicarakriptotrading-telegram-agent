@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T04:53:10.453356",
+    "timestamp": "2026-04-30T07:22:42.935543",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -3858,6 +3858,150 @@
             "original_text": "**$CAKE****/USDT (30m)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
             "id": "360556",
             "date": "2026-04-30 04:37:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #XVS from 2.68 to 2.49 USDT  = -7.09 %",
+            "id": "263048",
+            "date": "2026-04-30 04:50:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #APE from 0.148 to 0.16 USDT  = 8.24 %",
+            "id": "263049",
+            "date": "2026-04-30 06:05:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 5x DUMP #VIC from 0.0571 to 0.0494 USDT  = -13.49 %",
+            "id": "263050",
+            "date": "2026-04-30 07:00:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #POND from 0.00261 to 0.002 USDT  = -23.37 %",
+            "id": "263051",
+            "date": "2026-04-30 07:05:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #QUICK from 0.0113 to 0.0105 USDT  = -7.5 %",
+            "id": "263052",
+            "date": "2026-04-30 07:05:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #NFP from 0.0151 to 0.0129 USDT  = -14.81 %",
+            "id": "263053",
+            "date": "2026-04-30 07:05:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 6x DUMP #VIC from 0.0494 to 0.0431 USDT  = -12.75 %",
+            "id": "263054",
+            "date": "2026-04-30 07:10:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DOGE****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/DOGE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOGEUSDT)]",
+            "id": "201460",
+            "date": "2026-04-30 07:00:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RENDER****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)]",
+            "id": "201461",
+            "date": "2026-04-30 07:00:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HUMA****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/HUMA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HUMAUSDT)]",
+            "id": "201463",
+            "date": "2026-04-30 07:07:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$EDU****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/EDU_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EDUUSDT)]",
+            "id": "201464",
+            "date": "2026-04-30 07:08:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TAO****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/TAO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)]",
+            "id": "201465",
+            "date": "2026-04-30 07:10:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NFP****/USDT (1d)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/NFP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NFPUSDT)]",
+            "id": "201467",
+            "date": "2026-04-30 07:12:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AIXBT****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/AIXBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIXBTUSDT)",
+            "id": "360571",
+            "date": "2026-04-30 06:33:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENSO****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.17 | [Binance](https://www.binance.com/en/trade/ENSO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENSOUSDT)",
+            "id": "360572",
+            "date": "2026-04-30 06:42:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUMIA****/USDT (30m)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/LUMIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUMIAUSDT)",
+            "id": "360573",
+            "date": "2026-04-30 06:59:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOM****/USDT (30m)** Oversold level reached\nRSI: 28.08 | [Binance](https://www.binance.com/en/trade/NOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOMUSDT)",
+            "id": "360574",
+            "date": "2026-04-30 07:00:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "360575",
+            "date": "2026-04-30 07:01:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (1h)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "360576",
+            "date": "2026-04-30 07:06:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NFP****/USDT (30m)** Extreme Oversold level reached\nRSI: 14.23 | [Binance](https://www.binance.com/en/trade/NFP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NFPUSDT)",
+            "id": "360577",
+            "date": "2026-04-30 07:12:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NFP****/USDT (1h)** Extreme Oversold level reached\nRSI: 15.73 | [Binance](https://www.binance.com/en/trade/NFP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NFPUSDT)",
+            "id": "360578",
+            "date": "2026-04-30 07:12:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NFP****/USDT (4h)** Oversold level reached\nRSI: 21.05 | [Binance](https://www.binance.com/en/trade/NFP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NFPUSDT)",
+            "id": "360579",
+            "date": "2026-04-30 07:12:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (1d)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "360580",
+            "date": "2026-04-30 07:17:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ONT/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**595.86K ONT** have been sold\n\ud83d\udcb0Price: 0.0717 USDT (**2.56%**)\n\ud83d\udea8Order Size: **42,298 USDT** (**5.28%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **801.15K** USDT",
+            "id": "100849",
+            "date": "2026-04-30 06:24:17+00:00"
         }
     ]
 }
