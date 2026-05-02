@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T23:58:23.241406",
+    "timestamp": "2026-05-02T01:23:56.964171",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -7182,6 +7182,108 @@
             "original_text": "**$WLD****/USDT (30m)** Oversold level reached\nRSI: 28.53 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
             "id": "361136",
             "date": "2026-05-01 23:29:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #SFP from 0.338 to 0.314 USDT  = -7.04 %",
+            "id": "263160",
+            "date": "2026-05-01 23:55:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #KAVA from 0.0574 to 0.0629 USDT  = 9.56 %",
+            "id": "263161",
+            "date": "2026-05-02 00:10:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #QI from 0.00172 to 0.00189 USDT  = 9.88 %",
+            "id": "263162",
+            "date": "2026-05-02 01:15:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$OPEN****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)]",
+            "id": "202666",
+            "date": "2026-05-02 01:00:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TRB****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/TRB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TRBUSDT)]",
+            "id": "202670",
+            "date": "2026-05-02 01:10:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AR****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/AR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARUSDT)]",
+            "id": "202671",
+            "date": "2026-05-02 01:12:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1h)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "361142",
+            "date": "2026-05-02 00:09:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (30m)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "361143",
+            "date": "2026-05-02 00:17:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAVA****/USDT (4h)** Overbought level reached\nRSI: 73.50 | [Binance](https://www.binance.com/en/trade/KAVA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAVAUSDT)",
+            "id": "361144",
+            "date": "2026-05-02 00:23:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAVA****/USDT (30m)** Extreme Overbought level reached\nRSI: 89.67 | [Binance](https://www.binance.com/en/trade/KAVA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAVAUSDT)",
+            "id": "361145",
+            "date": "2026-05-02 00:23:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAVA****/USDT (1h)** Extreme Overbought level reached\nRSI: 88.87 | [Binance](https://www.binance.com/en/trade/KAVA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAVAUSDT)",
+            "id": "361146",
+            "date": "2026-05-02 00:23:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (1h)** Overbought level reached\nRSI: 70.37 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "361147",
+            "date": "2026-05-02 00:45:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DASH****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/DASH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DASHUSDT)",
+            "id": "361148",
+            "date": "2026-05-02 00:46:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TON****/USDT (30m)** Oversold level reached\nRSI: 27.37 | [Binance](https://www.binance.com/en/trade/TON_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TONUSDT)",
+            "id": "361149",
+            "date": "2026-05-02 00:59:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (1h)** Overbought level reached\nRSI: 70.25 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "id": "361150",
+            "date": "2026-05-02 01:08:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (30m)** Oversold level reached\nRSI: 28.09 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "361151",
+            "date": "2026-05-02 01:15:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**KAVA/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**476.09K KAVA** have been sold\n\ud83d\udcb0Price: 0.0607 USDT (**5.55%**)\n\ud83d\udea8Order Size: **28,350 USDT** (**5.19%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **545.99K** USDT",
+            "id": "100864",
+            "date": "2026-05-02 00:02:52+00:00"
         }
     ]
 }
