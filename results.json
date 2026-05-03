@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-03T16:02:29.547119",
+    "timestamp": "2026-05-03T16:55:31.140702",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -10590,6 +10590,138 @@
             "original_text": "**$PAXG****/USDT (30m)** Overbought level reached\nRSI: 70.42 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "id": "361729",
             "date": "2026-05-03 16:00:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #AI from 0.0226 to 0.0245 USDT  = 8.41 %",
+            "id": "263276",
+            "date": "2026-05-03 16:05:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #REZ from 0.00587 to 0.00535 USDT  = -8.86 %",
+            "id": "263277",
+            "date": "2026-05-03 16:20:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #XCH from 2.04 to 2.32 USDT  = 13.68 %",
+            "id": "263278",
+            "date": "2026-05-03 16:45:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XVG****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/XVG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XVGUSDT)]",
+            "id": "203573",
+            "date": "2026-05-03 16:30:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$APE****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/APE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APEUSDT)]",
+            "id": "203574",
+            "date": "2026-05-03 16:31:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SAHARA****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)]",
+            "id": "203575",
+            "date": "2026-05-03 16:31:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$CYBER****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/CYBER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CYBERUSDT)]",
+            "id": "203577",
+            "date": "2026-05-03 16:39:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AI****/USDT (1h)** Overbought level reached\nRSI: 77.83 | [Binance](https://www.binance.com/en/trade/AI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIUSDT)",
+            "id": "361731",
+            "date": "2026-05-03 16:11:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AI****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.20 | [Binance](https://www.binance.com/en/trade/AI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIUSDT)",
+            "id": "361732",
+            "date": "2026-05-03 16:12:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AI****/USDT (4h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/AI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIUSDT)",
+            "id": "361733",
+            "date": "2026-05-03 16:19:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BB****/USDT (4h)** Overbought level reached\nRSI: 70.57 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
+            "id": "361734",
+            "date": "2026-05-03 16:24:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BB****/USDT (30m)** Overbought level reached\nRSI: 70.76 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
+            "id": "361735",
+            "date": "2026-05-03 16:28:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (30m)** Overbought level reached\nRSI: 70.56 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "361736",
+            "date": "2026-05-03 16:37:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (1h)** Overbought level reached\nRSI: 70.90 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "361737",
+            "date": "2026-05-03 16:38:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (4h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "361738",
+            "date": "2026-05-03 16:38:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.06 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "361739",
+            "date": "2026-05-03 16:38:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.16 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "361740",
+            "date": "2026-05-03 16:45:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**AI/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.68M AI** have been bought\n\ud83d\udcb0Price: 0.0233 USDT (**5.43%**)\n\ud83d\udea8Order Size: **61,095 USDT** (**5.00%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **1.22M** USDT",
+            "id": "100887",
+            "date": "2026-05-03 16:02:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "Stock Earnings Calendar on Discord & Telegram \ud83d\ude80\n\nTrack the upcoming most-important stock earning events directly in your groupchat\n\nStay ahead of market-moving events \u26a1\n\nTry it now \ud83d\udc47\ud83d\udc47\n\nhttps://cointrendzbot.com/features/stocks-earnings-calendar",
+            "id": "100888",
+            "date": "2026-05-03 16:08:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**QKC/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**10.71M QKC** have been sold\n\ud83d\udcb0Price: 0.00309 USDT (**-2.22%**)\n\ud83d\udea8Order Size: **33,496 USDT** (**6.27%**)\n\u23f3Duration: **11 minutes**\n\ud83d\udcca24h Vol: **534.59K** USDT",
+            "id": "100889",
+            "date": "2026-05-03 16:10:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RAD/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**60.82K RAD** have been bought\n\ud83d\udcb0Price: 0.245 USDT (**1.24%**)\n\ud83d\udea8Order Size: **14,807 USDT** (**5.07%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **292.28K** USDT",
+            "id": "100890",
+            "date": "2026-05-03 16:40:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/salamkrypto",
+            "original_text": "Gold Li Holdings Berhad is a property developer specialising in landed residential developments across Muar, Tangkak and Batu Pahat, Johor. The Group has about 47.3 acres across 29 land parcels in Johor, comprising 17 owned parcels and 12 parcels under joint development with third party landowners. Moving forward, the Group plans to strengthen its presence across Muar, Tangkak and Batu Pahat, expand its landbank through acquisitions and joint ventures, and undertake its first high rise residential development in Muar, expected to commence in 2027.\n \nGold Li Holdings Berhad is set to debut on the ACE Market under the Property sector on 18 May 2026. Read the prospectus on Bursa Malaysia website or check out the IPO factsheet at https://bit.ly/IPO_GoldLi\n\n#BursaDigitalResearch #IPOAlert",
+            "id": "15",
+            "date": "2026-05-03 16:27:33+00:00"
         }
     ]
 }
