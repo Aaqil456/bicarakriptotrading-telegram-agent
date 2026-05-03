@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-03T14:37:15.103953",
+    "timestamp": "2026-05-03T15:17:19.359874",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -10422,6 +10422,84 @@
             "original_text": "**$REZ****/USDT (1h)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/REZ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REZUSDT)",
             "id": "361713",
             "date": "2026-05-03 14:34:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #AVA from 0.253 to 0.274 USDT  = 8.02 %",
+            "id": "263268",
+            "date": "2026-05-03 14:40:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #RENDER from 1.68 to 1.81 USDT  = 8.04 %",
+            "id": "263269",
+            "date": "2026-05-03 14:45:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #MAV from 0.0152 to 0.0165 USDT  = 8.91 %",
+            "id": "263270",
+            "date": "2026-05-03 14:55:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #MAV from 0.0165 to 0.0153 USDT  = -7.45 %",
+            "id": "263271",
+            "date": "2026-05-03 15:10:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEN****/USDT (30m)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/ZEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZENUSDT)",
+            "id": "361714",
+            "date": "2026-05-03 14:36:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (1h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "361715",
+            "date": "2026-05-03 14:38:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TST****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/TST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TSTUSDT)",
+            "id": "361716",
+            "date": "2026-05-03 14:44:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BROCCOLI714/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/BROCCOLI714_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BROCCOLI714USDT)",
+            "id": "361717",
+            "date": "2026-05-03 14:44:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARB****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/ARB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARBUSDT)",
+            "id": "361718",
+            "date": "2026-05-03 14:48:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VIRTUAL****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/VIRTUAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VIRTUALUSDT)",
+            "id": "361719",
+            "date": "2026-05-03 15:05:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Overbought level reached\nRSI: 70.92 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "361720",
+            "date": "2026-05-03 15:06:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**MAV/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.38M MAV** have been bought\n\ud83d\udcb0Price: 0.0165 USDT (**5.98%**)\n\ud83d\udea8Order Size: **22,132 USDT** (**5.04%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **438.84K** USDT",
+            "id": "100885",
+            "date": "2026-05-03 14:53:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BAT/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**217.32K BAT** have been bought\n\ud83d\udcb0Price: 0.102 USDT (**0.69%**)\n\ud83d\udea8Order Size: **22,123 USDT** (**5.17%**)\n\u23f3Duration: **11 minutes**\n\ud83d\udcca24h Vol: **427.98K** USDT",
+            "id": "100886",
+            "date": "2026-05-03 15:00:10+00:00"
         }
     ]
 }
