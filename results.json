@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T06:15:28.693913",
+    "timestamp": "2026-05-05T08:37:36.250656",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -13086,6 +13086,132 @@
             "original_text": "**ACE/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**503.43K ACE** have been bought\n\ud83d\udcb0Price: 0.137 USDT (**3.01%**)\n\ud83d\udea8Order Size: **69,143 USDT** (**5.09%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **1.36M** USDT",
             "id": "100910",
             "date": "2026-05-05 05:19:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #BAT from 0.103 to 0.111 USDT  = 8.18 %",
+            "id": "263371",
+            "date": "2026-05-05 06:30:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #STEEM from 0.0631 to 0.0781 USDT  = 23.7 %",
+            "id": "263372",
+            "date": "2026-05-05 06:40:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #STEEM from 0.0781 to 0.067 USDT  = -14.27 %",
+            "id": "263373",
+            "date": "2026-05-05 06:45:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 4x PUMP #RUNE from 0.503 to 0.544 USDT  = 8.15 %",
+            "id": "263374",
+            "date": "2026-05-05 07:45:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #ORDI from 5.37 to 4.97 USDT  = -7.45 %",
+            "id": "263375",
+            "date": "2026-05-05 08:05:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 4x PUMP #TON from 1.71 to 1.85 USDT  = 8.14 %",
+            "id": "263376",
+            "date": "2026-05-05 08:15:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ETC****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ETC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ETCUSDT)]",
+            "id": "204782",
+            "date": "2026-05-05 08:01:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ETH****/BTC (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ETH_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:ETHBTC)]",
+            "id": "204787",
+            "date": "2026-05-05 08:13:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ASTER****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)]",
+            "id": "204791",
+            "date": "2026-05-05 08:24:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ICP****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/ICP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)",
+            "id": "362405",
+            "date": "2026-05-05 08:12:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GALA****/USDT (30m)** Overbought level reached\nRSI: 70.92 | [Binance](https://www.binance.com/en/trade/GALA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GALAUSDT)",
+            "id": "362406",
+            "date": "2026-05-05 08:13:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FLOKI****/USDT (1h)** Overbought level reached\nRSI: 70.48 | [Binance](https://www.binance.com/en/trade/FLOKI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FLOKIUSDT)",
+            "id": "362407",
+            "date": "2026-05-05 08:13:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOGS****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.67 | [Binance](https://www.binance.com/en/trade/DOGS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOGSUSDT)",
+            "id": "362408",
+            "date": "2026-05-05 08:18:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Oversold level reached\nRSI: 29.50 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "362409",
+            "date": "2026-05-05 08:20:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOT****/USDT (1h)** Overbought level reached\nRSI: 70.13 | [Binance](https://www.binance.com/en/trade/NOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOTUSDT)",
+            "id": "362410",
+            "date": "2026-05-05 08:20:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HIVE****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.09 | [Binance](https://www.binance.com/en/trade/HIVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HIVEUSDT)",
+            "id": "362411",
+            "date": "2026-05-05 08:26:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOT****/USDT (30m)** Overbought level reached\nRSI: 70.19 | [Binance](https://www.binance.com/en/trade/NOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOTUSDT)",
+            "id": "362412",
+            "date": "2026-05-05 08:27:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RUNE****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.34 | [Binance](https://www.binance.com/en/trade/RUNE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RUNEUSDT)",
+            "id": "362413",
+            "date": "2026-05-05 08:27:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Deconstructing April\u2019s Recovery \u2014 The Divergence in Supply-Demand Structure Between Bitcoin and Ethereum\n\n\u201cIf ETH begins to show sustained spot demand similar to BTC, broader altcoin participation may follow. Until then, Bitcoin dominance is likely to persist.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69f917f374e3a32a7dd4bc85-Deconstructing-Aprils-Recovery-%E2%80%94-The-Divergence-in-Supply-Demand-Structure-Betwe?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin)\n \nBy [XWIN Japan](https://cryptoquant.com/profile/u/xwin?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=xwin) | @cryptoquant_official",
+            "id": "3580",
+            "date": "2026-05-05 07:16:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**2Z/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**193.06K 2Z** have been sold\n\ud83d\udcb0Price: 0.0903 USDT (**1.87%**)\n\ud83d\udea8Order Size: **17,273 USDT** (**5.16%**)\n\u23f3Duration: **5 minutes**\n\ud83d\udcca24h Vol: **334.92K** USDT",
+            "id": "100911",
+            "date": "2026-05-05 08:14:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BCH/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.47K BCH** have been sold\n\ud83d\udcb0Price: 455.00 USDT (**1.59%**)\n\ud83d\udea8Order Size: **666,770 USDT** (**5.06%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **13.19M** USDT",
+            "id": "100912",
+            "date": "2026-05-05 08:30:30+00:00"
         }
     ]
 }
