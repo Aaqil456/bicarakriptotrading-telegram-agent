@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T17:59:49.482094",
+    "timestamp": "2026-05-06T19:20:40.352187",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -15660,6 +15660,96 @@
             "original_text": "**GLMR/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**896.48K GLMR** have been bought\n\ud83d\udcb0Price: 0.0175 USDT (**1.74%**)\n\ud83d\udea8Order Size: **15,593 USDT** (**5.59%**)\n\u23f3Duration: **21 seconds**\n\ud83d\udcca24h Vol: **279.17K** USDT",
             "id": "100938",
             "date": "2026-05-06 17:13:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ARKM****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ARKM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARKMUSDT)]",
+            "id": "205873",
+            "date": "2026-05-06 18:37:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$2Z/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/2Z_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:2ZUSDT)]",
+            "id": "205874",
+            "date": "2026-05-06 19:00:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MUBARAK****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)]",
+            "id": "205875",
+            "date": "2026-05-06 19:00:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LINEA****/USDT (1d)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/LINEA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LINEAUSDT)]",
+            "id": "205881",
+            "date": "2026-05-06 19:06:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (30m)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "363417",
+            "date": "2026-05-06 18:47:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/BTC (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
+            "id": "363418",
+            "date": "2026-05-06 18:56:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (1h)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "363419",
+            "date": "2026-05-06 18:58:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Overbought level reached\nRSI: 70.40 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "363420",
+            "date": "2026-05-06 18:58:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORCA****/USDT (1h)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
+            "id": "363421",
+            "date": "2026-05-06 19:00:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INIT****/USDT (30m)** Overbought level reached\nRSI: 70.54 | [Binance](https://www.binance.com/en/trade/INIT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INITUSDT)",
+            "id": "363422",
+            "date": "2026-05-06 19:00:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PROM****/USDT (1h)** Overbought level reached\nRSI: 71.13 | [Binance](https://www.binance.com/en/trade/PROM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PROMUSDT)",
+            "id": "363423",
+            "date": "2026-05-06 19:03:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FF****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/FF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FFUSDT)",
+            "id": "363424",
+            "date": "2026-05-06 19:09:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FF****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/FF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FFUSDT)",
+            "id": "363425",
+            "date": "2026-05-06 19:11:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/BTC (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
+            "id": "363426",
+            "date": "2026-05-06 19:12:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PSG/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**25.98K PSG** have been bought\n\ud83d\udcb0Price: 0.828 USDT (**6.70%**)\n\ud83d\udea8Order Size: **21,140 USDT** (**5.57%**)\n\u23f3Duration: **14 minutes**\n\ud83d\udcca24h Vol: **379.44K** USDT",
+            "id": "100939",
+            "date": "2026-05-06 19:09:53+00:00"
         }
     ]
 }
