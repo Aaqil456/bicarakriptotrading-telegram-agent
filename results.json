@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-09T23:04:11.574536",
+    "timestamp": "2026-05-09T23:57:17.692669",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -21342,6 +21342,42 @@
             "original_text": "**$UNI****/USDT (30m)** Overbought level reached\nRSI: 70.76 | [Binance](https://www.binance.com/en/trade/UNI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)",
             "id": "364985",
             "date": "2026-05-09 22:42:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #ONE from 0.00265 to 0.00246 USDT  = -7.17 %",
+            "id": "263885",
+            "date": "2026-05-09 23:25:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #BAR from 0.442 to 0.478 USDT  = 8.14 %",
+            "id": "263886",
+            "date": "2026-05-09 23:25:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (1h)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "364986",
+            "date": "2026-05-09 23:05:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANA****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/BANANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAUSDT)",
+            "id": "364987",
+            "date": "2026-05-09 23:54:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "364988",
+            "date": "2026-05-09 23:55:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (30m)** Overbought level reached\nRSI: 70.37 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "364989",
+            "date": "2026-05-09 23:55:19+00:00"
         }
     ]
 }
