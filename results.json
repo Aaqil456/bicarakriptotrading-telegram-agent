@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T11:31:21.762441",
+    "timestamp": "2026-05-10T12:08:54.540225",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -22062,6 +22062,24 @@
             "original_text": "**$WAL****/USDT (4h)** Overbought level reached\nRSI: 79.50 | [Binance](https://www.binance.com/en/trade/WAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WALUSDT)",
             "id": "365210",
             "date": "2026-05-10 11:21:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HBAR****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
+            "id": "365211",
+            "date": "2026-05-10 11:49:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (4h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "365212",
+            "date": "2026-05-10 12:01:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PSG****/USDT (1h)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/PSG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PSGUSDT)",
+            "id": "365213",
+            "date": "2026-05-10 12:06:41+00:00"
         }
     ]
 }
