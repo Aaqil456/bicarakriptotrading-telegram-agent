@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T14:11:46.488152",
+    "timestamp": "2026-05-11T16:42:53.622447",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -23868,6 +23868,96 @@
             "original_text": "**SENT/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.33M SENT** have been bought\n\ud83d\udcb0Price: 0.0175 USDT (**0.52%**)\n\ud83d\udea8Order Size: **40,599 USDT** (**6.89%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **588.87K** USDT",
             "id": "101006",
             "date": "2026-05-11 13:03:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MINA****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MINA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MINAUSDT)]",
+            "id": "209657",
+            "date": "2026-05-11 16:19:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LAYER****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/LAYER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LAYERUSDT)]",
+            "id": "209658",
+            "date": "2026-05-11 16:26:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NEO****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/NEO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NEOUSDT)]",
+            "id": "209660",
+            "date": "2026-05-11 16:30:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SKY****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/SKY_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SKYUSDT)]",
+            "id": "209663",
+            "date": "2026-05-11 16:30:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MBL****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MBL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MBLUSDT)]",
+            "id": "209664",
+            "date": "2026-05-11 16:31:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALLO****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)]",
+            "id": "209665",
+            "date": "2026-05-11 16:38:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Oversold level reached\nRSI: 29.66 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "365940",
+            "date": "2026-05-11 15:42:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Oversold level reached\nRSI: 28.71 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "365941",
+            "date": "2026-05-11 15:45:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BABY****/USDT (30m)** Oversold level reached\nRSI: 29.79 | [Binance](https://www.binance.com/en/trade/BABY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BABYUSDT)",
+            "id": "365942",
+            "date": "2026-05-11 15:46:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (1d)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "365943",
+            "date": "2026-05-11 16:00:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (30m)** Oversold level reached\nRSI: 29.47 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "365944",
+            "date": "2026-05-11 16:00:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (30m)** Overbought level reached\nRSI: 71.18 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "id": "365945",
+            "date": "2026-05-11 16:07:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/USDT (30m)** Overbought level reached\nRSI: 70.33 | [Binance](https://www.binance.com/en/trade/BNB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)",
+            "id": "365947",
+            "date": "2026-05-11 16:10:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GTC****/USDT (30m)** Overbought level reached\nRSI: 72.03 | [Binance](https://www.binance.com/en/trade/GTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GTCUSDT)",
+            "id": "365948",
+            "date": "2026-05-11 16:20:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (30m)** Oversold level reached\nRSI: 29.77 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "365949",
+            "date": "2026-05-11 16:26:29+00:00"
         }
     ]
 }
