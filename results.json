@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T21:41:08.257585",
+    "timestamp": "2026-05-11T22:41:43.196985",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -24162,6 +24162,78 @@
             "original_text": "**$THETA****/USDT (1d)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/THETA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:THETAUSDT)",
             "id": "366020",
             "date": "2026-05-11 21:36:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LDO****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/LDO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)]",
+            "id": "209827",
+            "date": "2026-05-11 22:30:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (30m)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "366033",
+            "date": "2026-05-11 22:09:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MOVR****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)",
+            "id": "366034",
+            "date": "2026-05-11 22:09:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "366035",
+            "date": "2026-05-11 22:11:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (30m)** Overbought level reached\nRSI: 71.39 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "id": "366036",
+            "date": "2026-05-11 22:18:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (1d)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "id": "366037",
+            "date": "2026-05-11 22:20:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (30m)** Oversold level reached\nRSI: 28.46 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "id": "366038",
+            "date": "2026-05-11 22:27:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GTC****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/GTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GTCUSDT)",
+            "id": "366039",
+            "date": "2026-05-11 22:32:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAPIEN****/USDT (1h)** Overbought level reached\nRSI: 75.21 | [Binance](https://www.binance.com/en/trade/SAPIEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAPIENUSDT)",
+            "id": "366040",
+            "date": "2026-05-11 22:32:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAPIEN****/USDT (4h)** Overbought level reached\nRSI: 70.63 | [Binance](https://www.binance.com/en/trade/SAPIEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAPIENUSDT)",
+            "id": "366041",
+            "date": "2026-05-11 22:32:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAPIEN****/USDT (1d)** Overbought level reached\nRSI: 74.84 | [Binance](https://www.binance.com/en/trade/SAPIEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAPIENUSDT)",
+            "id": "366042",
+            "date": "2026-05-11 22:32:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**MBOX/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.78M MBOX** have been bought\n\ud83d\udcb0Price: 0.0133 USDT (**2.31%**)\n\ud83d\udea8Order Size: **23,709 USDT** (**5.30%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **447.24K** USDT",
+            "id": "101009",
+            "date": "2026-05-11 21:48:25+00:00"
         }
     ]
 }
