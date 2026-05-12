@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T20:20:58.085230",
+    "timestamp": "2026-05-12T21:46:04.310728",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -25542,6 +25542,114 @@
             "original_text": "**$PARTI****/USDT (30m)** Oversold level reached\nRSI: 29.69 | [Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)",
             "id": "366667",
             "date": "2026-05-12 20:11:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 3x PUMP #EDU from 0.053 to 0.0574 USDT  = 8.3 %",
+            "id": "264169",
+            "date": "2026-05-12 20:30:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #DRESS from 0.000457 to 0.000425 USDT  = -7.02 %",
+            "id": "264170",
+            "date": "2026-05-12 20:45:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #SAGA from 0.0523 to 0.0635 USDT  = 21.48 %",
+            "id": "264171",
+            "date": "2026-05-12 20:45:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #VIC from 0.0708 to 0.0646 USDT  = -8.76 %",
+            "id": "264172",
+            "date": "2026-05-12 20:50:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 3x PUMP #TNSR from 0.046 to 0.0497 USDT  = 8.04 %",
+            "id": "264173",
+            "date": "2026-05-12 20:55:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #SAGA from 0.0635 to 0.0582 USDT  = -8.41 %",
+            "id": "264174",
+            "date": "2026-05-12 21:10:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #NEO from 3.05 to 3.3 USDT  = 8.23 %",
+            "id": "264175",
+            "date": "2026-05-12 21:15:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #SAGA from 0.0582 to 0.0529 USDT  = -9.16 %",
+            "id": "264176",
+            "date": "2026-05-12 21:25:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #SAGA from 0.0529 to 0.0486 USDT  = -8.1 %",
+            "id": "264177",
+            "date": "2026-05-12 21:30:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$THE****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.02 | [Binance](https://www.binance.com/en/trade/THE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:THEUSDT)",
+            "id": "366691",
+            "date": "2026-05-12 21:12:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ACH****/USDT (1h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/ACH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ACHUSDT)",
+            "id": "366692",
+            "date": "2026-05-12 21:19:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEAR****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
+            "id": "366693",
+            "date": "2026-05-12 21:21:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/BTC (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
+            "id": "366694",
+            "date": "2026-05-12 21:27:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (30m)** Overbought level reached\nRSI: 70.67 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "366695",
+            "date": "2026-05-12 21:31:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Overbought level reached\nRSI: 70.25 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "366696",
+            "date": "2026-05-12 21:33:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GMT****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/GMT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GMTUSDT)",
+            "id": "366697",
+            "date": "2026-05-12 21:36:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.06 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "366698",
+            "date": "2026-05-12 21:41:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "366699",
+            "date": "2026-05-12 21:41:48+00:00"
         }
     ]
 }
