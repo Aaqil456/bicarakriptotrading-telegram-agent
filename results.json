@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T22:08:17.387551",
+    "timestamp": "2026-05-13T23:11:11.925487",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -27114,6 +27114,114 @@
             "original_text": "**$MOVE****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/MOVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVEUSDT)",
             "id": "367327",
             "date": "2026-05-13 22:04:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #WLD from 0.276 to 0.257 USDT  = -7.07 %",
+            "id": "264399",
+            "date": "2026-05-13 22:05:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #ADX from 0.0811 to 0.0754 USDT  = -7.03 %",
+            "id": "264400",
+            "date": "2026-05-13 22:10:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #XNO from 0.466 to 0.432 USDT  = -7.3 %",
+            "id": "264401",
+            "date": "2026-05-13 22:20:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #SBETON from 7.47 to 6.95 USDT  = -7.03 %",
+            "id": "264402",
+            "date": "2026-05-13 22:25:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #ATA from 0.0064 to 0.0071 USDT  = 10.94 %",
+            "id": "264403",
+            "date": "2026-05-13 22:50:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #OG from 3.47 to 3.22 USDT  = -7.09 %",
+            "id": "264404",
+            "date": "2026-05-13 23:05:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BNB****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/BNB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)]",
+            "id": "211255",
+            "date": "2026-05-13 22:37:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ROSE****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ROSE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ROSEUSDT)]",
+            "id": "211261",
+            "date": "2026-05-13 23:00:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (30m)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "367329",
+            "date": "2026-05-13 22:05:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FLOKI****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/FLOKI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FLOKIUSDT)",
+            "id": "367330",
+            "date": "2026-05-13 22:05:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (30m)** Oversold level reached\nRSI: 29.77 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "367331",
+            "date": "2026-05-13 22:05:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SXT****/USDT (1h)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/SXT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SXTUSDT)",
+            "id": "367332",
+            "date": "2026-05-13 22:06:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (30m)** Oversold level reached\nRSI: 29.74 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "367333",
+            "date": "2026-05-13 22:06:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ICP****/USDT (30m)** Oversold level reached\nRSI: 28.44 | [Binance](https://www.binance.com/en/trade/ICP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)",
+            "id": "367334",
+            "date": "2026-05-13 22:07:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARKM****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/ARKM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARKMUSDT)",
+            "id": "367335",
+            "date": "2026-05-13 22:42:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (30m)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "367336",
+            "date": "2026-05-13 22:42:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SXT****/USDT (30m)** Oversold level reached\nRSI: 29.75 | [Binance](https://www.binance.com/en/trade/SXT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SXTUSDT)",
+            "id": "367337",
+            "date": "2026-05-13 23:02:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LAYER****/USDT (1h)** Oversold level reached\nRSI: 29.67 | [Binance](https://www.binance.com/en/trade/LAYER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAYERUSDT)",
+            "id": "367338",
+            "date": "2026-05-13 23:02:49+00:00"
         }
     ]
 }
