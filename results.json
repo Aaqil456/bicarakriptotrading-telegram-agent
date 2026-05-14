@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-14T20:49:49.440149",
+    "timestamp": "2026-05-14T21:50:14.509178",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -28554,6 +28554,42 @@
             "original_text": "**$PAXG****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "id": "367773",
             "date": "2026-05-14 20:34:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #ATA from 0.0071 to 0.0066 USDT  = -7.04 %",
+            "id": "264537",
+            "date": "2026-05-14 21:25:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #AI from 0.0301 to 0.0278 USDT  = -7.64 %",
+            "id": "264538",
+            "date": "2026-05-14 21:45:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$W****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/W_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WUSDT)]",
+            "id": "211931",
+            "date": "2026-05-14 21:30:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DUSK****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/DUSK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DUSKUSDT)]",
+            "id": "211932",
+            "date": "2026-05-14 21:30:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DEXE****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)]",
+            "id": "211935",
+            "date": "2026-05-14 21:38:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "367775",
+            "date": "2026-05-14 21:21:54+00:00"
         }
     ]
 }
