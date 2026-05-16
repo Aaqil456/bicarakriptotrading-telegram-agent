@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T16:10:16.578525",
+    "timestamp": "2026-05-16T17:14:22.169523",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -31266,6 +31266,66 @@
             "original_text": "**$CHZ****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/CHZ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CHZUSDT)",
             "id": "368789",
             "date": "2026-05-16 16:06:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #DRESS from 0.00036 to 0.0004 USDT  = 10.97 %",
+            "id": "264906",
+            "date": "2026-05-16 16:40:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #DRESS from 0.0004 to 0.000346 USDT  = -13.32 %",
+            "id": "264907",
+            "date": "2026-05-16 16:55:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #DRESS from 0.000346 to 0.000376 USDT  = 8.58 %",
+            "id": "264908",
+            "date": "2026-05-16 17:00:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AMP****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/AMP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AMPUSDT)]",
+            "id": "212993",
+            "date": "2026-05-16 16:11:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AMP****/USDT (1d)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/AMP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AMPUSDT)]",
+            "id": "212994",
+            "date": "2026-05-16 16:13:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$POLYX****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/POLYX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:POLYXUSDT)]",
+            "id": "212998",
+            "date": "2026-05-16 17:00:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (30m)** Oversold level reached\nRSI: 29.01 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "368790",
+            "date": "2026-05-16 16:34:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Oversold level reached\nRSI: 29.78 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "368791",
+            "date": "2026-05-16 16:43:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (1h)** Oversold level reached\nRSI: 29.62 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "368792",
+            "date": "2026-05-16 16:43:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/hmap__ \ud83d\udd25 \n\nThe '/hmap' command can be used to display a **cryptocurrency heatmap**. \ud83d\udcc8\ud83d\udcc9\nQuickly **visualize** which the biggest market movers and losers in the crypto space. You can display up to **500 coins** sorted by marketcap and **multiple timeframes.** \ud83d\udcca\nThis command uses coins listed on coingecko, ordered by marketcap.\n\n**Command Format:**\n**-** /hmap 100 1w\n**-** /hmap 250\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/hmap__** to try the command now!",
+            "id": "101054",
+            "date": "2026-05-16 17:00:02+00:00"
         }
     ]
 }
