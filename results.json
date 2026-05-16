@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T17:14:22.169523",
+    "timestamp": "2026-05-16T18:05:52.355429",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -31326,6 +31326,54 @@
             "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/hmap__ \ud83d\udd25 \n\nThe '/hmap' command can be used to display a **cryptocurrency heatmap**. \ud83d\udcc8\ud83d\udcc9\nQuickly **visualize** which the biggest market movers and losers in the crypto space. You can display up to **500 coins** sorted by marketcap and **multiple timeframes.** \ud83d\udcca\nThis command uses coins listed on coingecko, ordered by marketcap.\n\n**Command Format:**\n**-** /hmap 100 1w\n**-** /hmap 250\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/hmap__** to try the command now!",
             "id": "101054",
             "date": "2026-05-16 17:00:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #PHB from 0.082 to 0.09 USDT  = 9.76 %",
+            "id": "264909",
+            "date": "2026-05-16 17:25:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #MLN from 2.46 to 2.66 USDT  = 8.13 %",
+            "id": "264910",
+            "date": "2026-05-16 17:30:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ICP****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ICP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)]",
+            "id": "213000",
+            "date": "2026-05-16 17:13:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NMR****/USDT (30m)** Overbought level reached\nRSI: 70.76 | [Binance](https://www.binance.com/en/trade/NMR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NMRUSDT)",
+            "id": "368793",
+            "date": "2026-05-16 17:15:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (1h)** Extreme Oversold level reached\nRSI: 19.65 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "368794",
+            "date": "2026-05-16 17:15:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RLUSD****/USDT (30m)** Oversold level reached\nRSI: 23.28 | [Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)",
+            "id": "368795",
+            "date": "2026-05-16 17:18:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Extreme Oversold level reached\nRSI: 19.35 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "368796",
+            "date": "2026-05-16 17:22:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NMR****/USDT (1h)** Overbought level reached\nRSI: 73.47 | [Binance](https://www.binance.com/en/trade/NMR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NMRUSDT)",
+            "id": "368797",
+            "date": "2026-05-16 17:53:06+00:00"
         }
     ]
 }
