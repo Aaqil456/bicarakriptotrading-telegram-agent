@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T10:55:54.666179",
+    "timestamp": "2026-05-16T11:42:07.885637",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -30924,6 +30924,66 @@
             "original_text": "**$SEI****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.80 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
             "id": "368718",
             "date": "2026-05-16 10:48:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 5x PUMP #BDX from 0.264 to 0.291 USDT  = 10.34 %",
+            "id": "264890",
+            "date": "2026-05-16 11:00:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #DUSK from 0.149 to 0.137 USDT  = -7.61 %",
+            "id": "264891",
+            "date": "2026-05-16 11:10:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #OSMO from 0.0723 to 0.0782 USDT  = 8.16 %",
+            "id": "264892",
+            "date": "2026-05-16 11:10:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #BDX from 0.291 to 0.271 USDT  = -7.05 %",
+            "id": "264893",
+            "date": "2026-05-16 11:30:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #BAR from 0.448 to 0.415 USDT  = -7.37 %",
+            "id": "264894",
+            "date": "2026-05-16 11:30:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GPS****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/GPS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GPSUSDT)]",
+            "id": "212865",
+            "date": "2026-05-16 11:39:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$QNT****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/QNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:QNTUSDT)",
+            "id": "368719",
+            "date": "2026-05-16 11:17:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (30m)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "368720",
+            "date": "2026-05-16 11:30:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DASH****/USDT (30m)** Oversold level reached\nRSI: 29.67 | [Binance](https://www.binance.com/en/trade/DASH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DASHUSDT)",
+            "id": "368721",
+            "date": "2026-05-16 11:33:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AEVO****/USDT (30m)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/AEVO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AEVOUSDT)",
+            "id": "368722",
+            "date": "2026-05-16 11:39:48+00:00"
         }
     ]
 }
