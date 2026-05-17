@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-17T19:25:13.030391",
+    "timestamp": "2026-05-17T20:11:49.943068",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -32916,6 +32916,24 @@
             "original_text": "**GLMR/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**880.07K GLMR** have been bought\n\ud83d\udcb0Price: 0.0155 USDT (**1.31%**)\n\ud83d\udea8Order Size: **13,692 USDT** (**5.22%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **262.55K** USDT",
             "id": "101062",
             "date": "2026-05-17 18:28:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XLM****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/XLM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XLMUSDT)]",
+            "id": "213527",
+            "date": "2026-05-17 20:00:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AI****/USDT (30m)** Oversold level reached\nRSI: 29.63 | [Binance](https://www.binance.com/en/trade/AI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIUSDT)",
+            "id": "369109",
+            "date": "2026-05-17 19:30:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "369110",
+            "date": "2026-05-17 20:06:32+00:00"
         }
     ]
 }
