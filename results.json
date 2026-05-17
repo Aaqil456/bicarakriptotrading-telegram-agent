@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-17T17:13:23.175615",
+    "timestamp": "2026-05-17T18:11:10.904274",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -32784,6 +32784,102 @@
             "original_text": "**$FIL****/USDT (30m)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
             "id": "369090",
             "date": "2026-05-17 17:01:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #ACH from 0.00764 to 0.0071 USDT  = -7.07 %",
+            "id": "264971",
+            "date": "2026-05-17 17:35:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SHELL****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/SHELL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SHELLUSDT)]",
+            "id": "213459",
+            "date": "2026-05-17 17:31:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$KAITO****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)]",
+            "id": "213461",
+            "date": "2026-05-17 17:35:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FIDA****/USDT (1d)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)]",
+            "id": "213463",
+            "date": "2026-05-17 17:40:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORCA****/USDT (30m)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
+            "id": "369095",
+            "date": "2026-05-17 17:31:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (4h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "369096",
+            "date": "2026-05-17 17:32:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PEPE****/USDT (30m)** Oversold level reached\nRSI: 29.47 | [Binance](https://www.binance.com/en/trade/PEPE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PEPEUSDT)",
+            "id": "369097",
+            "date": "2026-05-17 17:32:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (4h)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "369098",
+            "date": "2026-05-17 17:32:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "369099",
+            "date": "2026-05-17 17:39:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (30m)** Oversold level reached\nRSI: 26.46 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "369100",
+            "date": "2026-05-17 17:41:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (1h)** Oversold level reached\nRSI: 25.14 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "369101",
+            "date": "2026-05-17 17:41:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Oversold level reached\nRSI: 28.75 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "369102",
+            "date": "2026-05-17 17:45:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AI****/USDT (30m)** Oversold level reached\nRSI: 28.64 | [Binance](https://www.binance.com/en/trade/AI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIUSDT)",
+            "id": "369103",
+            "date": "2026-05-17 17:59:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAIA****/USDT (30m)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/KAIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAIAUSDT)",
+            "id": "369104",
+            "date": "2026-05-17 18:03:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**FIDA/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.41M FIDA** have been bought\n\ud83d\udcb0Price: 0.0172 USDT (**1.35%**)\n\ud83d\udea8Order Size: **24,164 USDT** (**5.34%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **452.13K** USDT",
+            "id": "101060",
+            "date": "2026-05-17 17:18:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DOLO/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**441.93K DOLO** have been sold\n\ud83d\udcb0Price: 0.0334 USDT (**1.98%**)\n\ud83d\udea8Order Size: **14,690 USDT** (**6.13%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **239.76K** USDT",
+            "id": "101061",
+            "date": "2026-05-17 17:40:07+00:00"
         }
     ]
 }
