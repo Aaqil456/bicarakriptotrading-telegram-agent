@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-18T14:39:42.655595",
+    "timestamp": "2026-05-18T17:20:51.850424",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -33492,6 +33492,78 @@
             "original_text": "**$ETH****/BTC (4h)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
             "id": "369538",
             "date": "2026-05-18 14:35:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (1h)** Overbought level reached\nRSI: 74.59 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "369587",
+            "date": "2026-05-18 15:53:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CAKE****/USDT (30m)** Oversold level reached\nRSI: 29.59 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
+            "id": "369588",
+            "date": "2026-05-18 16:00:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DYM****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/DYM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DYMUSDT)",
+            "id": "369589",
+            "date": "2026-05-18 16:08:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DYM****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.10 | [Binance](https://www.binance.com/en/trade/DYM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DYMUSDT)",
+            "id": "369590",
+            "date": "2026-05-18 16:11:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PARTI****/USDT (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)",
+            "id": "369591",
+            "date": "2026-05-18 16:26:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BABY****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.05 | [Binance](https://www.binance.com/en/trade/BABY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BABYUSDT)",
+            "id": "369592",
+            "date": "2026-05-18 16:31:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "369593",
+            "date": "2026-05-18 16:41:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (4h)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "369594",
+            "date": "2026-05-18 16:57:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DYM****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/DYM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DYMUSDT)",
+            "id": "369595",
+            "date": "2026-05-18 17:04:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAHARA****/USDT (1h)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)",
+            "id": "369596",
+            "date": "2026-05-18 17:08:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Reading the Bitcoin Bottom via HODL Waves\n\n\u201cOur predicted price range for this cycle's bottom is $65.9K\u2013$70.5K. If $70.5K holds, we\u2019ll slowly grind out a bottom in the upper range.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a0746c92f49764f5f1f3bec-Reading-the-Bitcoin-Bottom-via-HODL-Waves?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=sunnymom)\n \nBy [Sunny Mom](https://cryptoquant.com/profile/u/Sunny_Mom?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=sunnymom) | @cryptoquant_official",
+            "id": "3607",
+            "date": "2026-05-18 14:40:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SOMI/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**137.88K SOMI** have been bought\n\ud83d\udcb0Price: 0.157 USDT (**-0.76%**)\n\ud83d\udea8Order Size: **21,663 USDT** (**5.32%**)\n\u23f3Duration: **5 minutes**\n\ud83d\udcca24h Vol: **407.37K** USDT",
+            "id": "101070",
+            "date": "2026-05-18 15:01:58+00:00"
         }
     ]
 }
