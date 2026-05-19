@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-19T05:47:23.094810",
+    "timestamp": "2026-05-19T08:48:48.208732",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -34032,6 +34032,78 @@
             "original_text": "**$MBOX****/USDT (4h)** Overbought level reached\nRSI: 70.73 | [Binance](https://www.binance.com/en/trade/MBOX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MBOXUSDT)",
             "id": "369731",
             "date": "2026-05-19 05:30:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SENT****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/SENT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SENTUSDT)]",
+            "id": "214565",
+            "date": "2026-05-19 08:32:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (1h)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "369747",
+            "date": "2026-05-19 07:24:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BOME****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/BOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BOMEUSDT)",
+            "id": "369748",
+            "date": "2026-05-19 07:32:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.10 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "369749",
+            "date": "2026-05-19 07:36:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "369750",
+            "date": "2026-05-19 07:44:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONT****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/ONT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ONTUSDT)",
+            "id": "369751",
+            "date": "2026-05-19 07:46:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BERA****/USDT (30m)** Overbought level reached\nRSI: 70.77 | [Binance](https://www.binance.com/en/trade/BERA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BERAUSDT)",
+            "id": "369752",
+            "date": "2026-05-19 08:01:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MBOX****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/MBOX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MBOXUSDT)",
+            "id": "369753",
+            "date": "2026-05-19 08:02:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (4h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "369754",
+            "date": "2026-05-19 08:04:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONT****/USDT (30m)** Overbought level reached\nRSI: 70.35 | [Binance](https://www.binance.com/en/trade/ONT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ONTUSDT)",
+            "id": "369755",
+            "date": "2026-05-19 08:15:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Oversold level reached\nRSI: 28.47 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "369756",
+            "date": "2026-05-19 08:18:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "16 years ago this week, someone paid 10,000 BTC for two pizzas.\n\nThe chain has evolved. So have the tools to analyze it.\n\nBitcoin Pizza Day sale is live: up to 35% off plans. Ends May 24.\n\n\ud83d\udc49 [Grab your slice.](https://cryptoquant.com/promotion?utm_source=telegram&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day) \n\n@cryptoquant_official",
+            "id": "3608",
+            "date": "2026-05-19 07:51:14+00:00"
         }
     ]
 }
