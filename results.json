@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-21T01:52:16.176020",
+    "timestamp": "2026-05-21T08:55:30.777938",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -35316,6 +35316,72 @@
             "original_text": "**$PENGU****/USDT (30m)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
             "id": "370323",
             "date": "2026-05-21 01:45:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "id": "370434",
+            "date": "2026-05-21 08:08:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEIRO****/USDT (4h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/NEIRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEIROUSDT)",
+            "id": "370435",
+            "date": "2026-05-21 08:08:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$1000CHEEMS/USDT (4h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/1000CHEEMS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:1000CHEEMSUSDT)",
+            "id": "370436",
+            "date": "2026-05-21 08:09:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLD****/USDT (4h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
+            "id": "370437",
+            "date": "2026-05-21 08:11:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.62 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "id": "370438",
+            "date": "2026-05-21 08:12:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "370439",
+            "date": "2026-05-21 08:27:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (30m)** Oversold level reached\nRSI: 29.54 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "370440",
+            "date": "2026-05-21 08:27:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPK****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
+            "id": "370441",
+            "date": "2026-05-21 08:28:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (1h)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "370442",
+            "date": "2026-05-21 08:47:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (4h)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "370443",
+            "date": "2026-05-21 08:47:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "**Want on-chain data from CryptoQuant inside Claude?\n**\nSetup takes ~2 mins:\n\n1. Claude \u2192 Customize \u2192 Connectors\n\n2. Add custom connector\n\n3. Name: CryptoQuant\n\n4. URL: `https://mcp.cryptoquant.com/mcp`\n\n5. Connect \u2192 choose API Key or Keyless\n\nDone. Now ask Claude things like:\n\n__\u201cIs BTC exchange inflow rising?\u201d\n__\n[**Now available at up to 35% off.**](https://cryptoquant.com/promotion?utm_source=telegram&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day)** \n**\n@cryptoquant_official",
+            "id": "3616",
+            "date": "2026-05-21 07:48:43+00:00"
         }
     ]
 }
