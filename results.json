@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-21T22:19:40.945310",
+    "timestamp": "2026-05-21T23:20:12.304630",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -35796,6 +35796,36 @@
             "original_text": "**$NEAR****/USDT (30m)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
             "id": "370648",
             "date": "2026-05-21 22:07:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "370649",
+            "date": "2026-05-21 22:25:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOLO****/USDT (1h)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/HOLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOLOUSDT)",
+            "id": "370650",
+            "date": "2026-05-21 22:51:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAIA****/USDT (30m)** Overbought level reached\nRSI: 70.87 | [Binance](https://www.binance.com/en/trade/KAIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAIAUSDT)",
+            "id": "370651",
+            "date": "2026-05-21 22:53:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "370652",
+            "date": "2026-05-21 22:58:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAHARA****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)",
+            "id": "370653",
+            "date": "2026-05-21 23:14:44+00:00"
         }
     ]
 }
