@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T20:51:23.959701",
+    "timestamp": "2026-05-22T21:52:12.286539",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -36336,6 +36336,66 @@
             "original_text": "**$BERA****/USDT (30m)** Oversold level reached\nRSI: 29.56 | [Binance](https://www.binance.com/en/trade/BERA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BERAUSDT)",
             "id": "371087",
             "date": "2026-05-22 20:39:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (30m)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "371088",
+            "date": "2026-05-22 20:50:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEIRO****/USDT (30m)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/NEIRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEIROUSDT)",
+            "id": "371089",
+            "date": "2026-05-22 21:07:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "371090",
+            "date": "2026-05-22 21:09:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MITO****/USDT (30m)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/MITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MITOUSDT)",
+            "id": "371091",
+            "date": "2026-05-22 21:13:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONDO****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)",
+            "id": "371092",
+            "date": "2026-05-22 21:19:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LAYER****/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/LAYER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAYERUSDT)",
+            "id": "371093",
+            "date": "2026-05-22 21:30:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STRK****/USDT (30m)** Oversold level reached\nRSI: 29.65 | [Binance](https://www.binance.com/en/trade/STRK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STRKUSDT)",
+            "id": "371094",
+            "date": "2026-05-22 21:34:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (30m)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "371095",
+            "date": "2026-05-22 21:35:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEN****/USDT (30m)** Oversold level reached\nRSI: 29.79 | [Binance](https://www.binance.com/en/trade/ZEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZENUSDT)",
+            "id": "371096",
+            "date": "2026-05-22 21:37:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "371097",
+            "date": "2026-05-22 21:49:20+00:00"
         }
     ]
 }
