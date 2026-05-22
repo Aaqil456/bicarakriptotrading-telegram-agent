@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T04:42:32.182149",
+    "timestamp": "2026-05-22T08:04:00.561358",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -35928,6 +35928,78 @@
             "original_text": "**$ATOM****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/ATOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATOMUSDT)",
             "id": "370724",
             "date": "2026-05-22 04:38:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SOMI****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/SOMI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SOMIUSDT)]",
+            "id": "216353",
+            "date": "2026-05-22 08:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "id": "216354",
+            "date": "2026-05-22 08:00:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEN****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ZEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZENUSDT)]",
+            "id": "216355",
+            "date": "2026-05-22 08:00:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (30m)** Overbought level reached\nRSI: 70.81 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "370767",
+            "date": "2026-05-22 07:40:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (1h)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "370768",
+            "date": "2026-05-22 07:40:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "370769",
+            "date": "2026-05-22 07:40:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LPT****/USDT (1h)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/LPT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LPTUSDT)",
+            "id": "370771",
+            "date": "2026-05-22 07:49:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (1h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "370772",
+            "date": "2026-05-22 07:50:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PLUME****/USDT (4h)** Overbought level reached\nRSI: 71.72 | [Binance](https://www.binance.com/en/trade/PLUME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PLUMEUSDT)",
+            "id": "370773",
+            "date": "2026-05-22 07:50:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BEAMX****/USDT (4h)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/BEAMX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BEAMXUSDT)",
+            "id": "370774",
+            "date": "2026-05-22 07:53:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "370775",
+            "date": "2026-05-22 07:54:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Most traders watch price.\n\nThe smarter ones watch leverage.\n\nHere\u2019s how to build an automated BTC divergence scanner using CryptoQuant Open Interest data + n8n workflows.\n\nThe workflow monitors whether leverage is rising while price momentum weakens, then automatically sends alerts, logs events, or triggers execution.\n\n**How it works:\n**\n\u25b6 Trigger hourly scans with a Cron node\n\u25b6 Pull BTC Open Interest data\n\u25b6 Calculate 24h OI % change\n\u25b6 Pull BTC price data\n\u25b6 Detect lower highs / weakening structure\n\u25b6 Combine both conditions into a divergence signal\n\u25b6 Send automated Telegram alerts\n\n**Example alert:\n**\nBTC Signal Alert \ud83d\udd14\n\nOpen Interest is rising sharply while price momentum is fading.\n\n\u2022 OI 24h Change: 1.24%\n\u2022 Price 24h Change: 2.4%\n\u2022 BTC Price: $78,200\n\n**Signal: Potential bearish divergence\n**\nWhat you end up with:\n\n\u2192 Hourly BTC divergence scanner\n\u2192 OI + price structure monitoring\n\u2192 Automated Telegram alerts\n\u2192 Optional trade execution / logging workflows\n\nNo more checking charts every hour manually.\n\nGet CryptoQuant API & MCP access.\n\n[**Up to 35% off for Bitcoin Pizza Day.**](https://cryptoquant.com/promotion?utm_source=telegram&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day)**\n**\n@cryptoquant_official",
+            "id": "3625",
+            "date": "2026-05-22 07:24:46+00:00"
         }
     ]
 }
