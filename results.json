@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T08:04:00.561358",
+    "timestamp": "2026-05-22T10:54:57.543295",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -36000,6 +36000,60 @@
             "original_text": "Most traders watch price.\n\nThe smarter ones watch leverage.\n\nHere\u2019s how to build an automated BTC divergence scanner using CryptoQuant Open Interest data + n8n workflows.\n\nThe workflow monitors whether leverage is rising while price momentum weakens, then automatically sends alerts, logs events, or triggers execution.\n\n**How it works:\n**\n\u25b6 Trigger hourly scans with a Cron node\n\u25b6 Pull BTC Open Interest data\n\u25b6 Calculate 24h OI % change\n\u25b6 Pull BTC price data\n\u25b6 Detect lower highs / weakening structure\n\u25b6 Combine both conditions into a divergence signal\n\u25b6 Send automated Telegram alerts\n\n**Example alert:\n**\nBTC Signal Alert \ud83d\udd14\n\nOpen Interest is rising sharply while price momentum is fading.\n\n\u2022 OI 24h Change: 1.24%\n\u2022 Price 24h Change: 2.4%\n\u2022 BTC Price: $78,200\n\n**Signal: Potential bearish divergence\n**\nWhat you end up with:\n\n\u2192 Hourly BTC divergence scanner\n\u2192 OI + price structure monitoring\n\u2192 Automated Telegram alerts\n\u2192 Optional trade execution / logging workflows\n\nNo more checking charts every hour manually.\n\nGet CryptoQuant API & MCP access.\n\n[**Up to 35% off for Bitcoin Pizza Day.**](https://cryptoquant.com/promotion?utm_source=telegram&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day)**\n**\n@cryptoquant_official",
             "id": "3625",
             "date": "2026-05-22 07:24:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PROVE****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/PROVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PROVEUSDT)]",
+            "id": "216431",
+            "date": "2026-05-22 10:31:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALT****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
+            "id": "370824",
+            "date": "2026-05-22 10:04:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Overbought level reached\nRSI: 70.20 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "370825",
+            "date": "2026-05-22 10:04:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LPT****/USDT (30m)** Extreme Overbought level reached\nRSI: 82.53 | [Binance](https://www.binance.com/en/trade/LPT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LPTUSDT)",
+            "id": "370826",
+            "date": "2026-05-22 10:13:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (30m)** Overbought level reached\nRSI: 70.20 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "370827",
+            "date": "2026-05-22 10:20:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (1h)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "370829",
+            "date": "2026-05-22 10:26:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ATOM****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/ATOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATOMUSDT)",
+            "id": "370830",
+            "date": "2026-05-22 10:32:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GRT****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/GRT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GRTUSDT)",
+            "id": "370832",
+            "date": "2026-05-22 10:40:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (1h)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "370833",
+            "date": "2026-05-22 10:40:48+00:00"
         }
     ]
 }
