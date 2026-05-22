@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T13:19:29.953813",
+    "timestamp": "2026-05-22T17:50:19.177849",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -36120,6 +36120,66 @@
             "original_text": "**$EIGEN****/USDT (4h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
             "id": "370909",
             "date": "2026-05-22 13:17:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NIL****/USDT (30m)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
+            "id": "370945",
+            "date": "2026-05-22 15:53:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LPT****/USDT (4h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/LPT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LPTUSDT)",
+            "id": "370946",
+            "date": "2026-05-22 16:04:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "370947",
+            "date": "2026-05-22 16:07:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NIL****/USDT (1h)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
+            "id": "370948",
+            "date": "2026-05-22 16:21:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "370949",
+            "date": "2026-05-22 16:48:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (1h)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "370950",
+            "date": "2026-05-22 17:10:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$COOKIE****/USDT (30m)** Oversold level reached\nRSI: 29.57 | [Binance](https://www.binance.com/en/trade/COOKIE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:COOKIEUSDT)",
+            "id": "370951",
+            "date": "2026-05-22 17:24:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$C****/USDT (4h)** Overbought level reached\nRSI: 70.54 | [Binance](https://www.binance.com/en/trade/C_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CUSDT)",
+            "id": "370952",
+            "date": "2026-05-22 17:32:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "id": "370953",
+            "date": "2026-05-22 17:38:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bitcoin hit a critical resistance level just as spot demand weakened and US spot ETFs turned into net sellers.\n\nThe rally lost its foundation at the exact level where previous bear market rallies failed.\n\n\ud83d\udc49 [Full analysis.](https://cryptoquant.com/insights/research/6a0dd34bf2609c43537774f2-20-May-2026-Resistance-Hit-Bitcoin-Reverses-From-the-200-Day-MA-as-Demand-Contra?utm_source=telegram&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report) \n\n@cryptoquant_official",
+            "id": "3626",
+            "date": "2026-05-22 14:53:56+00:00"
         }
     ]
 }
