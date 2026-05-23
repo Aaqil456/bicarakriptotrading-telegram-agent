@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T11:48:05.636064",
+    "timestamp": "2026-05-23T12:45:26.485305",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -36888,6 +36888,66 @@
             "original_text": "**$WIF****/USDT (1h)** Extreme Oversold level reached\nRSI: 18.96 | [Binance](https://www.binance.com/en/trade/WIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WIFUSDT)",
             "id": "371569",
             "date": "2026-05-23 11:45:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.98 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "371583",
+            "date": "2026-05-23 12:06:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETC****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/ETC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETCUSDT)",
+            "id": "371584",
+            "date": "2026-05-23 12:07:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIL****/USDT (30m)** Oversold level reached\nRSI: 29.72 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
+            "id": "371585",
+            "date": "2026-05-23 12:07:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "371586",
+            "date": "2026-05-23 12:09:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BONK****/USDT (30m)** Oversold level reached\nRSI: 29.01 | [Binance](https://www.binance.com/en/trade/BONK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)",
+            "id": "371587",
+            "date": "2026-05-23 12:09:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$COS****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.49 | [Binance](https://www.binance.com/en/trade/COS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:COSUSDT)",
+            "id": "371588",
+            "date": "2026-05-23 12:12:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "371589",
+            "date": "2026-05-23 12:13:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AIXBT****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/AIXBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AIXBTUSDT)",
+            "id": "371590",
+            "date": "2026-05-23 12:16:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (30m)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "id": "371591",
+            "date": "2026-05-23 12:23:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVNT****/USDT (30m)** Oversold level reached\nRSI: 29.57 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
+            "id": "371592",
+            "date": "2026-05-23 12:32:10+00:00"
         }
     ]
 }
