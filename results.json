@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-24T22:35:07.171787",
+    "timestamp": "2026-05-24T23:36:03.654156",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -38586,6 +38586,30 @@
             "original_text": "**$PAXG****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "id": "372145",
             "date": "2026-05-24 22:06:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$QNT****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/QNT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:QNTUSDT)]",
+            "id": "217996",
+            "date": "2026-05-24 23:30:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "372146",
+            "date": "2026-05-24 22:33:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Oversold level reached\nRSI: 29.79 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "372147",
+            "date": "2026-05-24 22:37:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VIC****/USDT (1h)** Overbought level reached\nRSI: 73.44 | [Binance](https://www.binance.com/en/trade/VIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VICUSDT)",
+            "id": "372148",
+            "date": "2026-05-24 23:28:25+00:00"
         }
     ]
 }
