@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-24T07:34:54.946470",
+    "timestamp": "2026-05-24T09:31:24.368818",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -37836,6 +37836,66 @@
             "original_text": "**$JTO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.08 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
             "id": "371917",
             "date": "2026-05-24 07:28:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SPK****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/SPK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)]",
+            "id": "217675",
+            "date": "2026-05-24 09:15:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$QNT****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/QNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:QNTUSDT)",
+            "id": "371918",
+            "date": "2026-05-24 08:23:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARKM****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/ARKM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARKMUSDT)",
+            "id": "371919",
+            "date": "2026-05-24 08:30:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARKM****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/ARKM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARKMUSDT)",
+            "id": "371920",
+            "date": "2026-05-24 08:30:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (1d)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "371921",
+            "date": "2026-05-24 08:51:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVNT****/USDT (30m)** Overbought level reached\nRSI: 70.13 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
+            "id": "371922",
+            "date": "2026-05-24 08:54:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HUMA****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/HUMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HUMAUSDT)",
+            "id": "371923",
+            "date": "2026-05-24 08:54:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (30m)** Overbought level reached\nRSI: 71.46 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "id": "371924",
+            "date": "2026-05-24 09:19:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (1h)** Overbought level reached\nRSI: 70.38 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "id": "371925",
+            "date": "2026-05-24 09:21:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "371926",
+            "date": "2026-05-24 09:24:54+00:00"
         }
     ]
 }
