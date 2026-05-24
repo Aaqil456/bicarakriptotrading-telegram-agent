@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-24T16:36:58.421073",
+    "timestamp": "2026-05-24T17:35:09.375731",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -38232,6 +38232,60 @@
             "original_text": "**$LPT****/USDT (30m)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/LPT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LPTUSDT)",
             "id": "372024",
             "date": "2026-05-24 16:19:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LPT****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/LPT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LPTUSDT)]",
+            "id": "217856",
+            "date": "2026-05-24 17:26:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "372025",
+            "date": "2026-05-24 16:35:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/BTC (30m)** Overbought level reached\nRSI: 70.31 | [Binance](https://www.binance.com/en/trade/ZEC_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECBTC)",
+            "id": "372026",
+            "date": "2026-05-24 16:59:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "372027",
+            "date": "2026-05-24 17:01:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/BTC (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/ZEC_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECBTC)",
+            "id": "372028",
+            "date": "2026-05-24 17:07:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "372029",
+            "date": "2026-05-24 17:07:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (1h)** Overbought level reached\nRSI: 70.85 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "372030",
+            "date": "2026-05-24 17:12:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Overbought level reached\nRSI: 73.33 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "372031",
+            "date": "2026-05-24 17:12:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "60% of CryptoQuant Verified Authors are bearish \ud83d\udd34\n\nFound that in 5 seconds with CryptoQuant Ask AI. \n\nAsk anything about on-chain data, get instant answers.\n\nMetrics, whale flows, market summaries, platform help. Just ask.\n\n[**Get more Ask AI + every on-chain metric \u2014 35% off today for Bitcoin Pizza Day Sale.**](https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day)** **\n\nOffer ends tonight! **\n**\n@cryptoquant_official",
+            "id": "3627",
+            "date": "2026-05-24 17:14:01+00:00"
         }
     ]
 }
