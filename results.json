@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T06:07:00.726680",
+    "timestamp": "2026-05-25T10:44:41.532235",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -38730,6 +38730,78 @@
             "original_text": "**$DOGS****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.92 | [Binance](https://www.binance.com/en/trade/DOGS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOGSUSDT)",
             "id": "372182",
             "date": "2026-05-25 05:37:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FLUX****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/FLUX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FLUXUSDT)]",
+            "id": "218209",
+            "date": "2026-05-25 10:27:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MORPHO****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/MORPHO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MORPHOUSDT)",
+            "id": "372231",
+            "date": "2026-05-25 10:10:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVAX****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)",
+            "id": "372232",
+            "date": "2026-05-25 10:12:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAGA****/USDT (4h)** Overbought level reached\nRSI: 70.20 | [Binance](https://www.binance.com/en/trade/SAGA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAGAUSDT)",
+            "id": "372233",
+            "date": "2026-05-25 10:15:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEN****/USDT (30m)** Overbought level reached\nRSI: 70.66 | [Binance](https://www.binance.com/en/trade/ZEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZENUSDT)",
+            "id": "372234",
+            "date": "2026-05-25 10:15:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (30m)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "id": "372235",
+            "date": "2026-05-25 10:16:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$API3/USDT (1h)** Overbought level reached\nRSI: 70.42 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
+            "id": "372236",
+            "date": "2026-05-25 10:17:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (30m)** Overbought level reached\nRSI: 70.39 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "372237",
+            "date": "2026-05-25 10:17:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NIL****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
+            "id": "372238",
+            "date": "2026-05-25 10:23:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NIL****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
+            "id": "372239",
+            "date": "2026-05-25 10:23:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "372240",
+            "date": "2026-05-25 10:28:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bitcoin Demand has Fallen to Its Most Bearish Level of the Year\n\n\u201cEven if this situation appears relatively bearish in the short term, these types of environments have historically also created interesting opportunities for long term investors\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a1340412f49764f5f1f4ad2-Bitcoin-Demand-has-fallen-to-Its-most-Bearish-level-of-the-year?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost)\n \nBy [DarkFost](https://cryptoquant.com/profile/u/Darkfost?tab=dashboard&utm_source=twitter&utm_medium=sns&utm_campaign=profile&utm_content=darkfost) | @cryptoquant_official",
+            "id": "3628",
+            "date": "2026-05-25 08:22:16+00:00"
         }
     ]
 }
