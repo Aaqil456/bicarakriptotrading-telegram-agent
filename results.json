@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T22:45:50.761461",
+    "timestamp": "2026-05-25T23:45:44.556600",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -39192,6 +39192,24 @@
             "original_text": "**$ALT****/USDT (1h)** Oversold level reached\nRSI: 27.82 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
             "id": "372456",
             "date": "2026-05-25 22:38:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HIVE****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/HIVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HIVEUSDT)]",
+            "id": "218484",
+            "date": "2026-05-25 23:30:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MITO****/USDT (30m)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/MITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MITOUSDT)",
+            "id": "372457",
+            "date": "2026-05-25 23:00:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALLO****/USDT (30m)** Oversold level reached\nRSI: 28.88 | [Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)",
+            "id": "372458",
+            "date": "2026-05-25 23:07:13+00:00"
         }
     ]
 }
