@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-26T19:37:26.006745",
+    "timestamp": "2026-05-26T21:15:54.003824",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -39696,6 +39696,66 @@
             "original_text": "**$EDEN****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
             "id": "372826",
             "date": "2026-05-26 19:33:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RIF****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/RIF_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)]",
+            "id": "218947",
+            "date": "2026-05-26 21:04:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TON****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/TON_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TONUSDT)",
+            "id": "372827",
+            "date": "2026-05-26 19:50:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HIGH****/USDT (30m)** Oversold level reached\nRSI: 29.24 | [Binance](https://www.binance.com/en/trade/HIGH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HIGHUSDT)",
+            "id": "372828",
+            "date": "2026-05-26 20:03:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.77 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "372829",
+            "date": "2026-05-26 20:31:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HIGH****/USDT (1h)** Oversold level reached\nRSI: 29.43 | [Binance](https://www.binance.com/en/trade/HIGH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HIGHUSDT)",
+            "id": "372831",
+            "date": "2026-05-26 21:00:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$REQ****/USDT (30m)** Overbought level reached\nRSI: 70.56 | [Binance](https://www.binance.com/en/trade/REQ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REQUSDT)",
+            "id": "372832",
+            "date": "2026-05-26 21:02:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (4h)** Overbought level reached\nRSI: 70.41 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "372833",
+            "date": "2026-05-26 21:02:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VET****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/VET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VETUSDT)",
+            "id": "372834",
+            "date": "2026-05-26 21:04:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (1h)** Oversold level reached\nRSI: 29.56 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "372836",
+            "date": "2026-05-26 21:13:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SYRUP/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**414.07K SYRUP** have been bought\n\ud83d\udcb0Price: 0.196 USDT (**0.05%**)\n\ud83d\udea8Order Size: **81,008 USDT** (**4.29%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.89M** USDT",
+            "id": "101101",
+            "date": "2026-05-26 19:43:43+00:00"
         }
     ]
 }
