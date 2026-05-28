@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T05:44:05.279480",
+    "timestamp": "2026-05-28T09:05:15.670023",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -40698,6 +40698,84 @@
             "original_text": "**U/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2M U** have been bought\n\ud83d\udcb0Price: 1.00 USDT (**0.02%**)\n\ud83d\udea8Order Size: **2,000,839 USDT** (**4.46%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **44.82M** USDT",
             "id": "101119",
             "date": "2026-05-28 04:58:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BONK****/USDT (30m)** Oversold level reached\nRSI: 29.80 | [Binance](https://www.binance.com/en/trade/BONK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)",
+            "id": "373519",
+            "date": "2026-05-28 08:31:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (30m)** Oversold level reached\nRSI: 29.03 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "373520",
+            "date": "2026-05-28 08:34:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PHA****/USDT (1h)** Extreme Oversold level reached\nRSI: 20.00 | [Binance](https://www.binance.com/en/trade/PHA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PHAUSDT)",
+            "id": "373521",
+            "date": "2026-05-28 08:42:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "373522",
+            "date": "2026-05-28 08:43:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ICP****/USDT (30m)** Oversold level reached\nRSI: 29.57 | [Binance](https://www.binance.com/en/trade/ICP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)",
+            "id": "373523",
+            "date": "2026-05-28 08:44:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (4h)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "373524",
+            "date": "2026-05-28 08:54:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "373525",
+            "date": "2026-05-28 08:56:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (30m)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "373526",
+            "date": "2026-05-28 08:59:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Exploring Potential Bearish Signals: Rising ETH Failed Transactions and Exchange Inflows\n\n\u201cThis combination of network friction and potential exchange-bound liquidity could possibly indicate a somewhat bearish outlook for the asset in the near term.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a172cf7f2609c4353778035-Exploring-Potential-Bearish-Signals-Rising-ETH-Failed-Transactions-and-Exchange-?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=nino)\n \nBy [nino](https://cryptoquant.com/profile/u/nino?tab=dashboard&utm_source=twitter&utm_medium=sns&utm_campaign=profile&utm_content=nino) | @cryptoquant_official",
+            "id": "3631",
+            "date": "2026-05-28 07:23:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BCH/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.32K BCH** have been sold\n\ud83d\udcb0Price: 328.80 USDT (**-0.72%**)\n\ud83d\udea8Order Size: **437,237 USDT** (**4.04%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **10.82M** USDT",
+            "id": "101120",
+            "date": "2026-05-28 05:46:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**COMP/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**10.7K COMP** have been bought\n\ud83d\udcb0Price: 17.00 USDT (**-2.52%**)\n\ud83d\udea8Order Size: **182,948 USDT** (**5.56%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **3.29M** USDT",
+            "id": "101121",
+            "date": "2026-05-28 05:48:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PSG/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**54.8K PSG** have been bought\n\ud83d\udcb0Price: 1.15 USDT (**2.22%**)\n\ud83d\udea8Order Size: **62,509 USDT** (**4.39%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **1.43M** USDT",
+            "id": "101122",
+            "date": "2026-05-28 06:44:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**LPT/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**27.27K LPT** have been sold\n\ud83d\udcb0Price: 2.10 USDT (**0.00%**)\n\ud83d\udea8Order Size: **57,259 USDT** (**4.09%**)\n\u23f3Duration: **15 seconds**\n\ud83d\udcca24h Vol: **1.4M** USDT",
+            "id": "101123",
+            "date": "2026-05-28 08:28:20+00:00"
         }
     ]
 }
