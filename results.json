@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T16:39:05.511081",
+    "timestamp": "2026-05-30T17:42:02.856213",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -42414,6 +42414,54 @@
             "original_text": "**$ASTER****/USDT (30m)** Extreme Overbought level reached\nRSI: 84.50 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
             "id": "374400",
             "date": "2026-05-30 16:37:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XPL****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/XPL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XPLUSDT)]",
+            "id": "221426",
+            "date": "2026-05-30 17:35:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.02 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "374401",
+            "date": "2026-05-30 16:37:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (1h)** Extreme Overbought level reached\nRSI: 80.90 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "374402",
+            "date": "2026-05-30 16:40:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (4h)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "374403",
+            "date": "2026-05-30 16:59:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/USDT (1d)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/BNB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)",
+            "id": "374404",
+            "date": "2026-05-30 17:05:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/SOL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLUSDT)",
+            "id": "374405",
+            "date": "2026-05-30 17:22:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEAR****/USDT (30m)** Oversold level reached\nRSI: 29.80 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
+            "id": "374406",
+            "date": "2026-05-30 17:33:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/fed__ \ud83d\udd25 \n\nThe '/fed' command can be used to display the next most important upcoming FED/FOMC Event dates. \ud83d\udea8  \nNever miss an upcoming FED Event again! Since these FED Events like CPI/PPI/FOMC often have big impacts on the market and cause volatility, its very important to stay up to date. \ud83d\udcc5 \n\n**Command Format:**\n**-** /fed\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/fed__** to try the command now!",
+            "id": "101151",
+            "date": "2026-05-30 17:00:01+00:00"
         }
     ]
 }
