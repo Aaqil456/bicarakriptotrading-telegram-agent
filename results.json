@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T19:57:11.864468",
+    "timestamp": "2026-05-31T20:46:42.681522",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -43632,6 +43632,72 @@
             "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (4h)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
             "id": "374775",
             "date": "2026-05-31 19:43:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Oversold level reached\nRSI: 28.96 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "374779",
+            "date": "2026-05-31 20:12:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (1h)** Oversold level reached\nRSI: 29.50 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "374780",
+            "date": "2026-05-31 20:12:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (4h)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "374781",
+            "date": "2026-05-31 20:14:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (30m)** Overbought level reached\nRSI: 71.09 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "374782",
+            "date": "2026-05-31 20:16:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RAD****/USDT (4h)** Oversold level reached\nRSI: 29.35 | [Binance](https://www.binance.com/en/trade/RAD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RADUSDT)",
+            "id": "374783",
+            "date": "2026-05-31 20:28:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (4h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "374784",
+            "date": "2026-05-31 20:29:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RAD****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/RAD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RADUSDT)",
+            "id": "374785",
+            "date": "2026-05-31 20:31:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEMI****/USDT (1h)** Overbought level reached\nRSI: 70.25 | [Binance](https://www.binance.com/en/trade/HEMI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEMIUSDT)",
+            "id": "374786",
+            "date": "2026-05-31 20:34:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PORTAL****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/PORTAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PORTALUSDT)",
+            "id": "374787",
+            "date": "2026-05-31 20:37:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PORTAL****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/PORTAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PORTALUSDT)",
+            "id": "374788",
+            "date": "2026-05-31 20:38:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RAD/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**447.97K RAD** have been bought\n\ud83d\udcb0Price: 0.248 USDT (**-1.98%**)\n\ud83d\udea8Order Size: **112,023 USDT** (**5.45%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **2.06M** USDT",
+            "id": "101169",
+            "date": "2026-05-31 20:30:14+00:00"
         }
     ]
 }
