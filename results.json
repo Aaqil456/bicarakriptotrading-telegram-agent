@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T06:02:09.248302",
+    "timestamp": "2026-05-31T08:42:55.384355",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -43002,6 +43002,90 @@
             "original_text": "**ADX/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.18M ADX** have been sold\n\ud83d\udcb0Price: 0.0673 USDT (**1.51%**)\n\ud83d\udea8Order Size: **78,885 USDT** (**5.49%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **1.44M** USDT",
             "id": "101157",
             "date": "2026-05-31 05:06:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$VET****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/VET_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:VETUSDT)]",
+            "id": "221775",
+            "date": "2026-05-31 08:04:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LA****/USDT (1h)** Extreme Overbought level reached\nRSI: 90.39 | [Binance](https://www.binance.com/en/trade/LA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAUSDT)",
+            "id": "374596",
+            "date": "2026-05-31 07:50:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LA****/USDT (4h)** Overbought level reached\nRSI: 78.27 | [Binance](https://www.binance.com/en/trade/LA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAUSDT)",
+            "id": "374597",
+            "date": "2026-05-31 07:50:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LA****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.01 | [Binance](https://www.binance.com/en/trade/LA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAUSDT)",
+            "id": "374598",
+            "date": "2026-05-31 07:54:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (1h)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "id": "374599",
+            "date": "2026-05-31 08:03:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MOVE****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.21 | [Binance](https://www.binance.com/en/trade/MOVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVEUSDT)",
+            "id": "374600",
+            "date": "2026-05-31 08:03:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (4h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "id": "374601",
+            "date": "2026-05-31 08:06:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (30m)** Overbought level reached\nRSI: 71.47 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "id": "374602",
+            "date": "2026-05-31 08:18:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INIT****/USDT (1h)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/INIT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INITUSDT)",
+            "id": "374603",
+            "date": "2026-05-31 08:24:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "374604",
+            "date": "2026-05-31 08:30:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AR****/USDT (30m)** Oversold level reached\nRSI: 29.63 | [Binance](https://www.binance.com/en/trade/AR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARUSDT)",
+            "id": "374605",
+            "date": "2026-05-31 08:32:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**STEEM/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.07M STEEM** have been sold\n\ud83d\udcb0Price: 0.0562 USDT (**-0.85%**)\n\ud83d\udea8Order Size: **60,260 USDT** (**4.31%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **1.4M** USDT",
+            "id": "101158",
+            "date": "2026-05-31 06:57:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**HOME/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.14M HOME** have been bought\n\ud83d\udcb0Price: 0.0315 USDT (**2.10%**)\n\ud83d\udea8Order Size: **66,633 USDT** (**4.03%**)\n\u23f3Duration: **1 minute**\n\ud83d\udcca24h Vol: **1.65M** USDT",
+            "id": "101159",
+            "date": "2026-05-31 07:25:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**LA/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**563.89K LA** have been bought\n\ud83d\udcb0Price: 0.129 USDT (**11.43%**)\n\ud83d\udea8Order Size: **67,439 USDT** (**5.05%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **1.34M** USDT",
+            "id": "101160",
+            "date": "2026-05-31 07:49:38+00:00"
         }
     ]
 }
