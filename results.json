@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-06T12:18:00.744176",
+    "timestamp": "2026-06-06T14:10:28.401436",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -47184,6 +47184,60 @@
             "original_text": "**$ALLO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)",
             "id": "378020",
             "date": "2026-06-06 12:08:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SANTOS****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/SANTOS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SANTOSUSDT)]",
+            "id": "226344",
+            "date": "2026-06-06 14:00:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PARTI****/USDT (30m)** Overbought level reached\nRSI: 70.33 | [Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)",
+            "id": "378021",
+            "date": "2026-06-06 12:27:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASR****/USDT (30m)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/ASR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASRUSDT)",
+            "id": "378022",
+            "date": "2026-06-06 12:33:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378023",
+            "date": "2026-06-06 13:04:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378024",
+            "date": "2026-06-06 13:04:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1d)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378025",
+            "date": "2026-06-06 13:48:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.02 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378026",
+            "date": "2026-06-06 14:03:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.01 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378027",
+            "date": "2026-06-06 14:03:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PARTI****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)",
+            "id": "378028",
+            "date": "2026-06-06 14:07:59+00:00"
         }
     ]
 }
