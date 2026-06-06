@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-06T17:50:15.100117",
+    "timestamp": "2026-06-06T18:57:56.326023",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -47382,6 +47382,60 @@
             "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/funding__ \ud83d\udd25 \n\nThe '/funding' command can be used to check out the current **funding rates** of any future-markets on **Binance**. \ud83d\udcb8  \nUse it to see if **longs are paying the shorts** or vice-versa. This can be a great **counter indicator**, if the funding fee gets too high or too negative.\nThis command can be used on **all markets** available on binance futures, with its given format.\n\n**Command Format:**\n**-** /funding btc\n**-** /funding eth/usdt\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/funding__** to try the command now!",
             "id": "101237",
             "date": "2026-06-06 17:00:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ADA****/BTC (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ADA_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:ADABTC)]",
+            "id": "226503",
+            "date": "2026-06-06 18:51:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.14 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "378061",
+            "date": "2026-06-06 17:57:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (1h)** Overbought level reached\nRSI: 70.46 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "378062",
+            "date": "2026-06-06 17:57:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PSG****/USDT (4h)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/PSG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PSGUSDT)",
+            "id": "378063",
+            "date": "2026-06-06 18:01:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378064",
+            "date": "2026-06-06 18:03:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PORTAL****/USDT (1h)** Overbought level reached\nRSI: 71.89 | [Binance](https://www.binance.com/en/trade/PORTAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PORTALUSDT)",
+            "id": "378065",
+            "date": "2026-06-06 18:06:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPK****/USDT (1h)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
+            "id": "378066",
+            "date": "2026-06-06 18:21:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PORTAL****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/PORTAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PORTALUSDT)",
+            "id": "378067",
+            "date": "2026-06-06 18:33:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "378068",
+            "date": "2026-06-06 18:48:47+00:00"
         }
     ]
 }
