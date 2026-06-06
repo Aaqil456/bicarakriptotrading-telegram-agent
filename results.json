@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-06T18:57:56.326023",
+    "timestamp": "2026-06-06T20:04:30.773658",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -47436,6 +47436,60 @@
             "original_text": "**$FIDA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
             "id": "378068",
             "date": "2026-06-06 18:48:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TON****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/TON_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TONUSDT)]",
+            "id": "226529",
+            "date": "2026-06-06 20:00:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FORM****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/FORM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FORMUSDT)]",
+            "id": "226534",
+            "date": "2026-06-06 20:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (30m)** Overbought level reached\nRSI: 70.39 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "378069",
+            "date": "2026-06-06 19:14:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (1h)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "378070",
+            "date": "2026-06-06 19:16:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (4h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "378071",
+            "date": "2026-06-06 19:17:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIDA****/USDT (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)",
+            "id": "378072",
+            "date": "2026-06-06 19:35:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LTC****/USDT (30m)** Oversold level reached\nRSI: 29.47 | [Binance](https://www.binance.com/en/trade/LTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)",
+            "id": "378073",
+            "date": "2026-06-06 19:40:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DEXE****/USDT (1d)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)",
+            "id": "378074",
+            "date": "2026-06-06 19:57:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (4h)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "378075",
+            "date": "2026-06-06 20:02:14+00:00"
         }
     ]
 }
