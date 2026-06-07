@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-07T19:24:22.156086",
+    "timestamp": "2026-06-07T20:42:22.528313",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -48198,6 +48198,66 @@
             "original_text": "**$STRAX****/USDT (30m)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/STRAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STRAXUSDT)",
             "id": "378390",
             "date": "2026-06-07 19:16:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MEME****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MEME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)]",
+            "id": "227020",
+            "date": "2026-06-07 20:00:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ATM****/USDT (1d)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ATM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ATMUSDT)]",
+            "id": "227021",
+            "date": "2026-06-07 20:03:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HAEDAL****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/HAEDAL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HAEDALUSDT)]",
+            "id": "227025",
+            "date": "2026-06-07 20:30:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FF****/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/FF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FFUSDT)",
+            "id": "378393",
+            "date": "2026-06-07 19:37:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SEI****/USDT (30m)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
+            "id": "378395",
+            "date": "2026-06-07 19:42:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MEME****/USDT (30m)** Oversold level reached\nRSI: 29.56 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
+            "id": "378396",
+            "date": "2026-06-07 19:42:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETHFI****/USDT (30m)** Oversold level reached\nRSI: 28.80 | [Binance](https://www.binance.com/en/trade/ETHFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHFIUSDT)",
+            "id": "378399",
+            "date": "2026-06-07 19:46:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ATM****/USDT (1d)** Overbought level reached\nRSI: 72.91 | [Binance](https://www.binance.com/en/trade/ATM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATMUSDT)",
+            "id": "378400",
+            "date": "2026-06-07 20:03:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANK****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
+            "id": "378401",
+            "date": "2026-06-07 20:09:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "378402",
+            "date": "2026-06-07 20:11:41+00:00"
         }
     ]
 }
