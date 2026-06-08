@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-07T22:49:21.680905",
+    "timestamp": "2026-06-08T02:04:07.405342",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -48360,6 +48360,66 @@
             "original_text": "**$BANK****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
             "id": "378438",
             "date": "2026-06-07 22:25:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ASR****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ASR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ASRUSDT)]",
+            "id": "227157",
+            "date": "2026-06-08 01:39:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.02 | [Binance](https://www.binance.com/en/trade/ETH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHUSDT)",
+            "id": "378454",
+            "date": "2026-06-08 00:40:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOLO****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/HOLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOLOUSDT)",
+            "id": "378455",
+            "date": "2026-06-08 00:40:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (30m)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "378456",
+            "date": "2026-06-08 00:51:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1d)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "378457",
+            "date": "2026-06-08 01:15:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOGE****/USDT (1d)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/DOGE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOGEUSDT)",
+            "id": "378458",
+            "date": "2026-06-08 01:29:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Overbought level reached\nRSI: 70.32 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "378459",
+            "date": "2026-06-08 01:32:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (1d)** Extreme Oversold level reached\nRSI: 19.93 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "378460",
+            "date": "2026-06-08 01:37:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (1h)** Overbought level reached\nRSI: 72.36 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "378462",
+            "date": "2026-06-08 01:39:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (4h)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "378463",
+            "date": "2026-06-08 01:42:01+00:00"
         }
     ]
 }
