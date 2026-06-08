@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T22:56:42.754915",
+    "timestamp": "2026-06-08T23:56:13.658928",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -48828,6 +48828,36 @@
             "original_text": "**$FTT****/USDT (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/FTT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FTTUSDT)",
             "id": "378666",
             "date": "2026-06-08 22:43:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "378667",
+            "date": "2026-06-08 23:06:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MEME****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.92 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
+            "id": "378668",
+            "date": "2026-06-08 23:12:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.74 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "378669",
+            "date": "2026-06-08 23:25:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.95 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "378670",
+            "date": "2026-06-08 23:26:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$COS****/USDT (4h)** Oversold level reached\nRSI: 29.80 | [Binance](https://www.binance.com/en/trade/COS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:COSUSDT)",
+            "id": "378671",
+            "date": "2026-06-08 23:44:17+00:00"
         }
     ]
 }
