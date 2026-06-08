@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T21:30:21.765136",
+    "timestamp": "2026-06-08T22:56:42.754915",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -48768,6 +48768,66 @@
             "original_text": "**$MEME****/USDT (1h)** Oversold level reached\nRSI: 29.63 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
             "id": "378656",
             "date": "2026-06-08 21:26:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "378657",
+            "date": "2026-06-08 21:38:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MEME****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.97 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
+            "id": "378658",
+            "date": "2026-06-08 21:41:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (1h)** Oversold level reached\nRSI: 29.72 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "378659",
+            "date": "2026-06-08 22:01:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "378660",
+            "date": "2026-06-08 22:03:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$D****/USDT (30m)** Oversold level reached\nRSI: 29.74 | [Binance](https://www.binance.com/en/trade/D_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DUSDT)",
+            "id": "378661",
+            "date": "2026-06-08 22:07:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (30m)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "378662",
+            "date": "2026-06-08 22:17:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (1h)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "378663",
+            "date": "2026-06-08 22:17:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MEME****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.86 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
+            "id": "378664",
+            "date": "2026-06-08 22:28:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (1h)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "378665",
+            "date": "2026-06-08 22:29:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FTT****/USDT (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/FTT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FTTUSDT)",
+            "id": "378666",
+            "date": "2026-06-08 22:43:48+00:00"
         }
     ]
 }
