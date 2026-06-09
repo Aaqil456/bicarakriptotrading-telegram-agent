@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-09T01:48:02.936955",
+    "timestamp": "2026-06-09T05:54:56.036224",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -48930,6 +48930,72 @@
             "original_text": "**$MOVE****/USDT (1d)** Extreme Overbought level reached\nRSI: 81.06 | [Binance](https://www.binance.com/en/trade/MOVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVEUSDT)",
             "id": "378718",
             "date": "2026-06-09 01:21:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BERA****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/BERA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BERAUSDT)]",
+            "id": "227774",
+            "date": "2026-06-09 05:30:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (30m)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "378761",
+            "date": "2026-06-09 05:00:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEIRO****/USDT (30m)** Overbought level reached\nRSI: 70.20 | [Binance](https://www.binance.com/en/trade/NEIRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEIROUSDT)",
+            "id": "378762",
+            "date": "2026-06-09 05:04:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STRAX****/USDT (30m)** Oversold level reached\nRSI: 28.56 | [Binance](https://www.binance.com/en/trade/STRAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STRAXUSDT)",
+            "id": "378763",
+            "date": "2026-06-09 05:06:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CAKE****/USDT (1h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
+            "id": "378764",
+            "date": "2026-06-09 05:06:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PARTI****/USDT (30m)** Overbought level reached\nRSI: 70.41 | [Binance](https://www.binance.com/en/trade/PARTI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PARTIUSDT)",
+            "id": "378765",
+            "date": "2026-06-09 05:09:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CAKE****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
+            "id": "378766",
+            "date": "2026-06-09 05:15:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$COS****/USDT (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/COS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:COSUSDT)",
+            "id": "378767",
+            "date": "2026-06-09 05:23:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (4h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "378768",
+            "date": "2026-06-09 05:32:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (1h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "378769",
+            "date": "2026-06-09 05:32:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEIRO****/USDT (1h)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/NEIRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEIROUSDT)",
+            "id": "378770",
+            "date": "2026-06-09 05:34:46+00:00"
         }
     ]
 }
