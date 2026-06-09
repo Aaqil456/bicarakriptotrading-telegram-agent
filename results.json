@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-09T11:51:43.476330",
+    "timestamp": "2026-06-09T14:09:52.295534",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -49122,6 +49122,66 @@
             "original_text": "**$MORPHO****/USDT (1h)** Overbought level reached\nRSI: 71.62 | [Binance](https://www.binance.com/en/trade/MORPHO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MORPHOUSDT)",
             "id": "378825",
             "date": "2026-06-09 11:41:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Overbought level reached\nRSI: 70.36 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "378836",
+            "date": "2026-06-09 13:13:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CHZ****/USDT (30m)** Overbought level reached\nRSI: 72.57 | [Binance](https://www.binance.com/en/trade/CHZ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CHZUSDT)",
+            "id": "378837",
+            "date": "2026-06-09 13:16:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (30m)** Oversold level reached\nRSI: 29.57 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "378838",
+            "date": "2026-06-09 13:30:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "378839",
+            "date": "2026-06-09 13:31:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (1h)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "378840",
+            "date": "2026-06-09 13:43:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SENT****/USDT (1h)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/SENT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SENTUSDT)",
+            "id": "378841",
+            "date": "2026-06-09 13:46:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IO****/USDT (1h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/IO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOUSDT)",
+            "id": "378842",
+            "date": "2026-06-09 13:46:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Overbought level reached\nRSI: 70.65 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "378843",
+            "date": "2026-06-09 13:49:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IO****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/IO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOUSDT)",
+            "id": "378844",
+            "date": "2026-06-09 13:51:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (30m)** Oversold level reached\nRSI: 29.88 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "id": "378845",
+            "date": "2026-06-09 14:04:55+00:00"
         }
     ]
 }
