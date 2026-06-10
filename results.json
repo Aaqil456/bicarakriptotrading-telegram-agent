@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-10T06:06:53.157713",
+    "timestamp": "2026-06-10T10:19:45.743455",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -49572,6 +49572,54 @@
             "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
             "id": "379010",
             "date": "2026-06-10 06:02:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNC****/USDT (30m)** Oversold level reached\nRSI: 29.52 | [Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)",
+            "id": "379067",
+            "date": "2026-06-10 09:22:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (1h)** Oversold level reached\nRSI: 29.73 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "379068",
+            "date": "2026-06-10 09:23:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "379069",
+            "date": "2026-06-10 09:33:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPK****/USDT (30m)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
+            "id": "379070",
+            "date": "2026-06-10 09:39:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.03 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "379071",
+            "date": "2026-06-10 09:50:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (30m)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "379073",
+            "date": "2026-06-10 10:05:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (1h)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "379076",
+            "date": "2026-06-10 10:17:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Whales Quietly Bought the $60k BTC Dip\n\n\u201cAt the $60k\u2013$61k bottom, the Exchange Whale Ratio surged to 61.6%, proving that whales completely dominated buy-side activity and absorbed the panic.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a28d740178f3b625a4b3f7c-Whales-Quietly-Bought-the-60k-BTC-Dip?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu)\n \nBy [Woominkyu](https://cryptoquant.com/profile/u/Woominkyu?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=woominkyu) | @cryptoquant_official",
+            "id": "3641",
+            "date": "2026-06-10 07:21:27+00:00"
         }
     ]
 }
