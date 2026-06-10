@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-10T21:33:36.859982",
+    "timestamp": "2026-06-10T23:10:46.281669",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -49854,6 +49854,66 @@
             "original_text": "**$ALT****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
             "id": "379233",
             "date": "2026-06-10 21:24:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.85 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "379264",
+            "date": "2026-06-10 22:12:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.76 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "379265",
+            "date": "2026-06-10 22:16:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Extreme Oversold level reached\nRSI: 16.81 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "379266",
+            "date": "2026-06-10 22:16:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ATOM****/USDT (30m)** Oversold level reached\nRSI: 29.75 | [Binance](https://www.binance.com/en/trade/ATOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATOMUSDT)",
+            "id": "379267",
+            "date": "2026-06-10 22:17:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOT****/USDT (30m)** Oversold level reached\nRSI: 29.32 | [Binance](https://www.binance.com/en/trade/DOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)",
+            "id": "379268",
+            "date": "2026-06-10 23:00:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LINK****/USDT (30m)** Oversold level reached\nRSI: 29.47 | [Binance](https://www.binance.com/en/trade/LINK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LINKUSDT)",
+            "id": "379269",
+            "date": "2026-06-10 23:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (30m)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "379270",
+            "date": "2026-06-10 23:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (30m)** Oversold level reached\nRSI: 29.67 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "379271",
+            "date": "2026-06-10 23:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "379272",
+            "date": "2026-06-10 23:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEAR****/USDT (30m)** Oversold level reached\nRSI: 29.82 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
+            "id": "379273",
+            "date": "2026-06-10 23:00:18+00:00"
         }
     ]
 }
