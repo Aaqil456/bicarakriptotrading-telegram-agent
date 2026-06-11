@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-11T22:08:05.877022",
+    "timestamp": "2026-06-11T23:49:28.715485",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -50340,6 +50340,66 @@
             "original_text": "**$STO****/USDT (1h)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/STO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STOUSDT)",
             "id": "379533",
             "date": "2026-06-11 22:00:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/BTC (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ZEC_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECBTC)]",
+            "id": "229420",
+            "date": "2026-06-11 23:30:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.09 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "379534",
+            "date": "2026-06-11 22:15:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (30m)** Overbought level reached\nRSI: 70.81 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "379535",
+            "date": "2026-06-11 22:30:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "379536",
+            "date": "2026-06-11 22:40:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.05 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "379537",
+            "date": "2026-06-11 22:45:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "379538",
+            "date": "2026-06-11 23:08:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (30m)** Overbought level reached\nRSI: 70.71 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "379539",
+            "date": "2026-06-11 23:16:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAGA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.28 | [Binance](https://www.binance.com/en/trade/SAGA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAGAUSDT)",
+            "id": "379540",
+            "date": "2026-06-11 23:24:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XPL****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/XPL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XPLUSDT)",
+            "id": "379541",
+            "date": "2026-06-11 23:41:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "379542",
+            "date": "2026-06-11 23:45:29+00:00"
         }
     ]
 }
