@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T20:33:39.780789",
+    "timestamp": "2026-06-12T22:10:10.517079",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -50862,6 +50862,66 @@
             "original_text": "**$TRUMP****/USDT (4h)** Overbought level reached\nRSI: 70.51 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
             "id": "379723",
             "date": "2026-06-12 20:27:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FIDA****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/FIDA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FIDAUSDT)]",
+            "id": "230049",
+            "date": "2026-06-12 21:52:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "379725",
+            "date": "2026-06-12 20:53:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.06 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "379726",
+            "date": "2026-06-12 20:58:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANK****/USDT (1h)** Oversold level reached\nRSI: 29.89 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
+            "id": "379727",
+            "date": "2026-06-12 21:01:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 70.68 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "379729",
+            "date": "2026-06-12 21:32:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/BTC (30m)** Oversold level reached\nRSI: 29.23 | [Binance](https://www.binance.com/en/trade/ZEC_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECBTC)",
+            "id": "379730",
+            "date": "2026-06-12 21:53:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "379731",
+            "date": "2026-06-12 21:53:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/BTC (1h)** Oversold level reached\nRSI: 29.80 | [Binance](https://www.binance.com/en/trade/ZEC_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECBTC)",
+            "id": "379732",
+            "date": "2026-06-12 21:55:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "379733",
+            "date": "2026-06-12 21:59:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "379734",
+            "date": "2026-06-12 22:03:44+00:00"
         }
     ]
 }
