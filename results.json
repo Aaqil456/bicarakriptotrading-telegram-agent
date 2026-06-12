@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T06:44:47.763320",
+    "timestamp": "2026-06-12T10:53:48.618976",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -50526,6 +50526,66 @@
             "original_text": "**$BANANAS31/USDT (4h)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
             "id": "379592",
             "date": "2026-06-12 06:41:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (1h)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "379627",
+            "date": "2026-06-12 10:08:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "379628",
+            "date": "2026-06-12 10:09:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 70.59 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "379630",
+            "date": "2026-06-12 10:17:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Extreme Oversold level reached\nRSI: 19.89 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "379631",
+            "date": "2026-06-12 10:20:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (30m)** Oversold level reached\nRSI: 25.62 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "379632",
+            "date": "2026-06-12 10:22:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "379633",
+            "date": "2026-06-12 10:33:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLFI****/USDT (30m)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
+            "id": "379634",
+            "date": "2026-06-12 10:33:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ID****/USDT (30m)** Oversold level reached\nRSI: 29.65 | [Binance](https://www.binance.com/en/trade/ID_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IDUSDT)",
+            "id": "379635",
+            "date": "2026-06-12 10:37:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (30m)** Overbought level reached\nRSI: 70.62 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "379636",
+            "date": "2026-06-12 10:51:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "The On-Chain Reset Bitcoin Needs Before a Durable Bottom\n\n\u201cHistorically this band is where weak hands are flushed and durable floors form, every prior tag preceded a local bottom.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a2abd639139404af2b01256-The-On-Chain-Reset-Bitcoin-Needs-Before-a-Durable-Bottom?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv)\n \nBy [MorenoDV_](https://cryptoquant.com/profile/u/MorenoDV_?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=morenodv) | @cryptoquant_official",
+            "id": "3645",
+            "date": "2026-06-12 09:10:37+00:00"
         }
     ]
 }
