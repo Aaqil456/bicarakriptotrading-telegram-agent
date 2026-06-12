@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T18:27:39.357577",
+    "timestamp": "2026-06-12T20:33:39.780789",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -50802,6 +50802,66 @@
             "original_text": "**$ORCA****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/ORCA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORCAUSDT)",
             "id": "379708",
             "date": "2026-06-12 18:17:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ASTR****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ASTR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ASTRUSDT)]",
+            "id": "230020",
+            "date": "2026-06-12 20:00:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HMSTR****/USDT (30m)** Oversold level reached\nRSI: 29.91 | [Binance](https://www.binance.com/en/trade/HMSTR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HMSTRUSDT)",
+            "id": "379714",
+            "date": "2026-06-12 19:35:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 71.03 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "379716",
+            "date": "2026-06-12 19:38:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (30m)** Overbought level reached\nRSI: 71.83 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "379717",
+            "date": "2026-06-12 19:52:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (1h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "379718",
+            "date": "2026-06-12 19:52:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Extreme Oversold level reached\nRSI: 19.92 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "379719",
+            "date": "2026-06-12 19:54:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STO****/USDT (30m)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/STO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STOUSDT)",
+            "id": "379720",
+            "date": "2026-06-12 19:55:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "379721",
+            "date": "2026-06-12 20:24:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANK****/USDT (30m)** Oversold level reached\nRSI: 29.69 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
+            "id": "379722",
+            "date": "2026-06-12 20:25:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (4h)** Overbought level reached\nRSI: 70.51 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "379723",
+            "date": "2026-06-12 20:27:49+00:00"
         }
     ]
 }
