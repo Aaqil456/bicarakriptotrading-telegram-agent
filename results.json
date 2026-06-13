@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T22:43:03.694114",
+    "timestamp": "2026-06-13T23:45:59.164949",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -51708,6 +51708,36 @@
             "original_text": "**BB/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.3M BB** have been sold\n\ud83d\udcb0Price: 0.0225 USDT (**1.35%**)\n\ud83d\udea8Order Size: **51,611 USDT** (**5.08%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.02M** USDT",
             "id": "101248",
             "date": "2026-06-13 22:09:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ENJ****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ENJ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENJUSDT)]",
+            "id": "230609",
+            "date": "2026-06-13 23:22:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SYN****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SYN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYNUSDT)]",
+            "id": "230611",
+            "date": "2026-06-13 23:33:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.10 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "380068",
+            "date": "2026-06-13 23:02:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SENT****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/SENT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SENTUSDT)",
+            "id": "380069",
+            "date": "2026-06-13 23:26:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALGO****/USDT (30m)** Overbought level reached\nRSI: 70.41 | [Binance](https://www.binance.com/en/trade/ALGO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALGOUSDT)",
+            "id": "380070",
+            "date": "2026-06-13 23:35:23+00:00"
         }
     ]
 }
