@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T15:04:41.791264",
+    "timestamp": "2026-06-13T16:22:12.468474",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -51390,6 +51390,66 @@
             "original_text": "**MORPHO/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**63.34K MORPHO** have been sold\n\ud83d\udcb0Price: 1.95 USDT (**-0.05%**)\n\ud83d\udea8Order Size: **123,344 USDT** (**8.63%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.43M** USDT",
             "id": "101244",
             "date": "2026-06-13 13:55:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NEAR****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.26 | [Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)",
+            "id": "380003",
+            "date": "2026-06-13 15:49:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEMI****/USDT (1h)** Overbought level reached\nRSI: 71.57 | [Binance](https://www.binance.com/en/trade/HEMI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEMIUSDT)",
+            "id": "380005",
+            "date": "2026-06-13 15:53:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TON****/USDT (30m)** Overbought level reached\nRSI: 71.02 | [Binance](https://www.binance.com/en/trade/TON_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TONUSDT)",
+            "id": "380006",
+            "date": "2026-06-13 15:55:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AAVE****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)",
+            "id": "380007",
+            "date": "2026-06-13 16:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENA****/USDT (1h)** Overbought level reached\nRSI: 70.25 | [Binance](https://www.binance.com/en/trade/ENA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENAUSDT)",
+            "id": "380008",
+            "date": "2026-06-13 16:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVAX****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)",
+            "id": "380009",
+            "date": "2026-06-13 16:00:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Overbought level reached\nRSI: 70.57 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "380010",
+            "date": "2026-06-13 16:01:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (1h)** Overbought level reached\nRSI: 71.76 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "380011",
+            "date": "2026-06-13 16:06:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (30m)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "380012",
+            "date": "2026-06-13 16:06:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**NEIRO/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**819.4M NEIRO** have been sold\n\ud83d\udcb0Price: 0.0000712 USDT (**-1.75%**)\n\ud83d\udea8Order Size: **58,901 USDT** (**5.00%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **1.18M** USDT",
+            "id": "101245",
+            "date": "2026-06-13 16:17:11+00:00"
         }
     ]
 }
