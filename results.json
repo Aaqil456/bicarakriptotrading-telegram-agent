@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T06:05:48.592366",
+    "timestamp": "2026-06-13T09:32:16.297057",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -51114,6 +51114,90 @@
             "original_text": "**$AT****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/AT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ATUSDT)",
             "id": "379805",
             "date": "2026-06-13 06:02:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (1h)** Overbought level reached\nRSI: 70.98 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "379865",
+            "date": "2026-06-13 09:14:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AR****/USDT (30m)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/AR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARUSDT)",
+            "id": "379866",
+            "date": "2026-06-13 09:15:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.46 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "379867",
+            "date": "2026-06-13 09:15:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FF****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/FF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FFUSDT)",
+            "id": "379868",
+            "date": "2026-06-13 09:16:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PHA****/USDT (1h)** Overbought level reached\nRSI: 72.36 | [Binance](https://www.binance.com/en/trade/PHA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PHAUSDT)",
+            "id": "379869",
+            "date": "2026-06-13 09:16:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PHA****/USDT (4h)** Overbought level reached\nRSI: 70.19 | [Binance](https://www.binance.com/en/trade/PHA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PHAUSDT)",
+            "id": "379870",
+            "date": "2026-06-13 09:16:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (30m)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "379871",
+            "date": "2026-06-13 09:18:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "379872",
+            "date": "2026-06-13 09:19:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOT****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/NOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOTUSDT)",
+            "id": "379873",
+            "date": "2026-06-13 09:21:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PHA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.29 | [Binance](https://www.binance.com/en/trade/PHA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PHAUSDT)",
+            "id": "379874",
+            "date": "2026-06-13 09:27:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**JTO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**180.96K JTO** have been bought\n\ud83d\udcb0Price: 0.539 USDT (**0.41%**)\n\ud83d\udea8Order Size: **97,443 USDT** (**4.06%**)\n\u23f3Duration: **2 seconds**\n\ud83d\udcca24h Vol: **2.4M** USDT",
+            "id": "101240",
+            "date": "2026-06-13 06:51:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DEXE/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**25.73K DEXE** have been bought\n\ud83d\udcb0Price: 15.78 USDT (**-16.53%**)\n\ud83d\udea8Order Size: **438,060 USDT** (**5.19%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **8.44M** USDT",
+            "id": "101241",
+            "date": "2026-06-13 08:12:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PHA/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.24M PHA** have been bought\n\ud83d\udcb0Price: 0.0360 USDT (**1.69%**)\n\ud83d\udea8Order Size: **80,035 USDT** (**5.08%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **1.57M** USDT",
+            "id": "101242",
+            "date": "2026-06-13 08:42:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PNUT/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.78M PNUT** have been bought\n\ud83d\udcb0Price: 0.0445 USDT (**1.14%**)\n\ud83d\udea8Order Size: **79,031 USDT** (**5.22%**)\n\u23f3Duration: **30 seconds**\n\ud83d\udcca24h Vol: **1.51M** USDT",
+            "id": "101243",
+            "date": "2026-06-13 09:22:18+00:00"
         }
     ]
 }
