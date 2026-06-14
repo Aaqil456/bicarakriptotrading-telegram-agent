@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-14T16:02:15.164185",
+    "timestamp": "2026-06-14T17:21:53.791442",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -52236,6 +52236,60 @@
             "original_text": "**DOGE/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**14.44M DOGE** have been sold\n\ud83d\udcb0Price: 0.0863 USDT (**0.19%**)\n\ud83d\udea8Order Size: **1,246,177 USDT** (**4.21%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **29.6M** USDT",
             "id": "101264",
             "date": "2026-06-14 15:56:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BTC****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/BTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)]",
+            "id": "231046",
+            "date": "2026-06-14 16:55:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARB****/USDT (30m)** Oversold level reached\nRSI: 29.08 | [Binance](https://www.binance.com/en/trade/ARB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARBUSDT)",
+            "id": "380289",
+            "date": "2026-06-14 16:04:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HBAR****/USDT (30m)** Oversold level reached\nRSI: 27.78 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
+            "id": "380290",
+            "date": "2026-06-14 16:05:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MEME****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/MEME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEMEUSDT)",
+            "id": "380291",
+            "date": "2026-06-14 16:07:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MMT****/USDT (4h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/MMT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MMTUSDT)",
+            "id": "380293",
+            "date": "2026-06-14 16:19:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BABY****/USDT (1h)** Overbought level reached\nRSI: 70.28 | [Binance](https://www.binance.com/en/trade/BABY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BABYUSDT)",
+            "id": "380294",
+            "date": "2026-06-14 16:21:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ADA****/USDT (30m)** Oversold level reached\nRSI: 29.86 | [Binance](https://www.binance.com/en/trade/ADA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)",
+            "id": "380295",
+            "date": "2026-06-14 16:51:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (1h)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "id": "380296",
+            "date": "2026-06-14 17:00:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WAL****/USDT (30m)** Oversold level reached\nRSI: 29.03 | [Binance](https://www.binance.com/en/trade/WAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WALUSDT)",
+            "id": "380297",
+            "date": "2026-06-14 17:07:48+00:00"
         }
     ]
 }
