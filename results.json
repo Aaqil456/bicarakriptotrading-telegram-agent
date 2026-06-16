@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-16T17:27:46.380094",
+    "timestamp": "2026-06-16T20:22:54.106494",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -53424,6 +53424,102 @@
             "original_text": "**MUB/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**57.71 MUB** have been bought\n\ud83d\udcb0Price: 1,051 USDT (**-0.14%**)\n\ud83d\udea8Order Size: **60,689 USDT** (**4.09%**)\n\u23f3Duration: **29 seconds**\n\ud83d\udcca24h Vol: **1.48M** USDT",
             "id": "101301",
             "date": "2026-06-16 16:04:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$POL****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/POL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:POLUSDT)]",
+            "id": "232289",
+            "date": "2026-06-16 20:00:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XRP****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/XRP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)]",
+            "id": "232290",
+            "date": "2026-06-16 20:00:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "id": "232291",
+            "date": "2026-06-16 20:00:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZRO****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)]",
+            "id": "232292",
+            "date": "2026-06-16 20:00:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RLUSD****/USDT (30m)** Overbought level reached\nRSI: 71.33 | [Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)",
+            "id": "381333",
+            "date": "2026-06-16 18:58:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (1h)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "381334",
+            "date": "2026-06-16 19:04:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPK****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
+            "id": "381335",
+            "date": "2026-06-16 19:06:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IOTX****/USDT (30m)** Oversold level reached\nRSI: 29.36 | [Binance](https://www.binance.com/en/trade/IOTX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOTXUSDT)",
+            "id": "381336",
+            "date": "2026-06-16 19:16:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SENT****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/SENT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SENTUSDT)",
+            "id": "381337",
+            "date": "2026-06-16 19:34:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "381338",
+            "date": "2026-06-16 19:43:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "381339",
+            "date": "2026-06-16 20:01:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LAYER****/USDT (4h)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/LAYER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LAYERUSDT)",
+            "id": "381340",
+            "date": "2026-06-16 20:04:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$UNI****/USDT (1h)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/UNI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)",
+            "id": "381341",
+            "date": "2026-06-16 20:17:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$UNI****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/UNI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)",
+            "id": "381342",
+            "date": "2026-06-16 20:19:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "**New on the CryptoQuant API \ud83d\udc40\n**\n**10 Bitcoin signals built as queries are now API endpoints.\n**\nThe same metrics traders and analysts monitor on charts can now be pulled directly into bots, alerts, dashboards, workflows, and models with a single API call.\n\n**Here are 3 worth watching closely \ud83d\udc47\n**\n**1. Apparent Demand\n**\nTracks Bitcoin spot demand changes over 30 days and 1 year.\n\nUseful for identifying when demand is accelerating, weakening, or reversing direction.\n\nEndpoint:\n`GET /v2/community/bitcoin-apparent-demand`\n\n**2. Trader Realized Price\n**\nShows the realized price of Bitcoin held for 1\u20133 months, including max, upper, lower, and min price bands.\n\nUseful for tracking where recent market participants may be in profit, under pressure, or nearing capitulation.\n\nEndpoint:\n`GET /v2/community/bitcoin-trader-realized-price`\n\n**3. Bull-Bear Market Indicator\n**\nA cycle momentum signal based on the gap between the PnL Index and its 365-day moving average.\n\nHelpful for identifying whether the market environment is bullish, bearish, recovering, or overheating.\n\nEndpoint:\n`GET /v2/community/bitcoin-bull-bear-indicator`\n\n**The bigger shift:**\n\n**Less** __\u201copen chart \u2192 check metric \u2192 copy signal.\u201d__\n\n**More** __\u201ccall endpoint \u2192 pipe into workflow \u2192 act faster.\u201d__\n\nExplore the new Alpha endpoints \u2935\ufe0f\n\n[**CryptoQuant Alpha Indicators**](https://alpha.cryptoquant.com/indicators)**\u2060\n**\n@cryptoquant_official",
+            "id": "3649",
+            "date": "2026-06-16 19:35:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**FIL/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**306.87K FIL** have been sold\n\ud83d\udcb0Price: 0.800 USDT (**0.38%**)\n\ud83d\udea8Order Size: **245,439 USDT** (**4.35%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **5.65M** USDT",
+            "id": "101302",
+            "date": "2026-06-16 19:55:14+00:00"
         }
     ]
 }
