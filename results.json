@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-17T20:13:42.503255",
+    "timestamp": "2026-06-17T22:12:51.904645",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -54078,6 +54078,72 @@
             "original_text": "**PHA/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.01M PHA** have been sold\n\ud83d\udcb0Price: 0.0366 USDT (**-1.35%**)\n\ud83d\udea8Order Size: **74,133 USDT** (**4.26%**)\n\u23f3Duration: **7 seconds**\n\ud83d\udcca24h Vol: **1.74M** USDT",
             "id": "101318",
             "date": "2026-06-17 19:18:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AR****/USDT (1d)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/AR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARUSDT)]",
+            "id": "232918",
+            "date": "2026-06-17 22:03:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LUNC****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)]",
+            "id": "232920",
+            "date": "2026-06-17 22:03:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PENDLE****/USDT (4h)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)]",
+            "id": "232921",
+            "date": "2026-06-17 22:03:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GPS****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/GPS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GPSUSDT)",
+            "id": "381645",
+            "date": "2026-06-17 21:33:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (30m)** Oversold level reached\nRSI: 29.74 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "381647",
+            "date": "2026-06-17 22:03:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "id": "381648",
+            "date": "2026-06-17 22:03:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "381650",
+            "date": "2026-06-17 22:03:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (30m)** Oversold level reached\nRSI: 29.72 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "381651",
+            "date": "2026-06-17 22:03:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAHARA****/USDT (30m)** Oversold level reached\nRSI: 28.62 | [Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)",
+            "id": "381652",
+            "date": "2026-06-17 22:04:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAHARA****/USDT (1h)** Oversold level reached\nRSI: 29.45 | [Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)",
+            "id": "381653",
+            "date": "2026-06-17 22:04:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APT****/USDT (1d)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
+            "id": "381654",
+            "date": "2026-06-17 22:05:09+00:00"
         }
     ]
 }
