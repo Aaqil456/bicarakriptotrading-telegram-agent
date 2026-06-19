@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T11:44:30.253328",
+    "timestamp": "2026-06-19T14:29:45.875776",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -54852,6 +54852,84 @@
             "original_text": "**$ALT****/USDT (30m)** Overbought level reached\nRSI: 70.55 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
             "id": "382164",
             "date": "2026-06-19 11:39:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BEL****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/BEL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BELUSDT)]",
+            "id": "233909",
+            "date": "2026-06-19 13:42:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MET****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/MET_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:METUSDT)]",
+            "id": "233913",
+            "date": "2026-06-19 13:59:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CAKE****/USDT (30m)** Overbought level reached\nRSI: 77.67 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
+            "id": "382192",
+            "date": "2026-06-19 13:59:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CAKE****/USDT (1h)** Overbought level reached\nRSI: 71.04 | [Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)",
+            "id": "382193",
+            "date": "2026-06-19 13:59:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALT****/USDT (4h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
+            "id": "382194",
+            "date": "2026-06-19 14:05:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.95 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "382195",
+            "date": "2026-06-19 14:07:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALT****/USDT (30m)** Overbought level reached\nRSI: 70.32 | [Binance](https://www.binance.com/en/trade/ALT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALTUSDT)",
+            "id": "382196",
+            "date": "2026-06-19 14:09:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (4h)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "382197",
+            "date": "2026-06-19 14:11:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPK****/USDT (4h)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/SPK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPKUSDT)",
+            "id": "382198",
+            "date": "2026-06-19 14:13:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.49 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "382199",
+            "date": "2026-06-19 14:24:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Overbought level reached\nRSI: 76.50 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "382200",
+            "date": "2026-06-19 14:25:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (1h)** Overbought level reached\nRSI: 71.42 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "382201",
+            "date": "2026-06-19 14:25:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "The Final Flush Before Bitcoin Finds Its Bottom?\n\n\u201cThe key question now is whether BTC can stabilize while realized losses continue to decline, or whether one last downside wave is needed to complete the capitulation process.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a3407bd178f3b625a4b50e2-The-Final-Flush-Before-Bitcoin-Finds-Its-Bottom-Bitcoins-Weak-Hands-May-Already-?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv)\n \nBy [MorenoDV_](https://cryptoquant.com/profile/u/MorenoDV_?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=morenodv) | @cryptoquant_official",
+            "id": "3659",
+            "date": "2026-06-19 12:45:26+00:00"
         }
     ]
 }
