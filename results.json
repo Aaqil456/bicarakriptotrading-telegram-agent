@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T20:13:05.644675",
+    "timestamp": "2026-06-19T21:20:13.395401",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -55140,6 +55140,24 @@
             "original_text": "**$PORTAL****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/PORTAL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PORTALUSDT)",
             "id": "382257",
             "date": "2026-06-19 20:04:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "382258",
+            "date": "2026-06-19 20:19:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.82 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "382259",
+            "date": "2026-06-19 20:40:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "382260",
+            "date": "2026-06-19 21:04:42+00:00"
         }
     ]
 }
