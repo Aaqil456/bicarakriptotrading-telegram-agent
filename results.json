@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-20T16:00:59.489937",
+    "timestamp": "2026-06-20T17:26:23.788810",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -55620,6 +55620,78 @@
             "original_text": "**$JST****/USDT (1h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
             "id": "382484",
             "date": "2026-06-20 15:45:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$WCT****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/WCT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WCTUSDT)]",
+            "id": "234537",
+            "date": "2026-06-20 17:00:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (30m)** Oversold level reached\nRSI: 29.58 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "382487",
+            "date": "2026-06-20 16:04:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MANA****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.23 | [Binance](https://www.binance.com/en/trade/MANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MANAUSDT)",
+            "id": "382488",
+            "date": "2026-06-20 16:10:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BEL****/USDT (1h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/BEL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BELUSDT)",
+            "id": "382489",
+            "date": "2026-06-20 16:19:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "382490",
+            "date": "2026-06-20 16:37:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AXS****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/AXS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AXSUSDT)",
+            "id": "382491",
+            "date": "2026-06-20 16:54:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BICO****/USDT (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/BICO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BICOUSDT)",
+            "id": "382492",
+            "date": "2026-06-20 16:58:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BICO****/USDT (30m)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/BICO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BICOUSDT)",
+            "id": "382493",
+            "date": "2026-06-20 17:01:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AXS****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/AXS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AXSUSDT)",
+            "id": "382494",
+            "date": "2026-06-20 17:06:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1h)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "382495",
+            "date": "2026-06-20 17:09:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MANA****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.02 | [Binance](https://www.binance.com/en/trade/MANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MANAUSDT)",
+            "id": "382496",
+            "date": "2026-06-20 17:18:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/p__ \ud83d\udd25 \n\nThe '/p' is a simple command that lets you **show price, volume and marketcap** information of any coin listed on coingecko. \u26a1 \nUse it to **quickly display the price** of your favorite coins and see how they have **performed recently**. \nThis command can be used on **all coins** available on coingecko, with its given symbols.\n\n**Command Format:**\n**-** /p btc\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/p__** to try the command now!",
+            "id": "101331",
+            "date": "2026-06-20 17:00:02+00:00"
         }
     ]
 }
