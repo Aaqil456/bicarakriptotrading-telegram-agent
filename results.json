@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-21T07:04:24.200764",
+    "timestamp": "2026-06-21T10:35:55.252398",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -56136,6 +56136,66 @@
             "original_text": "**PYR/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**388.47K PYR** have been sold\n\ud83d\udcb0Price: 0.191 USDT (**0.00%**)\n\ud83d\udea8Order Size: **74,270 USDT** (**4.40%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **1.69M** USDT",
             "id": "101335",
             "date": "2026-06-21 06:31:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JUP****/USDT (30m)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/JUP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JUPUSDT)",
+            "id": "382685",
+            "date": "2026-06-21 10:06:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (30m)** Overbought level reached\nRSI: 71.04 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "382686",
+            "date": "2026-06-21 10:08:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "382687",
+            "date": "2026-06-21 10:09:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (1h)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "382688",
+            "date": "2026-06-21 10:10:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (1h)** Overbought level reached\nRSI: 70.53 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "382689",
+            "date": "2026-06-21 10:13:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PYR****/USDT (1h)** Overbought level reached\nRSI: 70.78 | [Binance](https://www.binance.com/en/trade/PYR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PYRUSDT)",
+            "id": "382690",
+            "date": "2026-06-21 10:13:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Overbought level reached\nRSI: 70.35 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "382691",
+            "date": "2026-06-21 10:22:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/USDT (30m)** Overbought level reached\nRSI: 70.33 | [Binance](https://www.binance.com/en/trade/SOL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLUSDT)",
+            "id": "382692",
+            "date": "2026-06-21 10:24:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (4h)** Overbought level reached\nRSI: 71.85 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "id": "382693",
+            "date": "2026-06-21 10:24:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "382694",
+            "date": "2026-06-21 10:26:56+00:00"
         }
     ]
 }
