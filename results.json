@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-20T23:52:47.933820",
+    "timestamp": "2026-06-21T02:09:32.531696",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -55992,6 +55992,66 @@
             "original_text": "**$S****/USDT (4h)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
             "id": "382553",
             "date": "2026-06-20 23:50:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MANA****/USDT (1h)** Overbought level reached\nRSI: 72.29 | [Binance](https://www.binance.com/en/trade/MANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MANAUSDT)",
+            "id": "382581",
+            "date": "2026-06-21 01:10:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALICE****/USDT (1d)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/ALICE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALICEUSDT)",
+            "id": "382582",
+            "date": "2026-06-21 01:13:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ACE****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/ACE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ACEUSDT)",
+            "id": "382583",
+            "date": "2026-06-21 01:14:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ACE****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.44 | [Binance](https://www.binance.com/en/trade/ACE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ACEUSDT)",
+            "id": "382584",
+            "date": "2026-06-21 01:23:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "382585",
+            "date": "2026-06-21 01:37:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MET****/USDT (30m)** Overbought level reached\nRSI: 70.55 | [Binance](https://www.binance.com/en/trade/MET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:METUSDT)",
+            "id": "382586",
+            "date": "2026-06-21 01:43:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "382587",
+            "date": "2026-06-21 01:57:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RESOLV****/USDT (1h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/RESOLV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RESOLVUSDT)",
+            "id": "382588",
+            "date": "2026-06-21 02:01:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BICO****/USDT (1h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/BICO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BICOUSDT)",
+            "id": "382589",
+            "date": "2026-06-21 02:02:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PIXEL****/USDT (1h)** Overbought level reached\nRSI: 70.38 | [Binance](https://www.binance.com/en/trade/PIXEL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PIXELUSDT)",
+            "id": "382590",
+            "date": "2026-06-21 02:06:20+00:00"
         }
     ]
 }
