@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-21T23:22:31.125547",
+    "timestamp": "2026-06-22T01:44:56.852480",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -56700,6 +56700,66 @@
             "original_text": "**$ADA****/USDT (1h)** Oversold level reached\nRSI: 29.56 | [Binance](https://www.binance.com/en/trade/ADA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)",
             "id": "382859",
             "date": "2026-06-21 23:14:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PYR****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/PYR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PYRUSDT)]",
+            "id": "235249",
+            "date": "2026-06-22 01:30:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Overbought level reached\nRSI: 72.89 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "382891",
+            "date": "2026-06-22 01:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYN****/USDT (30m)** Overbought level reached\nRSI: 70.39 | [Binance](https://www.binance.com/en/trade/SYN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYNUSDT)",
+            "id": "382892",
+            "date": "2026-06-22 01:00:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYN****/USDT (1h)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/SYN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYNUSDT)",
+            "id": "382893",
+            "date": "2026-06-22 01:01:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (30m)** Overbought level reached\nRSI: 70.62 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "382894",
+            "date": "2026-06-22 01:04:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (1h)** Overbought level reached\nRSI: 70.29 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "382895",
+            "date": "2026-06-22 01:22:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Overbought level reached\nRSI: 71.03 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "382898",
+            "date": "2026-06-22 01:27:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (30m)** Overbought level reached\nRSI: 70.53 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "382899",
+            "date": "2026-06-22 01:41:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRUMP****/USDT (30m)** Overbought level reached\nRSI: 70.34 | [Binance](https://www.binance.com/en/trade/TRUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRUMPUSDT)",
+            "id": "382900",
+            "date": "2026-06-22 01:41:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SPCXB/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**776.12 SPCXB** have been sold\n\ud83d\udcb0Price: 176.30 USDT (**-0.82%**)\n\ud83d\udea8Order Size: **137,267 USDT** (**4.30%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **3.19M** USDT",
+            "id": "101345",
+            "date": "2026-06-21 23:53:40+00:00"
         }
     ]
 }
