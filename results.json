@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T20:29:00.294809",
+    "timestamp": "2026-06-23T21:55:55.210068",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -57708,6 +57708,42 @@
             "original_text": "**ASTER/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**831.31K ASTER** have been sold\n\ud83d\udcb0Price: 0.641 USDT (**2.56%**)\n\ud83d\udea8Order Size: **526,675 USDT** (**5.20%**)\n\u23f3Duration: **15 seconds**\n\ud83d\udcca24h Vol: **10.12M** USDT",
             "id": "101356",
             "date": "2026-06-23 19:30:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIL****/USDT (30m)** Overbought level reached\nRSI: 70.67 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
+            "id": "383588",
+            "date": "2026-06-23 21:00:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DEXE****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)",
+            "id": "383589",
+            "date": "2026-06-23 21:00:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DEXE****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)",
+            "id": "383590",
+            "date": "2026-06-23 21:04:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ASTER****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/ASTER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ASTERUSDT)",
+            "id": "383591",
+            "date": "2026-06-23 21:05:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LTC****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/LTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)",
+            "id": "383595",
+            "date": "2026-06-23 21:31:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "383597",
+            "date": "2026-06-23 21:40:38+00:00"
         }
     ]
 }
