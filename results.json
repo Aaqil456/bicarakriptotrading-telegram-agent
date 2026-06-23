@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T16:35:09.103870",
+    "timestamp": "2026-06-23T18:25:05.526582",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -57570,6 +57570,84 @@
             "original_text": "**$XRP****/USDT (1h)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/XRP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)",
             "id": "383547",
             "date": "2026-06-23 16:25:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$WLFI****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)]",
+            "id": "236107",
+            "date": "2026-06-23 17:37:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MOVR****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)]",
+            "id": "236109",
+            "date": "2026-06-23 17:47:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "383555",
+            "date": "2026-06-23 17:26:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BREV****/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/BREV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BREVUSDT)",
+            "id": "383556",
+            "date": "2026-06-23 17:29:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.27 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "383557",
+            "date": "2026-06-23 17:33:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYN****/USDT (30m)** Overbought level reached\nRSI: 71.10 | [Binance](https://www.binance.com/en/trade/SYN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYNUSDT)",
+            "id": "383558",
+            "date": "2026-06-23 17:49:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TNSR****/USDT (1h)** Oversold level reached\nRSI: 29.75 | [Binance](https://www.binance.com/en/trade/TNSR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TNSRUSDT)",
+            "id": "383559",
+            "date": "2026-06-23 17:53:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WBETH****/USDT (1h)** Oversold level reached\nRSI: 29.66 | [Binance](https://www.binance.com/en/trade/WBETH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WBETHUSDT)",
+            "id": "383560",
+            "date": "2026-06-23 17:54:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LTC****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.87 | [Binance](https://www.binance.com/en/trade/LTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)",
+            "id": "383561",
+            "date": "2026-06-23 18:04:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (1h)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "383562",
+            "date": "2026-06-23 18:04:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/USDT (1h)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/BNB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)",
+            "id": "383563",
+            "date": "2026-06-23 18:08:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GALA****/USDT (1h)** Oversold level reached\nRSI: 29.48 | [Binance](https://www.binance.com/en/trade/GALA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GALAUSDT)",
+            "id": "383564",
+            "date": "2026-06-23 18:11:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Strategy\u2019s annualized dividend obligations have nearly quadrupled to $1.2B, while its cash reserve has fallen 38% in 2026.\n\nDividend coverage collapsed from 7+ years to just 14 months.\n\nThe company needs to stop buying Bitcoin and rebuild cash.\n\n\ud83d\udc49 [Full details in our report.](https://cryptoquant.com/insights/research/6a3abc1e7a878621f52753a5-23-June-2026-Overstretched-Strategy-Needs-To-Stop-Buying-Bitcoin-Rebuild-Its-Cas?utm_source=telegram&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report) \n\n@cryptoquant_official",
+            "id": "3663",
+            "date": "2026-06-23 17:12:27+00:00"
         }
     ]
 }
