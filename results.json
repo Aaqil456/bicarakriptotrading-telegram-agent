@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-24T05:43:23.363311",
+    "timestamp": "2026-06-24T08:43:40.710895",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -58002,6 +58002,72 @@
             "original_text": "**PHA/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.08M PHA** have been sold\n\ud83d\udcb0Price: 0.0377 USDT (**1.07%**)\n\ud83d\udea8Order Size: **78,329 USDT** (**5.25%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **1.49M** USDT",
             "id": "101360",
             "date": "2026-06-24 05:25:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DOLO****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/DOLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOLOUSDT)]",
+            "id": "236408",
+            "date": "2026-06-24 08:14:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALICE****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ALICE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALICEUSDT)]",
+            "id": "236412",
+            "date": "2026-06-24 08:23:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$G****/USDT (30m)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/G_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GUSDT)",
+            "id": "383699",
+            "date": "2026-06-24 06:12:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (1h)** Oversold level reached\nRSI: 29.77 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "383700",
+            "date": "2026-06-24 06:31:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PEPE****/USDT (1h)** Oversold level reached\nRSI: 27.61 | [Binance](https://www.binance.com/en/trade/PEPE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PEPEUSDT)",
+            "id": "383702",
+            "date": "2026-06-24 07:19:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OPEN****/USDT (1h)** Oversold level reached\nRSI: 29.74 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
+            "id": "383703",
+            "date": "2026-06-24 07:22:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$G****/USDT (1h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/G_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GUSDT)",
+            "id": "383704",
+            "date": "2026-06-24 07:28:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SAHARA****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/SAHARA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SAHARAUSDT)",
+            "id": "383706",
+            "date": "2026-06-24 07:33:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ID****/USDT (30m)** Overbought level reached\nRSI: 70.80 | [Binance](https://www.binance.com/en/trade/ID_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IDUSDT)",
+            "id": "383707",
+            "date": "2026-06-24 08:04:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALICE****/USDT (30m)** Overbought level reached\nRSI: 70.40 | [Binance](https://www.binance.com/en/trade/ALICE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALICEUSDT)",
+            "id": "383708",
+            "date": "2026-06-24 08:26:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RENDER/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**135.08K RENDER** have been bought\n\ud83d\udcb0Price: 1.62 USDT (**1.38%**)\n\ud83d\udea8Order Size: **217,915 USDT** (**6.98%**)\n\u23f3Duration: **2 seconds**\n\ud83d\udcca24h Vol: **3.12M** USDT",
+            "id": "101361",
+            "date": "2026-06-24 08:01:35+00:00"
         }
     ]
 }
