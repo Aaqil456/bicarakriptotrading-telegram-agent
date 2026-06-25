@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-25T13:29:30.997485",
+    "timestamp": "2026-06-25T16:00:41.287538",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -58908,6 +58908,84 @@
             "original_text": "**0G/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**360.71K 0G** have been sold\n\ud83d\udcb0Price: 0.230 USDT (**-0.86%**)\n\ud83d\udea8Order Size: **83,112 USDT** (**4.12%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **2.01M** USDT",
             "id": "101377",
             "date": "2026-06-25 13:09:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PUNDIX****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)]",
+            "id": "237088",
+            "date": "2026-06-25 15:54:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PUNDIX****/USDT (1d)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)]",
+            "id": "237089",
+            "date": "2026-06-25 15:56:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APT****/USDT (30m)** Oversold level reached\nRSI: 29.23 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
+            "id": "384457",
+            "date": "2026-06-25 15:16:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOGE****/USDT (30m)** Oversold level reached\nRSI: 29.72 | [Binance](https://www.binance.com/en/trade/DOGE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOGEUSDT)",
+            "id": "384458",
+            "date": "2026-06-25 15:16:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Oversold level reached\nRSI: 29.26 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "384460",
+            "date": "2026-06-25 15:28:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Overbought level reached\nRSI: 71.96 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "384461",
+            "date": "2026-06-25 15:48:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUNDIX****/USDT (30m)** Oversold level reached\nRSI: 29.34 | [Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)",
+            "id": "384462",
+            "date": "2026-06-25 15:55:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUNDIX****/USDT (1h)** Oversold level reached\nRSI: 29.63 | [Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)",
+            "id": "384463",
+            "date": "2026-06-25 15:55:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUNDIX****/USDT (4h)** Oversold level reached\nRSI: 29.59 | [Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)",
+            "id": "384464",
+            "date": "2026-06-25 15:56:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUNDIX****/USDT (1d)** Extreme Oversold level reached\nRSI: 20.00 | [Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)",
+            "id": "384465",
+            "date": "2026-06-25 15:57:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUNDIX****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.59 | [Binance](https://www.binance.com/en/trade/PUNDIX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUNDIXUSDT)",
+            "id": "384466",
+            "date": "2026-06-25 15:57:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "STH Realized Price YoY Momentum Declines Further to -24%\n\n\u201cThe deterioration that began in March has intensified, but the current reading remains less severe than in prior deep-reset zones.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a3bd290718c636ace57a91d-BTC-STH-Realized-Price-YoY-Momentum-Declines-Further-to-24?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=zizcrypto)\n \nBy [Zizcrypto](https://cryptoquant.com/profile/u/Zizcrypto?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=zizcrypto) | @cryptoquant_official",
+            "id": "3666",
+            "date": "2026-06-25 14:43:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PUNDIX/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**825.36K PUNDIX** have been sold\n\ud83d\udcb0Price: 0.0936 USDT (**-0.32%**)\n\ud83d\udea8Order Size: **77,379 USDT** (**5.93%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **1.31M** USDT",
+            "id": "101378",
+            "date": "2026-06-25 14:32:14+00:00"
         }
     ]
 }
