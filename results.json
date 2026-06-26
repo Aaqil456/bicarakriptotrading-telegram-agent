@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T21:55:40.649085",
+    "timestamp": "2026-06-26T22:57:10.192350",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -59784,6 +59784,24 @@
             "original_text": "**$HBAR****/USDT (4h)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
             "id": "384780",
             "date": "2026-06-26 21:39:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IO****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/IO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOUSDT)",
+            "id": "384781",
+            "date": "2026-06-26 21:59:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "id": "384782",
+            "date": "2026-06-26 22:07:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AAVE****/USDT (1h)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)",
+            "id": "384783",
+            "date": "2026-06-26 22:44:18+00:00"
         }
     ]
 }
