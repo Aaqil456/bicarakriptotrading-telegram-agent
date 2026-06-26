@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T22:57:10.192350",
+    "timestamp": "2026-06-26T23:54:47.880392",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -59802,6 +59802,24 @@
             "original_text": "**$AAVE****/USDT (1h)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)",
             "id": "384783",
             "date": "2026-06-26 22:44:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MORPHO****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/MORPHO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MORPHOUSDT)",
+            "id": "384785",
+            "date": "2026-06-26 23:01:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "id": "384786",
+            "date": "2026-06-26 23:12:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVAX****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)",
+            "id": "384787",
+            "date": "2026-06-26 23:25:43+00:00"
         }
     ]
 }
