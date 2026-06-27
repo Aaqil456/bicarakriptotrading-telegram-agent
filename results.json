@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-27T16:46:52.409896",
+    "timestamp": "2026-06-27T17:47:10.711547",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -60378,6 +60378,78 @@
             "original_text": "**$SHIB****/USDT (30m)** Overbought level reached\nRSI: 71.95 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
             "id": "384948",
             "date": "2026-06-27 16:41:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SEI****/USDT (30m)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
+            "id": "384951",
+            "date": "2026-06-27 17:01:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (30m)** Oversold level reached\nRSI: 28.05 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "384952",
+            "date": "2026-06-27 17:02:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SEI****/USDT (1h)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
+            "id": "384953",
+            "date": "2026-06-27 17:04:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "384954",
+            "date": "2026-06-27 17:16:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (30m)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "384955",
+            "date": "2026-06-27 17:30:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (1h)** Extreme Overbought level reached\nRSI: 81.82 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "384956",
+            "date": "2026-06-27 17:33:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BEL****/USDT (1h)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/BEL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BELUSDT)",
+            "id": "384957",
+            "date": "2026-06-27 17:34:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (1h)** Overbought level reached\nRSI: 79.99 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "384958",
+            "date": "2026-06-27 17:36:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BEL****/USDT (30m)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/BEL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BELUSDT)",
+            "id": "384959",
+            "date": "2026-06-27 17:37:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APE****/USDT (30m)** Oversold level reached\nRSI: 29.80 | [Binance](https://www.binance.com/en/trade/APE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APEUSDT)",
+            "id": "384960",
+            "date": "2026-06-27 17:43:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/comp__ \ud83d\udd25 \n\nThe '/comp' command can be used to comare the **marketcap** between two coins. \u2696\ufe0f  \nThis lets you perform a **quick marketcap comparison** to see which coin is bigger and what the price impact would be.\ud83d\udcca \nThis command can be used on all the coins listed on coingecko.\n\n**Command Format:**\n**-** /comp eth btc\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/comp__** to try the command now!",
+            "id": "101392",
+            "date": "2026-06-27 17:00:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ENA/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**7.19M ENA** have been sold\n\ud83d\udcb0Price: 0.0770 USDT (**-1.53%**)\n\ud83d\udea8Order Size: **558,275 USDT** (**5.02%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **11.13M** USDT",
+            "id": "101393",
+            "date": "2026-06-27 17:12:55+00:00"
         }
     ]
 }
