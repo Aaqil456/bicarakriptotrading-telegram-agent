@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-28T00:14:50.268302",
+    "timestamp": "2026-06-28T04:50:01.031848",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -60786,6 +60786,78 @@
             "original_text": "**$ARK****/USDT (30m)** Overbought level reached\nRSI: 71.21 | [Binance](https://www.binance.com/en/trade/ARK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARKUSDT)",
             "id": "385035",
             "date": "2026-06-28 00:04:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (4h)** Overbought level reached\nRSI: 70.72 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "385061",
+            "date": "2026-06-28 03:53:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAITO****/USDT (1h)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)",
+            "id": "385062",
+            "date": "2026-06-28 03:57:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ACT****/USDT (4h)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/ACT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ACTUSDT)",
+            "id": "385063",
+            "date": "2026-06-28 04:02:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STG****/USDT (30m)** Overbought level reached\nRSI: 70.37 | [Binance](https://www.binance.com/en/trade/STG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STGUSDT)",
+            "id": "385064",
+            "date": "2026-06-28 04:07:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Overbought level reached\nRSI: 70.38 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "385065",
+            "date": "2026-06-28 04:10:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JST****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.12 | [Binance](https://www.binance.com/en/trade/JST_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JSTUSDT)",
+            "id": "385066",
+            "date": "2026-06-28 04:17:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JUP****/USDT (30m)** Oversold level reached\nRSI: 29.75 | [Binance](https://www.binance.com/en/trade/JUP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JUPUSDT)",
+            "id": "385067",
+            "date": "2026-06-28 04:20:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (30m)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "id": "385068",
+            "date": "2026-06-28 04:32:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "385069",
+            "date": "2026-06-28 04:39:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ACT****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/ACT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ACTUSDT)",
+            "id": "385070",
+            "date": "2026-06-28 04:47:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**TRX/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.29M TRX** have been sold\n\ud83d\udcb0Price: 0.322 USDT (**-0.19%**)\n\ud83d\udea8Order Size: **736,872 USDT** (**4.04%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **18.24M** USDT",
+            "id": "101395",
+            "date": "2026-06-28 00:16:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ZRO/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**156.42K ZRO** have been sold\n\ud83d\udcb0Price: 0.763 USDT (**-1.04%**)\n\ud83d\udea8Order Size: **119,959 USDT** (**4.48%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **2.68M** USDT",
+            "id": "101396",
+            "date": "2026-06-28 00:52:33+00:00"
         }
     ]
 }
