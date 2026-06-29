@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T22:43:35.530797",
+    "timestamp": "2026-06-29T23:40:38.453898",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -62298,6 +62298,18 @@
             "original_text": "**$PAXG****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "id": "385528",
             "date": "2026-06-29 22:40:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (30m)** Oversold level reached\nRSI: 29.82 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "385529",
+            "date": "2026-06-29 22:51:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (30m)** Overbought level reached\nRSI: 72.25 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "id": "385530",
+            "date": "2026-06-29 23:38:18+00:00"
         }
     ]
 }
