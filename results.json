@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T15:46:05.090550",
+    "timestamp": "2026-06-30T17:30:28.027977",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -62760,6 +62760,66 @@
             "original_text": "**$UNI****/USDT (30m)** Oversold level reached\nRSI: 29.51 | [Binance](https://www.binance.com/en/trade/UNI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)",
             "id": "385771",
             "date": "2026-06-30 15:38:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "385790",
+            "date": "2026-06-30 16:33:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (30m)** Oversold level reached\nRSI: 29.81 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "id": "385791",
+            "date": "2026-06-30 16:41:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Extreme Oversold level reached\nRSI: 18.07 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "385792",
+            "date": "2026-06-30 16:45:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XRP****/BTC (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/XRP_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XRPBTC)",
+            "id": "385793",
+            "date": "2026-06-30 16:56:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (1h)** Extreme Overbought level reached\nRSI: 81.84 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "385794",
+            "date": "2026-06-30 16:59:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENA****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/ENA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENAUSDT)",
+            "id": "385795",
+            "date": "2026-06-30 17:00:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$\u5e01\u5b89\u4eba\u751f/USDT (30m)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/\u5e01\u5b89\u4eba\u751f_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:\u5e01\u5b89\u4eba\u751fUSDT)",
+            "id": "385796",
+            "date": "2026-06-30 17:01:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "id": "385797",
+            "date": "2026-06-30 17:08:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GLM****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.23 | [Binance](https://www.binance.com/en/trade/GLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GLMUSDT)",
+            "id": "385798",
+            "date": "2026-06-30 17:16:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GLM****/USDT (4h)** Overbought level reached\nRSI: 79.92 | [Binance](https://www.binance.com/en/trade/GLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GLMUSDT)",
+            "id": "385799",
+            "date": "2026-06-30 17:17:37+00:00"
         }
     ]
 }
