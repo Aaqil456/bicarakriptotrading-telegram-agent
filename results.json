@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T22:25:15.736915",
+    "timestamp": "2026-06-30T23:41:25.629560",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -63000,6 +63000,42 @@
             "original_text": "**$ALLO****/USDT (30m)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)",
             "id": "385838",
             "date": "2026-06-30 22:01:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TOWNS****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/TOWNS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TOWNSUSDT)]",
+            "id": "240059",
+            "date": "2026-06-30 23:12:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZBT****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/ZBT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZBTUSDT)",
+            "id": "385839",
+            "date": "2026-06-30 22:26:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AAVE****/USDT (30m)** Oversold level reached\nRSI: 29.88 | [Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)",
+            "id": "385840",
+            "date": "2026-06-30 22:30:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "385841",
+            "date": "2026-06-30 22:31:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "385842",
+            "date": "2026-06-30 22:41:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (1h)** Oversold level reached\nRSI: 29.83 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "385843",
+            "date": "2026-06-30 23:31:19+00:00"
         }
     ]
 }
