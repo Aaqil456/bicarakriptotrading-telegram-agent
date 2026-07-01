@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T17:30:03.959363",
+    "timestamp": "2026-07-01T19:18:02.556294",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -63342,6 +63342,78 @@
             "original_text": "CeFi lending had its first contraction since Q3 2024, down 6% QoQ to $ 23.3B.\n\nTether still owns 68% of the market despite a 7% pullback. Nexo, Maple, and Coinbase were the only lenders that actually grew.\n\nGalaxy (-21%) and Ledn (-19%) took the brunt of the deleverage.\n\n\ud83d\udc49 [Full report.](https://cryptoquant.com/community/dashboard/6a3572bd9139404af2b02145?utm_source=telegram&utm_medium=sns&utm_campaign=dashboard&utm_content=cefi-lending)\n\n@cryptoquant_official",
             "id": "3676",
             "date": "2026-07-01 16:08:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALCX****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ALCX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALCXUSDT)]",
+            "id": "240555",
+            "date": "2026-07-01 19:07:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ARDR****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/ARDR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARDRUSDT)]",
+            "id": "240556",
+            "date": "2026-07-01 19:11:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLD****/USDT (30m)** Oversold level reached\nRSI: 29.53 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
+            "id": "386137",
+            "date": "2026-07-01 18:22:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLD****/USDT (1h)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
+            "id": "386138",
+            "date": "2026-07-01 18:23:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOM****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.17 | [Binance](https://www.binance.com/en/trade/NOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOMUSDT)",
+            "id": "386139",
+            "date": "2026-07-01 18:34:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NOM****/USDT (1d)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/NOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOMUSDT)",
+            "id": "386140",
+            "date": "2026-07-01 18:36:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MORPHO****/USDT (30m)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/MORPHO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MORPHOUSDT)",
+            "id": "386141",
+            "date": "2026-07-01 18:38:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALCX****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/ALCX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALCXUSDT)",
+            "id": "386142",
+            "date": "2026-07-01 18:46:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DYDX****/USDT (30m)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/DYDX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DYDXUSDT)",
+            "id": "386143",
+            "date": "2026-07-01 18:47:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HBAR****/USDT (30m)** Overbought level reached\nRSI: 70.30 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
+            "id": "386144",
+            "date": "2026-07-01 19:00:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.03 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "386145",
+            "date": "2026-07-01 19:10:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ADA****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/ADA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)",
+            "id": "386146",
+            "date": "2026-07-01 19:10:25+00:00"
         }
     ]
 }
