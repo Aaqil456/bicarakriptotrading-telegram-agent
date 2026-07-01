@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T12:47:20.746378",
+    "timestamp": "2026-07-01T15:31:27.762525",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -63204,6 +63204,78 @@
             "original_text": "**$NOM****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.31 | [Binance](https://www.binance.com/en/trade/NOM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:NOMUSDT)",
             "id": "386028",
             "date": "2026-07-01 12:41:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XRP****/USDT (1d)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/XRP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)]",
+            "id": "240475",
+            "date": "2026-07-01 15:27:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIL****/USDT (30m)** Overbought level reached\nRSI: 70.59 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
+            "id": "386082",
+            "date": "2026-07-01 15:23:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (30m)** Overbought level reached\nRSI: 70.36 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "id": "386083",
+            "date": "2026-07-01 15:23:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Overbought level reached\nRSI: 70.64 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "386084",
+            "date": "2026-07-01 15:23:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Overbought level reached\nRSI: 70.22 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "386085",
+            "date": "2026-07-01 15:23:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APT****/USDT (1h)** Overbought level reached\nRSI: 70.51 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
+            "id": "386086",
+            "date": "2026-07-01 15:23:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (1h)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "id": "386087",
+            "date": "2026-07-01 15:23:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/USDT (1h)** Overbought level reached\nRSI: 70.33 | [Binance](https://www.binance.com/en/trade/ETH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHUSDT)",
+            "id": "386088",
+            "date": "2026-07-01 15:23:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "386089",
+            "date": "2026-07-01 15:23:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XRP****/USDT (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/XRP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)",
+            "id": "386090",
+            "date": "2026-07-01 15:23:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "**Vibe Quants is out now ****\ud83d\udfe2****\n**\nWe built a community for people building trading agents on CryptoQuant data.\n\nInstead of watching charts, our builders wire on-chain data into AI agents that monitor the market, read regime shifts, and surface signals. Vibe Quant is where they share setups, strategies, and code.\n\n**What's inside:**\n\n\u2022 Community + market discussion, open to everyone\n\n\u2022 Vibe trading fundamentals to get started\n\n\u2022 Gated Builder Zone for Pro/Premium: API & MCP peer help, strategy sharing, early endpoint access\n\nRun /verify after joining and your role connects automatically.\n\n[Join now.](https://discord.gg/25Bu3sTadx)\n\n@cryptoquant_official",
+            "id": "3672",
+            "date": "2026-07-01 14:16:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**Leveraged Trading directly from your Wallet** \ud83d\udcca\ud83d\udcc8\n\n**Unleash the power** of trading with GMX, the ultimate on-chain exchange for your favorite **cryptocurrencies**. Trade with **up to 50x** leverage for **amplified gains**!\n\nYour **funds**, your **control**! Join the decentralized revolution **now**. \ud83d\udc8e\n\nUse code '**startnow**' for **10% off** or click on the button below. \ud83d\udea8",
+            "id": "101429",
+            "date": "2026-07-01 14:00:02+00:00"
         }
     ]
 }
