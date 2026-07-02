@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-02T17:06:52.247974",
+    "timestamp": "2026-07-02T18:43:31.957112",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -63990,6 +63990,66 @@
             "original_text": "**$EIGEN****/USDT (30m)** Overbought level reached\nRSI: 70.15 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
             "id": "386529",
             "date": "2026-07-02 16:49:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALCX****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ALCX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALCXUSDT)]",
+            "id": "241120",
+            "date": "2026-07-02 18:30:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (1h)** Overbought level reached\nRSI: 70.41 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "386535",
+            "date": "2026-07-02 17:40:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (4h)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "386536",
+            "date": "2026-07-02 17:40:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (30m)** Overbought level reached\nRSI: 70.78 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "386537",
+            "date": "2026-07-02 18:00:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (1h)** Overbought level reached\nRSI: 71.31 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "386538",
+            "date": "2026-07-02 18:00:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MANTA****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/MANTA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MANTAUSDT)",
+            "id": "386539",
+            "date": "2026-07-02 18:01:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/BTC (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
+            "id": "386540",
+            "date": "2026-07-02 18:07:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TLM****/USDT (1h)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/TLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TLMUSDT)",
+            "id": "386541",
+            "date": "2026-07-02 18:12:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALLO****/USDT (4h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)",
+            "id": "386543",
+            "date": "2026-07-02 18:25:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BICO****/USDT (1h)** Overbought level reached\nRSI: 72.20 | [Binance](https://www.binance.com/en/trade/BICO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BICOUSDT)",
+            "id": "386544",
+            "date": "2026-07-02 18:40:58+00:00"
         }
     ]
 }
