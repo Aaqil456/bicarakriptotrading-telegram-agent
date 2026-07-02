@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-02T05:39:09.293056",
+    "timestamp": "2026-07-02T08:32:26.193516",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -63678,6 +63678,66 @@
             "original_text": "**$ME****/USDT (4h)** Overbought level reached\nRSI: 79.93 | [Binance](https://www.binance.com/en/trade/ME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEUSDT)",
             "id": "386301",
             "date": "2026-07-02 05:21:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MIRA****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MIRA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MIRAUSDT)]",
+            "id": "240877",
+            "date": "2026-07-02 08:30:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IOTA****/USDT (4h)** Overbought level reached\nRSI: 70.29 | [Binance](https://www.binance.com/en/trade/IOTA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOTAUSDT)",
+            "id": "386322",
+            "date": "2026-07-02 07:56:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (30m)** Extreme Overbought level reached\nRSI: 88.16 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "386323",
+            "date": "2026-07-02 07:59:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (1h)** Extreme Overbought level reached\nRSI: 85.14 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "386324",
+            "date": "2026-07-02 07:59:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (4h)** Overbought level reached\nRSI: 71.96 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "386325",
+            "date": "2026-07-02 07:59:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ARDR****/USDT (1d)** Oversold level reached\nRSI: 29.92 | [Binance](https://www.binance.com/en/trade/ARDR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARDRUSDT)",
+            "id": "386326",
+            "date": "2026-07-02 08:08:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ME****/USDT (1h)** Overbought level reached\nRSI: 70.47 | [Binance](https://www.binance.com/en/trade/ME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEUSDT)",
+            "id": "386327",
+            "date": "2026-07-02 08:11:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (1h)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "386328",
+            "date": "2026-07-02 08:15:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIL****/USDT (30m)** Overbought level reached\nRSI: 70.62 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
+            "id": "386330",
+            "date": "2026-07-02 08:27:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "386331",
+            "date": "2026-07-02 08:28:41+00:00"
         }
     ]
 }
