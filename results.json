@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-03T22:18:12.099979",
+    "timestamp": "2026-07-03T23:20:17.088727",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -64986,6 +64986,42 @@
             "original_text": "**$KAITO****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)",
             "id": "387006",
             "date": "2026-07-03 21:59:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TLM****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/TLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TLMUSDT)",
+            "id": "387007",
+            "date": "2026-07-03 22:30:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "387008",
+            "date": "2026-07-03 22:31:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (30m)** Overbought level reached\nRSI: 70.19 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "387009",
+            "date": "2026-07-03 22:44:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (4h)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "387010",
+            "date": "2026-07-03 23:04:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (1h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "387011",
+            "date": "2026-07-03 23:16:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.38 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "387012",
+            "date": "2026-07-03 23:18:32+00:00"
         }
     ]
 }
