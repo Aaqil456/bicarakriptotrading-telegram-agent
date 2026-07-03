@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-03T04:57:15.539885",
+    "timestamp": "2026-07-03T07:54:12.576818",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -64398,6 +64398,66 @@
             "original_text": "**$RIF****/USDT (1h)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
             "id": "386653",
             "date": "2026-07-03 04:55:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ID****/USDT (30m)** Overbought level reached\nRSI: 79.80 | [Binance](https://www.binance.com/en/trade/ID_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IDUSDT)",
+            "id": "386681",
+            "date": "2026-07-03 07:17:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$IO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.17 | [Binance](https://www.binance.com/en/trade/IO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:IOUSDT)",
+            "id": "386682",
+            "date": "2026-07-03 07:23:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RAY****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/RAY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RAYUSDT)",
+            "id": "386683",
+            "date": "2026-07-03 07:24:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (30m)** Overbought level reached\nRSI: 70.96 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "386684",
+            "date": "2026-07-03 07:34:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$S****/USDT (1h)** Overbought level reached\nRSI: 70.44 | [Binance](https://www.binance.com/en/trade/S_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUSDT)",
+            "id": "386685",
+            "date": "2026-07-03 07:34:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XPL****/USDT (30m)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/XPL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XPLUSDT)",
+            "id": "386686",
+            "date": "2026-07-03 07:34:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "386687",
+            "date": "2026-07-03 07:38:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (30m)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "id": "386689",
+            "date": "2026-07-03 07:45:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RAY****/USDT (1h)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/RAY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RAYUSDT)",
+            "id": "386690",
+            "date": "2026-07-03 07:49:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Altcoin Sell Pressure Broke to a Fresh Multi-Year Low\n\n\u201cThe cumulative buy/sell volume diff (alts ex BTC/ETH) hit a 5-year extreme in June. Now it's gone even lower.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a46b7e6718c636ace57ba08-Altcoin-sell-pressure-just-broke-to-a-fresh-multi-year-low?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech)\n \nBy [IT Tech](https://cryptoquant.com/profile/u/IT_Tech_PL?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=it-tech) | @cryptoquant_official",
+            "id": "3681",
+            "date": "2026-07-03 07:41:18+00:00"
         }
     ]
 }
