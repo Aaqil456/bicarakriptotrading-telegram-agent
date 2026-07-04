@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T17:45:29.053081",
+    "timestamp": "2026-07-04T18:41:53.469743",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -65730,6 +65730,60 @@
             "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/sentiment__ \ud83d\udd25 \n\nThe '/sentiment' command can be used to display the **current sentiment** of the crypto market as a whole. \ud83e\udd11 \nUse it to see if the majority is currently **fearful/greedy** or if the market sentiment is balanced and healthy. \nThis **Fear&Greed Index** gets updated daily.\n\n**Command Format:**\n**-** /sentiment\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/sentiment__** to try the command now!",
             "id": "101441",
             "date": "2026-07-04 17:00:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (30m)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "387324",
+            "date": "2026-07-04 18:03:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (1h)** Overbought level reached\nRSI: 70.61 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "387325",
+            "date": "2026-07-04 18:06:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (30m)** Overbought level reached\nRSI: 70.64 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "387326",
+            "date": "2026-07-04 18:06:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DASH****/USDT (1h)** Overbought level reached\nRSI: 71.61 | [Binance](https://www.binance.com/en/trade/DASH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DASHUSDT)",
+            "id": "387328",
+            "date": "2026-07-04 18:09:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.27 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "387329",
+            "date": "2026-07-04 18:11:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "387330",
+            "date": "2026-07-04 18:12:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOT****/USDT (4h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/DOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)",
+            "id": "387331",
+            "date": "2026-07-04 18:14:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Oversold level reached\nRSI: 29.50 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "387333",
+            "date": "2026-07-04 18:39:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DASH/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**3.55K DASH** have been bought\n\ud83d\udcb0Price: 36.61 USDT (**0.91%**)\n\ud83d\udea8Order Size: **129,218 USDT** (**4.07%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **3.17M** USDT",
+            "id": "101442",
+            "date": "2026-07-04 18:09:33+00:00"
         }
     ]
 }
