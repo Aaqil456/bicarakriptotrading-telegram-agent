@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T15:52:18.195784",
+    "timestamp": "2026-07-04T16:45:37.833710",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -65610,6 +65610,66 @@
             "original_text": "**$ICP****/USDT (30m)** Overbought level reached\nRSI: 70.45 | [Binance](https://www.binance.com/en/trade/ICP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)",
             "id": "387247",
             "date": "2026-07-04 15:49:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$OGN****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/OGN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:OGNUSDT)]",
+            "id": "242016",
+            "date": "2026-07-04 16:01:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ARPA****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ARPA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARPAUSDT)]",
+            "id": "242022",
+            "date": "2026-07-04 16:30:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOT****/USDT (30m)** Overbought level reached\nRSI: 70.55 | [Binance](https://www.binance.com/en/trade/DOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)",
+            "id": "387266",
+            "date": "2026-07-04 16:30:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.08 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "387268",
+            "date": "2026-07-04 16:33:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EIGEN****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.89 | [Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)",
+            "id": "387269",
+            "date": "2026-07-04 16:33:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (4h)** Overbought level reached\nRSI: 70.13 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "387270",
+            "date": "2026-07-04 16:33:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HMSTR****/USDT (4h)** Overbought level reached\nRSI: 70.06 | [Binance](https://www.binance.com/en/trade/HMSTR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HMSTRUSDT)",
+            "id": "387271",
+            "date": "2026-07-04 16:34:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENA****/USDT (30m)** Overbought level reached\nRSI: 70.74 | [Binance](https://www.binance.com/en/trade/ENA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENAUSDT)",
+            "id": "387272",
+            "date": "2026-07-04 16:39:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.14 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "387273",
+            "date": "2026-07-04 16:40:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONDO****/USDT (30m)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)",
+            "id": "387275",
+            "date": "2026-07-04 16:43:49+00:00"
         }
     ]
 }
