@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-05T21:42:09.352498",
+    "timestamp": "2026-07-05T22:38:28.120335",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -66864,6 +66864,72 @@
             "original_text": "**$ARB****/USDT (30m)** Overbought level reached\nRSI: 71.13 | [Binance](https://www.binance.com/en/trade/ARB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ARBUSDT)",
             "id": "387680",
             "date": "2026-07-05 21:31:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APT****/USDT (1h)** Overbought level reached\nRSI: 70.58 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
+            "id": "387710",
+            "date": "2026-07-05 22:30:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LINK****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.01 | [Binance](https://www.binance.com/en/trade/LINK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LINKUSDT)",
+            "id": "387712",
+            "date": "2026-07-05 22:30:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (30m)** Overbought level reached\nRSI: 70.35 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "id": "387713",
+            "date": "2026-07-05 22:30:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.68 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "id": "387714",
+            "date": "2026-07-05 22:30:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.06 | [Binance](https://www.binance.com/en/trade/ETH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHUSDT)",
+            "id": "387715",
+            "date": "2026-07-05 22:30:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Overbought level reached\nRSI: 70.39 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "387716",
+            "date": "2026-07-05 22:30:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AVAX****/USDT (30m)** Overbought level reached\nRSI: 71.24 | [Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)",
+            "id": "387717",
+            "date": "2026-07-05 22:30:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LTC****/USDT (4h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/LTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)",
+            "id": "387718",
+            "date": "2026-07-05 22:30:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (4h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "id": "387719",
+            "date": "2026-07-05 22:30:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BTC/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**335.3 BTC** have been bought\n\ud83d\udcb0Price: 63,578 USDT (**0.52%**)\n\ud83d\udea8Order Size: **21,289,563 USDT** (**4.00%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **531.71M** USDT",
+            "id": "101457",
+            "date": "2026-07-05 22:21:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SNDKB/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**43.38 SNDKB** have been bought\n\ud83d\udcb0Price: 1,877 USDT (**0.22%**)\n\ud83d\udea8Order Size: **81,291 USDT** (**4.41%**)\n\u23f3Duration: **2 minutes**\n\ud83d\udcca24h Vol: **1.84M** USDT",
+            "id": "101458",
+            "date": "2026-07-05 22:31:16+00:00"
         }
     ]
 }
