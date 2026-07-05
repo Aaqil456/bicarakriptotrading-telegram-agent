@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-05T10:27:14.494564",
+    "timestamp": "2026-07-05T11:52:13.267468",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -66324,6 +66324,54 @@
             "original_text": "**WBTC/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**1.08 WBTC** have been sold\n\ud83d\udcb0Price: 62,912 USDT (**-0.05%**)\n\ud83d\udea8Order Size: **67,666 USDT** (**4.20%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.61M** USDT",
             "id": "101449",
             "date": "2026-07-05 08:59:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MIRA****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/MIRA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MIRAUSDT)]",
+            "id": "242395",
+            "date": "2026-07-05 11:19:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (30m)** Oversold level reached\nRSI: 27.97 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "387550",
+            "date": "2026-07-05 10:44:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENDLE****/USDT (1h)** Oversold level reached\nRSI: 29.63 | [Binance](https://www.binance.com/en/trade/PENDLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PENDLEUSDT)",
+            "id": "387551",
+            "date": "2026-07-05 10:44:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "387552",
+            "date": "2026-07-05 11:13:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "387553",
+            "date": "2026-07-05 11:16:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/BTC (30m)** Overbought level reached\nRSI: 70.57 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
+            "id": "387554",
+            "date": "2026-07-05 11:24:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**PENDLE/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**84.79K PENDLE** have been sold\n\ud83d\udcb0Price: 1.42 USDT (**-0.42%**)\n\ud83d\udea8Order Size: **120,271 USDT** (**4.53%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **2.65M** USDT",
+            "id": "101450",
+            "date": "2026-07-05 10:43:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**MUB/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**122.04 MUB** have been bought\n\ud83d\udcb0Price: 1,040 USDT (**0.12%**)\n\ud83d\udea8Order Size: **126,824 USDT** (**7.46%**)\n\u23f3Duration: **11 seconds**\n\ud83d\udcca24h Vol: **1.7M** USDT",
+            "id": "101451",
+            "date": "2026-07-05 10:47:24+00:00"
         }
     ]
 }
