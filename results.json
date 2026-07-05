@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-05T18:44:06.725467",
+    "timestamp": "2026-07-05T19:57:34.155647",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -66678,6 +66678,72 @@
             "original_text": "**$BNB****/USDT (1h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/BNB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)",
             "id": "387630",
             "date": "2026-07-05 18:41:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SUN****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SUN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SUNUSDT)]",
+            "id": "242508",
+            "date": "2026-07-05 19:38:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (1h)** Extreme Overbought level reached\nRSI: 84.38 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "387644",
+            "date": "2026-07-05 19:19:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OG****/USDT (4h)** Overbought level reached\nRSI: 73.31 | [Binance](https://www.binance.com/en/trade/OG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OGUSDT)",
+            "id": "387645",
+            "date": "2026-07-05 19:19:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (30m)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "387646",
+            "date": "2026-07-05 19:23:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BCH****/USDT (1h)** Overbought level reached\nRSI: 70.01 | [Binance](https://www.binance.com/en/trade/BCH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)",
+            "id": "387647",
+            "date": "2026-07-05 19:29:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAITO****/USDT (1h)** Overbought level reached\nRSI: 75.08 | [Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)",
+            "id": "387649",
+            "date": "2026-07-05 19:39:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAITO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.39 | [Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)",
+            "id": "387650",
+            "date": "2026-07-05 19:40:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BONK****/USDT (30m)** Oversold level reached\nRSI: 29.27 | [Binance](https://www.binance.com/en/trade/BONK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BONKUSDT)",
+            "id": "387651",
+            "date": "2026-07-05 19:44:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (30m)** Overbought level reached\nRSI: 71.43 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "387652",
+            "date": "2026-07-05 19:50:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (1h)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "387653",
+            "date": "2026-07-05 19:51:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**CAKE/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**59.73K CAKE** have been sold\n\ud83d\udcb0Price: 1.47 USDT (**0.00%**)\n\ud83d\udea8Order Size: **87,620 USDT** (**4.01%**)\n\u23f3Duration: **9 seconds**\n\ud83d\udcca24h Vol: **2.19M** USDT",
+            "id": "101456",
+            "date": "2026-07-05 18:52:08+00:00"
         }
     ]
 }
