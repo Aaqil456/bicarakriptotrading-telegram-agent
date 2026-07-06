@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-06T01:21:25.656270",
+    "timestamp": "2026-07-06T05:40:28.555112",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -67074,6 +67074,72 @@
             "original_text": "**ZAMA/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.97M ZAMA** have been bought\n\ud83d\udcb0Price: 0.0327 USDT (**2.03%**)\n\ud83d\udea8Order Size: **63,966 USDT** (**4.45%**)\n\u23f3Duration: **1 minute**\n\ud83d\udcca24h Vol: **1.44M** USDT",
             "id": "101463",
             "date": "2026-07-06 00:35:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XTZ****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/XTZ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XTZUSDT)]",
+            "id": "242706",
+            "date": "2026-07-06 05:28:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ACT****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ACT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ACTUSDT)]",
+            "id": "242707",
+            "date": "2026-07-06 05:29:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MIRA****/USDT (30m)** Oversold level reached\nRSI: 29.54 | [Binance](https://www.binance.com/en/trade/MIRA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MIRAUSDT)",
+            "id": "387794",
+            "date": "2026-07-06 05:28:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOT****/USDT (30m)** Oversold level reached\nRSI: 29.60 | [Binance](https://www.binance.com/en/trade/DOT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)",
+            "id": "387795",
+            "date": "2026-07-06 05:28:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CHR****/USDT (1h)** Oversold level reached\nRSI: 29.43 | [Binance](https://www.binance.com/en/trade/CHR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CHRUSDT)",
+            "id": "387796",
+            "date": "2026-07-06 05:28:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (1h)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "387797",
+            "date": "2026-07-06 05:28:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FIL****/USDT (30m)** Oversold level reached\nRSI: 29.58 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
+            "id": "387799",
+            "date": "2026-07-06 05:29:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Oversold level reached\nRSI: 29.29 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "387800",
+            "date": "2026-07-06 05:30:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ADA****/USDT (30m)** Oversold level reached\nRSI: 29.17 | [Binance](https://www.binance.com/en/trade/ADA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)",
+            "id": "387802",
+            "date": "2026-07-06 05:31:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FORM****/USDT (30m)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/FORM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FORMUSDT)",
+            "id": "387803",
+            "date": "2026-07-06 05:32:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ZRO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**116.34K ZRO** have been bought\n\ud83d\udcb0Price: 0.940 USDT (**0.53%**)\n\ud83d\udea8Order Size: **109,072 USDT** (**7.95%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.37M** USDT",
+            "id": "101464",
+            "date": "2026-07-06 02:18:55+00:00"
         }
     ]
 }
