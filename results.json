@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-06T23:48:52.656668",
+    "timestamp": "2026-07-07T01:26:17.120575",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -67698,6 +67698,66 @@
             "original_text": "**$YFI****/USDT (30m)** Overbought level reached\nRSI: 70.31 | [Binance](https://www.binance.com/en/trade/YFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:YFIUSDT)",
             "id": "388109",
             "date": "2026-07-06 23:43:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$CAKE****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/CAKE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CAKEUSDT)]",
+            "id": "243089",
+            "date": "2026-07-07 01:01:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.00 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "388115",
+            "date": "2026-07-07 00:04:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SEI****/USDT (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
+            "id": "388116",
+            "date": "2026-07-07 00:05:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SEI****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/SEI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)",
+            "id": "388118",
+            "date": "2026-07-07 00:27:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MORPHO****/USDT (1h)** Overbought level reached\nRSI: 71.91 | [Binance](https://www.binance.com/en/trade/MORPHO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MORPHOUSDT)",
+            "id": "388119",
+            "date": "2026-07-07 00:57:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$JTO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.11 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
+            "id": "388120",
+            "date": "2026-07-07 01:01:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BLUR****/USDT (30m)** Overbought level reached\nRSI: 70.13 | [Binance](https://www.binance.com/en/trade/BLUR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BLURUSDT)",
+            "id": "388121",
+            "date": "2026-07-07 01:02:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Overbought level reached\nRSI: 70.29 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "388122",
+            "date": "2026-07-07 01:13:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (30m)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "388123",
+            "date": "2026-07-07 01:18:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "388124",
+            "date": "2026-07-07 01:20:34+00:00"
         }
     ]
 }
