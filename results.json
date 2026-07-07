@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-07T21:39:43.190644",
+    "timestamp": "2026-07-07T22:42:31.426621",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -68298,6 +68298,66 @@
             "original_text": "**$SUI****/USDT (30m)** Oversold level reached\nRSI: 29.71 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
             "id": "388333",
             "date": "2026-07-07 21:38:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AGLD****/USDT (1d)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/AGLD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AGLDUSDT)]",
+            "id": "243587",
+            "date": "2026-07-07 22:09:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GIGGLE****/USDT (30m)** Oversold level reached\nRSI: 27.67 | [Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)",
+            "id": "388347",
+            "date": "2026-07-07 22:01:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 29.70 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "id": "388348",
+            "date": "2026-07-07 22:01:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLD****/USDT (1h)** Oversold level reached\nRSI: 29.65 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
+            "id": "388349",
+            "date": "2026-07-07 22:01:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (4h)** Oversold level reached\nRSI: 29.93 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "388350",
+            "date": "2026-07-07 22:01:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZK****/USDT (30m)** Oversold level reached\nRSI: 29.55 | [Binance](https://www.binance.com/en/trade/ZK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZKUSDT)",
+            "id": "388351",
+            "date": "2026-07-07 22:01:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (30m)** Oversold level reached\nRSI: 29.10 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "id": "388352",
+            "date": "2026-07-07 22:13:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (1h)** Oversold level reached\nRSI: 29.82 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "id": "388353",
+            "date": "2026-07-07 22:14:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AGLD****/USDT (30m)** Overbought level reached\nRSI: 70.57 | [Binance](https://www.binance.com/en/trade/AGLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AGLDUSDT)",
+            "id": "388355",
+            "date": "2026-07-07 22:31:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LDO****/USDT (30m)** Overbought level reached\nRSI: 70.12 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
+            "id": "388356",
+            "date": "2026-07-07 22:34:16+00:00"
         }
     ]
 }
