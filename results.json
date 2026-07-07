@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-07T01:26:17.120575",
+    "timestamp": "2026-07-07T05:13:22.065439",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -67758,6 +67758,72 @@
             "original_text": "**$PAXG****/USDT (30m)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
             "id": "388124",
             "date": "2026-07-07 01:20:34+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MOVE****/USDT (4h)** Overbought level reached\nRSI: 71.46 | [Binance](https://www.binance.com/en/trade/MOVE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVEUSDT)",
+            "id": "388146",
+            "date": "2026-07-07 04:09:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (30m)** Oversold level reached\nRSI: 28.83 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "388147",
+            "date": "2026-07-07 04:15:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XLM****/USDT (30m)** Oversold level reached\nRSI: 29.56 | [Binance](https://www.binance.com/en/trade/XLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XLMUSDT)",
+            "id": "388148",
+            "date": "2026-07-07 04:17:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALLO****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)",
+            "id": "388149",
+            "date": "2026-07-07 04:28:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WLD****/USDT (30m)** Oversold level reached\nRSI: 29.77 | [Binance](https://www.binance.com/en/trade/WLD_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLDUSDT)",
+            "id": "388150",
+            "date": "2026-07-07 04:42:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HBAR****/USDT (30m)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/HBAR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HBARUSDT)",
+            "id": "388151",
+            "date": "2026-07-07 04:44:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (1h)** Overbought level reached\nRSI: 70.79 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "388152",
+            "date": "2026-07-07 04:46:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (1h)** Overbought level reached\nRSI: 70.04 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "388153",
+            "date": "2026-07-07 04:49:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Overbought level reached\nRSI: 70.50 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "388154",
+            "date": "2026-07-07 04:51:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (1h)** Oversold level reached\nRSI: 29.87 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "id": "388155",
+            "date": "2026-07-07 05:01:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**OPG/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**495.82K OPG** have been bought\n\ud83d\udcb0Price: 0.150 USDT (**20.00%**)\n\ud83d\udea8Order Size: **65,739 USDT** (**5.12%**)\n\u23f3Duration: **1 second**\n\ud83d\udcca24h Vol: **1.28M** USDT",
+            "id": "101481",
+            "date": "2026-07-07 04:39:52+00:00"
         }
     ]
 }
