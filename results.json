@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T13:57:56.227401",
+    "timestamp": "2026-07-25T14:55:36.798683",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -81288,6 +81288,66 @@
             "original_text": "**$ETH****/BTC (30m)** Overbought level reached\nRSI: 70.67 | [Binance](https://www.binance.com/en/trade/ETH_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHBTC)",
             "id": "393345",
             "date": "2026-07-25 13:46:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AVAX****/USDT (1d)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)]",
+            "id": "251587",
+            "date": "2026-07-25 14:14:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Oversold level reached\nRSI: 29.86 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "393350",
+            "date": "2026-07-25 14:11:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.46 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "393351",
+            "date": "2026-07-25 14:12:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.53 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "393352",
+            "date": "2026-07-25 14:16:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SHIB****/USDT (4h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/SHIB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SHIBUSDT)",
+            "id": "393353",
+            "date": "2026-07-25 14:19:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANK****/USDT (30m)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
+            "id": "393354",
+            "date": "2026-07-25 14:31:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANK****/USDT (1h)** Overbought level reached\nRSI: 71.56 | [Binance](https://www.binance.com/en/trade/BANK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANKUSDT)",
+            "id": "393355",
+            "date": "2026-07-25 14:31:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ERA****/USDT (30m)** Oversold level reached\nRSI: 29.62 | [Binance](https://www.binance.com/en/trade/ERA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ERAUSDT)",
+            "id": "393356",
+            "date": "2026-07-25 14:31:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (1h)** Oversold level reached\nRSI: 28.66 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "393357",
+            "date": "2026-07-25 14:35:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYN****/USDT (30m)** Overbought level reached\nRSI: 70.00 | [Binance](https://www.binance.com/en/trade/SYN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SYNUSDT)",
+            "id": "393358",
+            "date": "2026-07-25 14:47:31+00:00"
         }
     ]
 }
