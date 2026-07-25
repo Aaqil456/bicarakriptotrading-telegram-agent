@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T11:09:08.263248",
+    "timestamp": "2026-07-25T12:08:19.937555",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -81186,6 +81186,54 @@
             "original_text": "**$EUL****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.13 | [Binance](https://www.binance.com/en/trade/EUL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:EULUSDT)",
             "id": "393322",
             "date": "2026-07-25 10:56:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$VANA****/USDT (1d)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/VANA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)]",
+            "id": "251548",
+            "date": "2026-07-25 11:34:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "393323",
+            "date": "2026-07-25 11:14:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (30m)** Oversold level reached\nRSI: 29.22 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "393324",
+            "date": "2026-07-25 11:27:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (30m)** Overbought level reached\nRSI: 70.44 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "393325",
+            "date": "2026-07-25 11:32:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (4h)** Overbought level reached\nRSI: 70.49 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "393326",
+            "date": "2026-07-25 11:33:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.39 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "393327",
+            "date": "2026-07-25 11:34:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANA****/USDT (30m)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/VANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)",
+            "id": "393329",
+            "date": "2026-07-25 11:36:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZAMA****/USDT (30m)** Oversold level reached\nRSI: 29.21 | [Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)",
+            "id": "393330",
+            "date": "2026-07-25 11:39:01+00:00"
         }
     ]
 }
