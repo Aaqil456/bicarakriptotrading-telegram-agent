@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T20:32:50.760813",
+    "timestamp": "2026-07-25T21:26:29.967458",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -81678,6 +81678,24 @@
             "original_text": "**$FIL****/USDT (30m)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/FIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:FILUSDT)",
             "id": "393434",
             "date": "2026-07-25 20:30:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$REQ****/USDT (4h)** Overbought level reached\nRSI: 70.32 | [Binance](https://www.binance.com/en/trade/REQ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:REQUSDT)",
+            "id": "393435",
+            "date": "2026-07-25 20:37:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RIF****/USDT (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/RIF_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RIFUSDT)",
+            "id": "393436",
+            "date": "2026-07-25 20:41:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$QI****/USDT (30m)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/QI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:QIUSDT)",
+            "id": "393437",
+            "date": "2026-07-25 21:01:25+00:00"
         }
     ]
 }
