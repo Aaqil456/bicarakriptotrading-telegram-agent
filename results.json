@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-26T19:33:09.442209",
+    "timestamp": "2026-07-26T20:30:45.843500",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -82410,6 +82410,18 @@
             "original_text": "**$HOLO****/USDT (4h)** Overbought level reached\nRSI: 73.49 | [Binance](https://www.binance.com/en/trade/HOLO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HOLOUSDT)",
             "id": "393732",
             "date": "2026-07-26 19:21:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$QI****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/QI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:QIUSDT)]",
+            "id": "252062",
+            "date": "2026-07-26 20:30:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KAITO****/USDT (1h)** Overbought level reached\nRSI: 70.05 | [Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)",
+            "id": "393735",
+            "date": "2026-07-26 20:02:00+00:00"
         }
     ]
 }
