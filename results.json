@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T11:31:54.295248",
+    "timestamp": "2026-07-28T13:10:59.997013",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -83742,6 +83742,66 @@
             "original_text": "**$JTO****/USDT (1h)** Oversold level reached\nRSI: 29.84 | [Binance](https://www.binance.com/en/trade/JTO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)",
             "id": "394598",
             "date": "2026-07-28 11:29:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$OP****/USDT (1h)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/OP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPUSDT)",
+            "id": "394606",
+            "date": "2026-07-28 12:16:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$API3/USDT (30m)** Oversold level reached\nRSI: 28.77 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
+            "id": "394607",
+            "date": "2026-07-28 12:17:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$API3/USDT (1h)** Oversold level reached\nRSI: 29.64 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
+            "id": "394608",
+            "date": "2026-07-28 12:20:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$UNI****/USDT (30m)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/UNI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)",
+            "id": "394609",
+            "date": "2026-07-28 12:20:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ESP****/USDT (30m)** Oversold level reached\nRSI: 30.00 | [Binance](https://www.binance.com/en/trade/ESP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ESPUSDT)",
+            "id": "394610",
+            "date": "2026-07-28 12:21:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ESP****/USDT (1h)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/ESP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ESPUSDT)",
+            "id": "394611",
+            "date": "2026-07-28 12:23:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XAUT****/USDT (1h)** Oversold level reached\nRSI: 29.98 | [Binance](https://www.binance.com/en/trade/XAUT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XAUTUSDT)",
+            "id": "394612",
+            "date": "2026-07-28 12:36:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SNDKB****/USDT (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/SNDKB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SNDKBUSDT)",
+            "id": "394613",
+            "date": "2026-07-28 12:41:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (1h)** Oversold level reached\nRSI: 28.71 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "394614",
+            "date": "2026-07-28 12:53:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPCXB****/USDT (30m)** Oversold level reached\nRSI: 29.99 | [Binance](https://www.binance.com/en/trade/SPCXB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SPCXBUSDT)",
+            "id": "394615",
+            "date": "2026-07-28 13:02:52+00:00"
         }
     ]
 }
