@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T15:31:09.522100",
+    "timestamp": "2026-07-28T16:59:18.871943",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -83868,6 +83868,60 @@
             "original_text": "Crypto exchanges are expanding beyond crypto.\n\nTradFi perpetuals (stocks, metals & oil) have doubled to >$2B since late May. Meanwhile, Binance commands ~35% of open interest across both crypto and TradFi perpetuals traded on crypto exchanges.\n\n\ud83d\udcca [Read the full report.](https://cryptoquant.com/community/dashboard/6a59246a718c636ace57d0fd?utm_source=telegram&utm_medium=sns&utm_campaign=dashboard&utm_content=tradfi-exchanges)\n\n@cryptoquant_official",
             "id": "3720",
             "date": "2026-07-28 14:48:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$API3/USDT (1h)** Oversold level reached\nRSI: 29.90 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
+            "id": "394730",
+            "date": "2026-07-28 16:30:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SNXXB****/USDT (1h)** Extreme Oversold level reached\nRSI: 19.87 | [Binance](https://www.binance.com/en/trade/SNXXB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SNXXBUSDT)",
+            "id": "394731",
+            "date": "2026-07-28 16:31:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TRX****/USDT (4h)** Oversold level reached\nRSI: 29.94 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
+            "id": "394732",
+            "date": "2026-07-28 16:31:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SKHYB****/USDT (1h)** Oversold level reached\nRSI: 29.97 | [Binance](https://www.binance.com/en/trade/SKHYB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SKHYBUSDT)",
+            "id": "394733",
+            "date": "2026-07-28 16:31:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZIL****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.30 | [Binance](https://www.binance.com/en/trade/ZIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZILUSDT)",
+            "id": "394734",
+            "date": "2026-07-28 16:35:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZIL****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.04 | [Binance](https://www.binance.com/en/trade/ZIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZILUSDT)",
+            "id": "394735",
+            "date": "2026-07-28 16:39:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZIL****/USDT (4h)** Overbought level reached\nRSI: 70.26 | [Binance](https://www.binance.com/en/trade/ZIL_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZILUSDT)",
+            "id": "394736",
+            "date": "2026-07-28 16:46:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MMT****/USDT (1h)** Overbought level reached\nRSI: 70.07 | [Binance](https://www.binance.com/en/trade/MMT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MMTUSDT)",
+            "id": "394737",
+            "date": "2026-07-28 16:46:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONDO****/USDT (30m)** Overbought level reached\nRSI: 70.23 | [Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)",
+            "id": "394739",
+            "date": "2026-07-28 16:54:47+00:00"
         }
     ]
 }
