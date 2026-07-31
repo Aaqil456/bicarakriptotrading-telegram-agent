@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T04:35:08.053761",
+    "timestamp": "2026-07-31T07:26:44.778932",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -87738,6 +87738,126 @@
             "original_text": "**$NIL****/USDT (30m)** Oversold level reached\nPrice: 0.03106 | RSI: 29.69 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
             "id": "395832",
             "date": "2026-07-31 04:32:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ESP****/USDT (30m)** MACD Bullish crossover\nLast price: 0.06998 | [[Binance](https://www.binance.com/en/trade/ESP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ESPUSDT)]",
+            "id": "254417",
+            "date": "2026-07-31 07:00:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RLC****/USDT (30m)** MACD Bearish crossover\nLast price: 0.3267 | [[Binance](https://www.binance.com/en/trade/RLC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RLCUSDT)]",
+            "id": "254418",
+            "date": "2026-07-31 07:00:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MMT****/USDT (30m)** MACD Bearish crossover\nLast price: 0.2963 | [[Binance](https://www.binance.com/en/trade/MMT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MMTUSDT)]",
+            "id": "254419",
+            "date": "2026-07-31 07:00:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TAO****/USDT (30m)** MACD Bearish crossover\nLast price: 195.5 | [[Binance](https://www.binance.com/en/trade/TAO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)]",
+            "id": "254420",
+            "date": "2026-07-31 07:00:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DOT****/USDT (30m)** MACD Bearish crossover\nLast price: 0.768 | [[Binance](https://www.binance.com/en/trade/DOT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)]",
+            "id": "254421",
+            "date": "2026-07-31 07:01:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AAVE****/USDT (4h)** MACD Bearish crossover\nLast price: 98.49 | [[Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)]",
+            "id": "254423",
+            "date": "2026-07-31 07:06:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BOME****/USDT (30m)** MACD Bearish crossover\nLast price: 0.0005833 | [[Binance](https://www.binance.com/en/trade/BOME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BOMEUSDT)]",
+            "id": "254424",
+            "date": "2026-07-31 07:12:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ETH****/BTC (30m)** MACD Bearish crossover\nLast price: 0.02953 | [[Binance](https://www.binance.com/en/trade/ETH_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:ETHBTC)]",
+            "id": "254425",
+            "date": "2026-07-31 07:17:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DOGE****/USDT (4h)** MACD Bearish crossover\nLast price: 0.06968 | [[Binance](https://www.binance.com/en/trade/DOGE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOGEUSDT)]",
+            "id": "254426",
+            "date": "2026-07-31 07:17:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FORM****/USDT (30m)** Overbought level reached\nPrice: 0.2215 | RSI: 70.19 | [Binance](https://www.binance.com/en/trade/FORM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FORMUSDT)",
+            "id": "395888",
+            "date": "2026-07-31 07:13:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LINK****/USDT (30m)** Oversold level reached\nPrice: 8.261 | RSI: 29.44 | [Binance](https://www.binance.com/en/trade/LINK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LINKUSDT)",
+            "id": "395889",
+            "date": "2026-07-31 07:17:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$AAPLB****/USDT (30m)** Oversold level reached\nPrice: 312.03 | RSI: 29.79 | [Binance](https://www.binance.com/en/trade/AAPLB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AAPLBUSDT)",
+            "id": "395890",
+            "date": "2026-07-31 07:18:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (1h)** Extreme Overbought level reached\nPrice: 0.0642 | RSI: 80.04 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "395891",
+            "date": "2026-07-31 07:20:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.0643 | RSI: 84.66 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "395892",
+            "date": "2026-07-31 07:20:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MUBARAK****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.01289 | RSI: 82.02 | [Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)",
+            "id": "395893",
+            "date": "2026-07-31 07:21:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (1h)** Overbought level reached\nPrice: 0.0636 | RSI: 78.47 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "395894",
+            "date": "2026-07-31 07:21:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MUBARAK****/USDT (1h)** Extreme Overbought level reached\nPrice: 0.01289 | RSI: 82.46 | [Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)",
+            "id": "395895",
+            "date": "2026-07-31 07:21:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MUBARAK****/USDT (4h)** Overbought level reached\nPrice: 0.01286 | RSI: 79.66 | [Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)",
+            "id": "395896",
+            "date": "2026-07-31 07:21:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HYPER****/USDT (30m)** Overbought level reached\nPrice: 0.0623 | RSI: 78.87 | [Binance](https://www.binance.com/en/trade/HYPER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HYPERUSDT)",
+            "id": "395897",
+            "date": "2026-07-31 07:21:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "Bitcoin Realized Volatility Compressed to Cycle Lows While ADX Builds Underneath\n\n\u201cThis combination has preceded some of the sharpest moves of the past few years. Not all in the same direction.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/6a6a67667a45a75a9468de63-Bitcoin-Realized-Volatility-Compressed-to-Cycle-Lows-While-ADX-Builds-Underneath?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=rugaresearch)\n \nBy [RugaResearch](https://cryptoquant.com/profile/u/RugaResearch?utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=rugaresearch) | @cryptoquant_official",
+            "id": "3726",
+            "date": "2026-07-31 06:34:02+00:00"
         }
     ]
 }
