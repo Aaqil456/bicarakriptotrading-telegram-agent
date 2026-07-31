@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T12:03:59.472311",
+    "timestamp": "2026-07-31T14:15:27.556966",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -88098,6 +88098,126 @@
             "original_text": "**$TRX****/USDT (30m)** Oversold level reached\nPrice: 0.3266 | RSI: 29.27 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
             "id": "395992",
             "date": "2026-07-31 12:01:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$EIGEN****/USDT (30m)** MACD Bearish crossover\nLast price: 0.1813 | [[Binance](https://www.binance.com/en/trade/EIGEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EIGENUSDT)]",
+            "id": "254617",
+            "date": "2026-07-31 14:05:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ONDO****/USDT (30m)** MACD Bearish crossover\nLast price: 0.3997 | [[Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)]",
+            "id": "254618",
+            "date": "2026-07-31 14:06:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SEI****/USDT (30m)** MACD Bearish crossover\nLast price: 0.04142 | [[Binance](https://www.binance.com/en/trade/SEI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SEIUSDT)]",
+            "id": "254619",
+            "date": "2026-07-31 14:07:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (30m)** MACD Bearish crossover\nLast price: 452.71 | [[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "id": "254620",
+            "date": "2026-07-31 14:07:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SOL****/USDT (4h)** MACD Bearish crossover\nLast price: 72.94 | [[Binance](https://www.binance.com/en/trade/SOL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLUSDT)]",
+            "id": "254621",
+            "date": "2026-07-31 14:07:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XRP****/USDT (4h)** MACD Bearish crossover\nLast price: 1.0614 | [[Binance](https://www.binance.com/en/trade/XRP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)]",
+            "id": "254622",
+            "date": "2026-07-31 14:07:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$APT****/USDT (4h)** MACD Bearish crossover\nLast price: 0.553 | [[Binance](https://www.binance.com/en/trade/APT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APTUSDT)]",
+            "id": "254623",
+            "date": "2026-07-31 14:07:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MIRA****/USDT (30m)** MACD Bearish crossover\nLast price: 0.0412 | [[Binance](https://www.binance.com/en/trade/MIRA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MIRAUSDT)]",
+            "id": "254624",
+            "date": "2026-07-31 14:08:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ARB****/USDT (30m)** MACD Bearish crossover\nLast price: 0.0757 | [[Binance](https://www.binance.com/en/trade/ARB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARBUSDT)]",
+            "id": "254625",
+            "date": "2026-07-31 14:10:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FIL****/USDT (30m)** MACD Bullish crossover\nLast price: 0.72 | [[Binance](https://www.binance.com/en/trade/FIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FILUSDT)]",
+            "id": "254626",
+            "date": "2026-07-31 14:12:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SUI****/USDT (30m)** Oversold level reached\nPrice: 0.6786 | RSI: 29.73 | [Binance](https://www.binance.com/en/trade/SUI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SUIUSDT)",
+            "id": "396094",
+            "date": "2026-07-31 14:10:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANA****/USDT (30m)** Oversold level reached\nPrice: 0.892 | RSI: 29.31 | [Binance](https://www.binance.com/en/trade/VANA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)",
+            "id": "396095",
+            "date": "2026-07-31 14:10:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DOT****/USDT (4h)** Oversold level reached\nPrice: 0.745 | RSI: 29.94 | [Binance](https://www.binance.com/en/trade/DOT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DOTUSDT)",
+            "id": "396096",
+            "date": "2026-07-31 14:10:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RENDER****/USDT (4h)** Oversold level reached\nPrice: 1.36 | RSI: 29.50 | [Binance](https://www.binance.com/en/trade/RENDER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RENDERUSDT)",
+            "id": "396097",
+            "date": "2026-07-31 14:10:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CVX****/USDT (30m)** Extreme Oversold level reached\nPrice: 1.258 | RSI: 19.96 | [Binance](https://www.binance.com/en/trade/CVX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CVXUSDT)",
+            "id": "396098",
+            "date": "2026-07-31 14:10:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (1h)** Overbought level reached\nPrice: 0.0011657 | RSI: 70.11 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "id": "396099",
+            "date": "2026-07-31 14:10:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ORDI****/USDT (30m)** Overbought level reached\nPrice: 3.329 | RSI: 70.20 | [Binance](https://www.binance.com/en/trade/ORDI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ORDIUSDT)",
+            "id": "396100",
+            "date": "2026-07-31 14:12:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRCLB****/USDT (30m)** Extreme Oversold level reached\nPrice: 59.78 | RSI: 19.92 | [Binance](https://www.binance.com/en/trade/CRCLB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CRCLBUSDT)",
+            "id": "396101",
+            "date": "2026-07-31 14:13:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MUBARAK****/USDT (30m)** Overbought level reached\nPrice: 0.01327 | RSI: 70.77 | [Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)",
+            "id": "396102",
+            "date": "2026-07-31 14:13:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (30m)** Extreme Overbought level reached\nPrice: 0.0011719 | RSI: 80.00 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "id": "396103",
+            "date": "2026-07-31 14:13:48+00:00"
         }
     ]
 }
