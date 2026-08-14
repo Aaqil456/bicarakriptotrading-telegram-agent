@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-14T22:48:09.067793",
+    "timestamp": "2026-08-14T23:00:50.562281",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -122088,6 +122088,36 @@
             "original_text": "**$SKY****/USDT (1h)** Extreme Oversold level reached\nPrice: 0.05077 | RSI: 19.97 | [Binance](https://www.binance.com/en/trade/SKY_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SKYUSDT)",
             "id": "403733",
             "date": "2026-08-14 22:46:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PENGU****/USDT (30m)** MACD Bullish crossover\nLast price: 0.006053 | [[Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)]",
+            "id": "261991",
+            "date": "2026-08-14 22:45:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SNXXB****/USDT (30m)** MACD Bearish crossover\nLast price: 16.38 | [[Binance](https://www.binance.com/en/trade/SNXXB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SNXXBUSDT)]",
+            "id": "261992",
+            "date": "2026-08-14 22:48:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$INJ****/USDT (30m)** MACD Bearish crossover\nLast price: 4.203 | [[Binance](https://www.binance.com/en/trade/INJ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:INJUSDT)]",
+            "id": "261993",
+            "date": "2026-08-14 22:55:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (1h)** Overbought level reached\nPrice: 0.1615 | RSI: 70.06 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "403734",
+            "date": "2026-08-14 22:50:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$NIL****/USDT (1h)** Overbought level reached\nPrice: 0.04547 | RSI: 70.07 | [Binance](https://www.binance.com/en/trade/NIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NILUSDT)",
+            "id": "403735",
+            "date": "2026-08-14 22:55:07+00:00"
         }
     ]
 }
