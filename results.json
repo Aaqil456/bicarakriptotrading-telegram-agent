@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T13:37:46.050325",
+    "timestamp": "2026-08-15T13:55:11.931921",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -124656,6 +124656,30 @@
             "original_text": "**$HUMA****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.02165 | RSI: 80.34 | [Binance](https://www.binance.com/en/trade/HUMA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HUMAUSDT)",
             "id": "403996",
             "date": "2026-08-15 13:33:17+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MUB****/USDT (30m)** MACD Bullish crossover\nLast price: 977.8 | [[Binance](https://www.binance.com/en/trade/MUB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBUSDT)]",
+            "id": "262305",
+            "date": "2026-08-15 13:43:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BOME****/USDT (30m)** Overbought level reached\nPrice: 0.000834 | RSI: 70.63 | [Binance](https://www.binance.com/en/trade/BOME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BOMEUSDT)",
+            "id": "403997",
+            "date": "2026-08-15 13:37:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SNDKB****/USDT (1h)** Overbought level reached\nPrice: 1655.47 | RSI: 70.06 | [Binance](https://www.binance.com/en/trade/SNDKB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SNDKBUSDT)",
+            "id": "403998",
+            "date": "2026-08-15 13:43:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENSO****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.863 | RSI: 80.12 | [Binance](https://www.binance.com/en/trade/ENSO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENSOUSDT)",
+            "id": "403999",
+            "date": "2026-08-15 13:49:31+00:00"
         }
     ]
 }
