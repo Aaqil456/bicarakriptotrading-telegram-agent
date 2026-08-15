@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T17:54:54.713386",
+    "timestamp": "2026-08-15T18:01:48.380168",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -125496,6 +125496,30 @@
             "original_text": "**$CHIP****/USDT (1h)** Overbought level reached\nPrice: 0.02562 | RSI: 70.20 | [Binance](https://www.binance.com/en/trade/CHIP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CHIPUSDT)",
             "id": "404055",
             "date": "2026-08-15 17:50:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AAVE****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 86.8 | [[Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)]",
+            "id": "262387",
+            "date": "2026-08-15 18:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BCH****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 204.7 | [[Binance](https://www.binance.com/en/trade/BCH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BCHUSDT)]",
+            "id": "262388",
+            "date": "2026-08-15 18:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RONIN****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 0.0491 | [[Binance](https://www.binance.com/en/trade/RONIN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RONINUSDT)]",
+            "id": "262389",
+            "date": "2026-08-15 18:00:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$WAL****/USDT (1h)** Overbought level reached\nPrice: 0.0266 | RSI: 70.46 | [Binance](https://www.binance.com/en/trade/WAL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WALUSDT)",
+            "id": "404056",
+            "date": "2026-08-15 18:00:20+00:00"
         }
     ]
 }
