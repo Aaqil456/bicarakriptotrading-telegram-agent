@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T10:45:15.896950",
+    "timestamp": "2026-08-15T10:58:27.848648",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -124074,6 +124074,36 @@
             "original_text": "**$RLUSD****/USDT (4h)** Overbought level reached\nPrice: 1.0015 | RSI: 70.42 | [Binance](https://www.binance.com/en/trade/RLUSD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RLUSDUSDT)",
             "id": "403945",
             "date": "2026-08-15 10:41:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$JTO****/USDT (30m)** MACD Bullish crossover\nLast price: 0.5916 | [[Binance](https://www.binance.com/en/trade/JTO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:JTOUSDT)]",
+            "id": "262244",
+            "date": "2026-08-15 10:46:45+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Extreme Oversold level reached\nPrice: 0.04592 | RSI: 19.94 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "403946",
+            "date": "2026-08-15 10:48:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$POL****/USDT (1h)** Overbought level reached\nPrice: 0.07577 | RSI: 70.03 | [Binance](https://www.binance.com/en/trade/POL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:POLUSDT)",
+            "id": "403947",
+            "date": "2026-08-15 10:54:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STO****/USDT (30m)** Overbought level reached\nPrice: 0.0402 | RSI: 75.34 | [Binance](https://www.binance.com/en/trade/STO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:STOUSDT)",
+            "id": "403948",
+            "date": "2026-08-15 10:54:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STO****/USDT (1h)** Overbought level reached\nPrice: 0.0402 | RSI: 74.90 | [Binance](https://www.binance.com/en/trade/STO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:STOUSDT)",
+            "id": "403949",
+            "date": "2026-08-15 10:54:43+00:00"
         }
     ]
 }
