@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T22:09:52.707056",
+    "timestamp": "2026-08-15T22:36:48.104312",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -126126,6 +126126,66 @@
             "original_text": "**$CHIP****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.02735 | RSI: 80.05 | [Binance](https://www.binance.com/en/trade/CHIP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CHIPUSDT)",
             "id": "404099",
             "date": "2026-08-15 21:59:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TST****/USDT (30m)** MACD Bullish crossover\nLast price: 0.01434 | [[Binance](https://www.binance.com/en/trade/TST_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TSTUSDT)]",
+            "id": "262467",
+            "date": "2026-08-15 22:09:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GRAM****/USDT (30m)** MACD Bearish crossover\nLast price: 1.353 | [[Binance](https://www.binance.com/en/trade/GRAM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GRAMUSDT)]",
+            "id": "262468",
+            "date": "2026-08-15 22:14:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DEXE****/USDT (30m)** MACD Bullish crossover\nLast price: 1.958 | [[Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)]",
+            "id": "262469",
+            "date": "2026-08-15 22:24:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BB****/USDT (30m)** Oversold level reached\nPrice: 0.01152 | RSI: 29.58 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
+            "id": "404100",
+            "date": "2026-08-15 22:12:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONG****/USDT (30m)** Overbought level reached\nPrice: 0.04961 | RSI: 70.18 | [Binance](https://www.binance.com/en/trade/ONG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONGUSDT)",
+            "id": "404101",
+            "date": "2026-08-15 22:14:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONG****/USDT (1h)** Overbought level reached\nPrice: 0.05041 | RSI: 70.09 | [Binance](https://www.binance.com/en/trade/ONG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONGUSDT)",
+            "id": "404102",
+            "date": "2026-08-15 22:16:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONG****/USDT (1d)** Overbought level reached\nPrice: 0.05041 | RSI: 70.07 | [Binance](https://www.binance.com/en/trade/ONG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONGUSDT)",
+            "id": "404103",
+            "date": "2026-08-15 22:16:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (30m)** Oversold level reached\nPrice: 0.0443 | RSI: 29.82 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "404104",
+            "date": "2026-08-15 22:21:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HEI****/USDT (30m)** Oversold level reached\nPrice: 0.1256 | RSI: 29.93 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
+            "id": "404105",
+            "date": "2026-08-15 22:27:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EDEN****/USDT (1h)** Oversold level reached\nPrice: 0.04422 | RSI: 29.95 | [Binance](https://www.binance.com/en/trade/EDEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EDENUSDT)",
+            "id": "404106",
+            "date": "2026-08-15 22:33:39+00:00"
         }
     ]
 }
