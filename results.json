@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T20:39:42.966784",
+    "timestamp": "2026-08-15T20:54:07.169939",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -125940,6 +125940,42 @@
             "original_text": "**$BB****/USDT (30m)** Oversold level reached\nPrice: 0.01153 | RSI: 29.58 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
             "id": "404087",
             "date": "2026-08-15 20:37:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TAO****/USDT (30m)** MACD Bullish crossover\nLast price: 197.6 | [[Binance](https://www.binance.com/en/trade/TAO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)]",
+            "id": "262444",
+            "date": "2026-08-15 20:37:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALLO****/USDT (4h)** MACD Bullish crossover\nLast price: 0.2656 | [[Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)]",
+            "id": "262445",
+            "date": "2026-08-15 20:39:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CHIP****/USDT (1h)** Extreme Overbought level reached\nPrice: 0.02737 | RSI: 80.32 | [Binance](https://www.binance.com/en/trade/CHIP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CHIPUSDT)",
+            "id": "404088",
+            "date": "2026-08-15 20:45:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (1h)** Extreme Overbought level reached\nPrice: 0.0952 | RSI: 83.42 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "404089",
+            "date": "2026-08-15 20:51:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.0952 | RSI: 81.75 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "404090",
+            "date": "2026-08-15 20:51:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (4h)** Overbought level reached\nPrice: 0.0952 | RSI: 74.13 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "404091",
+            "date": "2026-08-15 20:51:47+00:00"
         }
     ]
 }
