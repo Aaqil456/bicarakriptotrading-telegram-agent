@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T20:54:07.169939",
+    "timestamp": "2026-08-15T21:05:28.455945",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -125976,6 +125976,30 @@
             "original_text": "**$RED****/USDT (4h)** Overbought level reached\nPrice: 0.0952 | RSI: 74.13 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
             "id": "404091",
             "date": "2026-08-15 20:51:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$QQQB****/USDT (30m)** MACD Bearish crossover\nLast price: 732.21 | [[Binance](https://www.binance.com/en/trade/QQQB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:QQQBUSDT)]",
+            "id": "262446",
+            "date": "2026-08-15 21:00:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$UNI****/USDT (30m)** MACD Bullish crossover\nLast price: 3.244 | [[Binance](https://www.binance.com/en/trade/UNI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:UNIUSDT)]",
+            "id": "262447",
+            "date": "2026-08-15 21:00:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (4h)** Extreme Overbought level reached\nPrice: 0.1001 | RSI: 80.02 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "404092",
+            "date": "2026-08-15 21:00:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RED****/USDT (1d)** Overbought level reached\nPrice: 0.1074 | RSI: 70.09 | [Binance](https://www.binance.com/en/trade/RED_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:REDUSDT)",
+            "id": "404093",
+            "date": "2026-08-15 21:02:39+00:00"
         }
     ]
 }
