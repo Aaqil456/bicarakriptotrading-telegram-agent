@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T21:44:38.283072",
+    "timestamp": "2026-08-15T21:56:56.267177",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -126078,6 +126078,24 @@
             "original_text": "**$ETH****/USDT (30m)** MACD Bullish crossover\nLast price: 1884.76 | [[Binance](https://www.binance.com/en/trade/ETH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ETHUSDT)]",
             "id": "262458",
             "date": "2026-08-15 21:38:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NEAR****/USDT (30m)** MACD Bullish crossover\nLast price: 1.641 | [[Binance](https://www.binance.com/en/trade/NEAR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NEARUSDT)]",
+            "id": "262459",
+            "date": "2026-08-15 21:43:55+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HOME****/USDT (30m)** MACD Bullish crossover\nLast price: 0.00881 | [[Binance](https://www.binance.com/en/trade/HOME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)]",
+            "id": "262460",
+            "date": "2026-08-15 21:55:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$GRAM****/USDT (1h)** Overbought level reached\nPrice: 1.359 | RSI: 70.41 | [Binance](https://www.binance.com/en/trade/GRAM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GRAMUSDT)",
+            "id": "404098",
+            "date": "2026-08-15 21:50:14+00:00"
         }
     ]
 }
