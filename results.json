@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T04:35:22.294516",
+    "timestamp": "2026-08-15T04:53:43.679683",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -122832,6 +122832,60 @@
             "original_text": "**SOL/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**10.84K SOL** have been sold\n\ud83d\udcb0Price: 75.42 USDT (**-0.05%**)\n\ud83d\udea8Order Size: **816.59K USDT** (**1.05%**)\n\u23f3Duration: **1 minute**\n\ud83d\udcca24h Vol: **77.48M** USDT",
             "id": "101608",
             "date": "2026-08-15 04:06:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (30m)** MACD Bearish crossover\nLast price: 493.21 | [[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "id": "262101",
+            "date": "2026-08-15 04:04:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$KAITO****/USDT (30m)** MACD Bearish crossover\nLast price: 0.395 | [[Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)]",
+            "id": "262102",
+            "date": "2026-08-15 04:09:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$EPIC****/USDT (30m)** MACD Bullish crossover\nLast price: 0.3843 | [[Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)]",
+            "id": "262103",
+            "date": "2026-08-15 04:17:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$COTI****/USDT (30m)** MACD Bullish crossover\nLast price: 0.01052 | [[Binance](https://www.binance.com/en/trade/COTI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:COTIUSDT)]",
+            "id": "262104",
+            "date": "2026-08-15 04:31:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GPS****/USDT (4h)** MACD Bullish crossover\nLast price: 0.01073 | [[Binance](https://www.binance.com/en/trade/GPS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GPSUSDT)]",
+            "id": "262105",
+            "date": "2026-08-15 04:34:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENSO****/USDT (4h)** Oversold level reached\nPrice: 0.76 | RSI: 29.98 | [Binance](https://www.binance.com/en/trade/ENSO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENSOUSDT)",
+            "id": "403822",
+            "date": "2026-08-15 04:21:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ROBO****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.01989 | RSI: 80.05 | [Binance](https://www.binance.com/en/trade/ROBO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ROBOUSDT)",
+            "id": "403823",
+            "date": "2026-08-15 04:35:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CHIP****/USDT (1h)** Overbought level reached\nPrice: 0.02416 | RSI: 70.25 | [Binance](https://www.binance.com/en/trade/CHIP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CHIPUSDT)",
+            "id": "403824",
+            "date": "2026-08-15 04:42:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$EPIC****/USDT (1h)** Overbought level reached\nPrice: 0.3937 | RSI: 70.02 | [Binance](https://www.binance.com/en/trade/EPIC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EPICUSDT)",
+            "id": "403825",
+            "date": "2026-08-15 04:46:51+00:00"
         }
     ]
 }
