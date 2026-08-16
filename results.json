@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T14:24:32.065541",
+    "timestamp": "2026-08-16T14:43:25.999059",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -128532,6 +128532,24 @@
             "original_text": "**$LDO****/USDT (1h)** Overbought level reached\nPrice: 0.307 | RSI: 70.07 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
             "id": "404386",
             "date": "2026-08-16 14:21:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALLO****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 0.2692 | [[Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)]",
+            "id": "262743",
+            "date": "2026-08-16 14:30:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$CRV****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 0.2468 | [[Binance](https://www.binance.com/en/trade/CRV_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)]",
+            "id": "262744",
+            "date": "2026-08-16 14:30:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AVAX****/USDT (1d)** MACD Bullish crossover\nLast price: 6.418 | [[Binance](https://www.binance.com/en/trade/AVAX_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AVAXUSDT)]",
+            "id": "262745",
+            "date": "2026-08-16 14:32:11+00:00"
         }
     ]
 }
