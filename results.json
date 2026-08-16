@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T22:50:44.306015",
+    "timestamp": "2026-08-16T23:00:31.765915",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -130038,6 +130038,18 @@
             "original_text": "**$APT****/USDT (30m)** Oversold level reached\nPrice: 0.52 | RSI: 29.80 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
             "id": "404534",
             "date": "2026-08-16 22:45:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PAXG****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\nLast price: 4381.46 | [[Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)]",
+            "id": "262896",
+            "date": "2026-08-16 22:56:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XAUT****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\nLast price: 4365.62 | [[Binance](https://www.binance.com/en/trade/XAUT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XAUTUSDT)]",
+            "id": "262897",
+            "date": "2026-08-16 22:59:56+00:00"
         }
     ]
 }
