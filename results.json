@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T20:44:21.330637",
+    "timestamp": "2026-08-16T20:57:23.532742",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -129600,6 +129600,42 @@
             "original_text": "**$BARD****/USDT (30m)** Overbought level reached\nPrice: 0.1102 | RSI: 70.27 | [Binance](https://www.binance.com/en/trade/BARD_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BARDUSDT)",
             "id": "404474",
             "date": "2026-08-16 20:33:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RARE****/USDT (1d)** MACD Bullish crossover\nLast price: 0.01307 | [[Binance](https://www.binance.com/en/trade/RARE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RAREUSDT)]",
+            "id": "262866",
+            "date": "2026-08-16 20:50:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PEPE****/USDT (4h)** MACD Bearish crossover\nLast price: 0.00000257 | [[Binance](https://www.binance.com/en/trade/PEPE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PEPEUSDT)]",
+            "id": "262867",
+            "date": "2026-08-16 20:52:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RARE****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.01272 | RSI: 81.03 | [Binance](https://www.binance.com/en/trade/RARE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RAREUSDT)",
+            "id": "404475",
+            "date": "2026-08-16 20:47:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RARE****/USDT (1h)** Extreme Overbought level reached\nPrice: 0.01271 | RSI: 80.32 | [Binance](https://www.binance.com/en/trade/RARE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RAREUSDT)",
+            "id": "404476",
+            "date": "2026-08-16 20:47:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANRY****/USDT (1h)** Oversold level reached\nPrice: 0.001022 | RSI: 29.89 | [Binance](https://www.binance.com/en/trade/VANRY_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:VANRYUSDT)",
+            "id": "404477",
+            "date": "2026-08-16 20:49:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PEPE****/USDT (30m)** Oversold level reached\nPrice: 0.00000256 | RSI: 29.59 | [Binance](https://www.binance.com/en/trade/PEPE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PEPEUSDT)",
+            "id": "404478",
+            "date": "2026-08-16 20:52:16+00:00"
         }
     ]
 }
