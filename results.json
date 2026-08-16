@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T20:02:09.799271",
+    "timestamp": "2026-08-16T20:22:17.392346",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -129516,6 +129516,36 @@
             "original_text": "**$TAO****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\nLast price: 197.5 | [[Binance](https://www.binance.com/en/trade/TAO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)]",
             "id": "262856",
             "date": "2026-08-16 20:00:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ONG****/USDT (30m)** MACD Bullish crossover\nLast price: 0.0532 | [[Binance](https://www.binance.com/en/trade/ONG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONGUSDT)]",
+            "id": "262857",
+            "date": "2026-08-16 20:11:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$KAITO****/USDT (30m)** MACD Bullish crossover\nLast price: 0.3473 | [[Binance](https://www.binance.com/en/trade/KAITO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:KAITOUSDT)]",
+            "id": "262858",
+            "date": "2026-08-16 20:18:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$DEXE****/USDT (4h)** Oversold level reached\nPrice: 1.815 | RSI: 30.00 | [Binance](https://www.binance.com/en/trade/DEXE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DEXEUSDT)",
+            "id": "404470",
+            "date": "2026-08-16 20:04:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XAI****/USDT (4h)** Overbought level reached\nPrice: 0.00759 | RSI: 70.19 | [Binance](https://www.binance.com/en/trade/XAI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XAIUSDT)",
+            "id": "404471",
+            "date": "2026-08-16 20:04:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XAI****/USDT (30m)** Overbought level reached\nPrice: 0.00764 | RSI: 70.03 | [Binance](https://www.binance.com/en/trade/XAI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XAIUSDT)",
+            "id": "404472",
+            "date": "2026-08-16 20:05:21+00:00"
         }
     ]
 }
