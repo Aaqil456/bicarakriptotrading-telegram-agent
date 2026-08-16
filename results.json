@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T13:48:49.182577",
+    "timestamp": "2026-08-16T14:00:31.454117",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -128418,6 +128418,24 @@
             "original_text": "**$MUBARAK****/USDT (30m)** Overbought level reached\nPrice: 0.01699 | RSI: 70.05 | [Binance](https://www.binance.com/en/trade/MUBARAK_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MUBARAKUSDT)",
             "id": "404369",
             "date": "2026-08-16 13:43:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (4h)** MACD Bullish crossover\nLast price: 487.99 | [[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "id": "262734",
+            "date": "2026-08-16 13:49:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TOWNS****/USDT (1d)** MACD Bullish crossover\nLast price: 0.00243 | [[Binance](https://www.binance.com/en/trade/TOWNS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TOWNSUSDT)]",
+            "id": "262735",
+            "date": "2026-08-16 13:51:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIGTIME****/USDT (4h)** Overbought level reached\nPrice: 0.0054 | RSI: 70.33 | [Binance](https://www.binance.com/en/trade/BIGTIME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BIGTIMEUSDT)",
+            "id": "404370",
+            "date": "2026-08-16 13:51:12+00:00"
         }
     ]
 }
