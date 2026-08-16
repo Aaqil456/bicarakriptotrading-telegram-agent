@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T10:53:11.686587",
+    "timestamp": "2026-08-16T11:03:24.582861",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -127914,6 +127914,30 @@
             "original_text": "**$SYRUP****/USDT (4h)** Overbought level reached\nPrice: 0.1639 | RSI: 70.34 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
             "id": "404322",
             "date": "2026-08-16 10:51:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AAVE****/USDT (30m)** MACD Bullish crossover\nLast price: 85.94 | [[Binance](https://www.binance.com/en/trade/AAVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:AAVEUSDT)]",
+            "id": "262691",
+            "date": "2026-08-16 11:00:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ADA****/USDT (30m)** MACD Bullish crossover\nLast price: 0.1769 | [[Binance](https://www.binance.com/en/trade/ADA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)]",
+            "id": "262692",
+            "date": "2026-08-16 11:01:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$WLFI****/USDT (30m)** MACD Bullish crossover\nLast price: 0.059 | [[Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)]",
+            "id": "262693",
+            "date": "2026-08-16 11:01:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.1663 | RSI: 80.37 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "404323",
+            "date": "2026-08-16 10:54:09+00:00"
         }
     ]
 }
