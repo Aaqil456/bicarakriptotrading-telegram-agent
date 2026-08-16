@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T09:54:07.362991",
+    "timestamp": "2026-08-16T10:09:20.505494",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -127740,6 +127740,30 @@
             "original_text": "**$CRV****/USDT (1h)** Overbought level reached\nPrice: 0.249 | RSI: 70.13 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
             "id": "404302",
             "date": "2026-08-16 09:49:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XRP****/USDT (30m)** MACD Bearish crossover\nLast price: 1.0002 | [[Binance](https://www.binance.com/en/trade/XRP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)]",
+            "id": "262680",
+            "date": "2026-08-16 10:00:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$CRV****/USDT (30m)** Overbought level reached\nPrice: 0.2485 | RSI: 75.57 | [Binance](https://www.binance.com/en/trade/CRV_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CRVUSDT)",
+            "id": "404303",
+            "date": "2026-08-16 09:56:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TOWNS****/USDT (1h)** Overbought level reached\nPrice: 0.00231 | RSI: 70.82 | [Binance](https://www.binance.com/en/trade/TOWNS_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TOWNSUSDT)",
+            "id": "404304",
+            "date": "2026-08-16 10:06:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MOVR****/USDT (30m)** Overbought level reached\nPrice: 0.877 | RSI: 70.53 | [Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)",
+            "id": "404305",
+            "date": "2026-08-16 10:08:09+00:00"
         }
     ]
 }
