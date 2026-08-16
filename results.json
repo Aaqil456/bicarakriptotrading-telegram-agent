@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T21:48:09.690109",
+    "timestamp": "2026-08-16T21:56:42.649175",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -129900,6 +129900,12 @@
             "original_text": "**$SOL****/USDT (30m)** Extreme Oversold level reached\nPrice: 74.17 | RSI: 19.92 | [Binance](https://www.binance.com/en/trade/SOL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLUSDT)",
             "id": "404517",
             "date": "2026-08-16 21:46:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NIL****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\nLast price: 0.04728 | [[Binance](https://www.binance.com/en/trade/NIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NILUSDT)]",
+            "id": "262889",
+            "date": "2026-08-16 21:50:23+00:00"
         }
     ]
 }
