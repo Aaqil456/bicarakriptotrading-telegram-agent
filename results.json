@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T17:51:40.211562",
+    "timestamp": "2026-08-16T18:00:07.951398",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -129132,6 +129132,12 @@
             "original_text": "**$BEL****/USDT (30m)** Overbought level reached\nPrice: 0.1112 | RSI: 70.27 | [Binance](https://www.binance.com/en/trade/BEL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BELUSDT)",
             "id": "404451",
             "date": "2026-08-16 17:47:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BNB****/USDT (30m)** MACD Bearish crossover\nLast price: 606.33 | [[Binance](https://www.binance.com/en/trade/BNB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)]",
+            "id": "262807",
+            "date": "2026-08-16 17:59:04+00:00"
         }
     ]
 }
