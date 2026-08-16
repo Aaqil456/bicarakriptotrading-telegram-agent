@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T10:36:33.663671",
+    "timestamp": "2026-08-16T10:53:11.686587",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -127854,6 +127854,66 @@
             "original_text": "**$HEI****/USDT (30m)** Overbought level reached\nPrice: 0.1374 | RSI: 70.25 | [Binance](https://www.binance.com/en/trade/HEI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HEIUSDT)",
             "id": "404316",
             "date": "2026-08-16 10:34:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZAMA****/USDT (30m)** MACD Bullish crossover\nLast price: 0.04133 | [[Binance](https://www.binance.com/en/trade/ZAMA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZAMAUSDT)]",
+            "id": "262687",
+            "date": "2026-08-16 10:37:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ONG****/USDT (30m)** MACD Bullish crossover\nLast price: 0.05234 | [[Binance](https://www.binance.com/en/trade/ONG_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONGUSDT)]",
+            "id": "262688",
+            "date": "2026-08-16 10:38:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALLO****/USDT (30m)** MACD Bullish crossover\nLast price: 0.2688 | [[Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)]",
+            "id": "262689",
+            "date": "2026-08-16 10:47:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ALLO****/USDT (1d)** MACD Super bullish crossover \ud83d\udd25\nLast price: 0.2703 | [[Binance](https://www.binance.com/en/trade/ALLO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ALLOUSDT)]",
+            "id": "262690",
+            "date": "2026-08-16 10:49:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$FET****/USDT (1h)** Oversold level reached\nPrice: 0.1241 | RSI: 29.79 | [Binance](https://www.binance.com/en/trade/FET_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FETUSDT)",
+            "id": "404317",
+            "date": "2026-08-16 10:40:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONT****/USDT (1h)** Overbought level reached\nPrice: 0.03913 | RSI: 76.22 | [Binance](https://www.binance.com/en/trade/ONT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONTUSDT)",
+            "id": "404318",
+            "date": "2026-08-16 10:45:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ONT****/USDT (4h)** Overbought level reached\nPrice: 0.03913 | RSI: 72.60 | [Binance](https://www.binance.com/en/trade/ONT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONTUSDT)",
+            "id": "404319",
+            "date": "2026-08-16 10:46:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (30m)** Overbought level reached\nPrice: 0.1627 | RSI: 71.02 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "404320",
+            "date": "2026-08-16 10:50:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (1h)** Overbought level reached\nPrice: 0.1635 | RSI: 70.68 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "404321",
+            "date": "2026-08-16 10:51:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SYRUP****/USDT (4h)** Overbought level reached\nPrice: 0.1639 | RSI: 70.34 | [Binance](https://www.binance.com/en/trade/SYRUP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SYRUPUSDT)",
+            "id": "404322",
+            "date": "2026-08-16 10:51:50+00:00"
         }
     ]
 }
