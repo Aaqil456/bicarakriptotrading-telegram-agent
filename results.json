@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T22:34:09.996402",
+    "timestamp": "2026-08-16T22:50:44.306015",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -130008,6 +130008,36 @@
             "original_text": "**$BNB****/USDT (1h)** Oversold level reached\nPrice: 602.92 | RSI: 28.84 | [Binance](https://www.binance.com/en/trade/BNB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)",
             "id": "404529",
             "date": "2026-08-16 22:31:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (1h)** Oversold level reached\nPrice: 62768.17 | RSI: 29.91 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "id": "404530",
+            "date": "2026-08-16 22:36:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PENGU****/USDT (30m)** Oversold level reached\nPrice: 0.005922 | RSI: 29.75 | [Binance](https://www.binance.com/en/trade/PENGU_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PENGUUSDT)",
+            "id": "404531",
+            "date": "2026-08-16 22:37:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ATOM****/USDT (1h)** Oversold level reached\nPrice: 1.45 | RSI: 29.66 | [Binance](https://www.binance.com/en/trade/ATOM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ATOMUSDT)",
+            "id": "404532",
+            "date": "2026-08-16 22:40:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ADA****/USDT (4h)** Oversold level reached\nPrice: 0.1747 | RSI: 29.89 | [Binance](https://www.binance.com/en/trade/ADA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ADAUSDT)",
+            "id": "404533",
+            "date": "2026-08-16 22:43:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APT****/USDT (30m)** Oversold level reached\nPrice: 0.52 | RSI: 29.80 | [Binance](https://www.binance.com/en/trade/APT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APTUSDT)",
+            "id": "404534",
+            "date": "2026-08-16 22:45:00+00:00"
         }
     ]
 }
