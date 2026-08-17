@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-17T06:13:28.135652",
+    "timestamp": "2026-08-17T06:51:39.180403",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -130974,6 +130974,114 @@
             "original_text": "**$DIA****/USDT (30m)** Overbought level reached\nPrice: 0.1381 | RSI: 70.18 | [Binance](https://www.binance.com/en/trade/DIA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DIAUSDT)",
             "id": "404685",
             "date": "2026-08-17 06:00:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HOME****/USDT (30m)** MACD Bullish crossover\nLast price: 0.00703 | [[Binance](https://www.binance.com/en/trade/HOME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)]",
+            "id": "263044",
+            "date": "2026-08-17 06:00:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$TAO****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\nLast price: 196.4 | [[Binance](https://www.binance.com/en/trade/TAO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)]",
+            "id": "263045",
+            "date": "2026-08-17 06:00:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PLUME****/USDT (30m)** MACD Bearish crossover\nLast price: 0.01283 | [[Binance](https://www.binance.com/en/trade/PLUME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PLUMEUSDT)]",
+            "id": "263046",
+            "date": "2026-08-17 06:01:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NIL****/USDT (30m)** MACD Bearish crossover\nLast price: 0.0484 | [[Binance](https://www.binance.com/en/trade/NIL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NILUSDT)]",
+            "id": "263047",
+            "date": "2026-08-17 06:06:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$COTI****/USDT (4h)** MACD Bearish crossover\nLast price: 0.01021 | [[Binance](https://www.binance.com/en/trade/COTI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:COTIUSDT)]",
+            "id": "263048",
+            "date": "2026-08-17 06:10:36+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PUMP****/USDT (4h)** MACD Bullish crossover\nLast price: 0.00292 | [[Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)]",
+            "id": "263049",
+            "date": "2026-08-17 06:12:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BICO****/USDT (30m)** MACD Bearish crossover\nLast price: 0.02275 | [[Binance](https://www.binance.com/en/trade/BICO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BICOUSDT)]",
+            "id": "263050",
+            "date": "2026-08-17 06:14:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LTC****/USDT (30m)** MACD Bullish crossover\nLast price: 44.29 | [[Binance](https://www.binance.com/en/trade/LTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)]",
+            "id": "263051",
+            "date": "2026-08-17 06:15:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Overbought level reached\nPrice: 500.65 | RSI: 70.57 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "404691",
+            "date": "2026-08-17 06:14:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (1h)** Overbought level reached\nPrice: 500.65 | RSI: 70.75 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "404692",
+            "date": "2026-08-17 06:14:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SPYB****/USDT (30m)** Overbought level reached\nPrice: 778.53 | RSI: 70.85 | [Binance](https://www.binance.com/en/trade/SPYB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SPYBUSDT)",
+            "id": "404693",
+            "date": "2026-08-17 06:14:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RVN****/USDT (30m)** Overbought level reached\nPrice: 0.0031 | RSI: 70.61 | [Binance](https://www.binance.com/en/trade/RVN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RVNUSDT)",
+            "id": "404694",
+            "date": "2026-08-17 06:21:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RVN****/USDT (1h)** Overbought level reached\nPrice: 0.0031 | RSI: 71.12 | [Binance](https://www.binance.com/en/trade/RVN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RVNUSDT)",
+            "id": "404695",
+            "date": "2026-08-17 06:21:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$HOME****/USDT (1h)** Oversold level reached\nPrice: 0.00695 | RSI: 29.91 | [Binance](https://www.binance.com/en/trade/HOME_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HOMEUSDT)",
+            "id": "404696",
+            "date": "2026-08-17 06:21:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PUMP****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.00294 | RSI: 80.31 | [Binance](https://www.binance.com/en/trade/PUMP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PUMPUSDT)",
+            "id": "404697",
+            "date": "2026-08-17 06:22:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ICP****/USDT (30m)** Overbought level reached\nPrice: 2.311 | RSI: 70.07 | [Binance](https://www.binance.com/en/trade/ICP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ICPUSDT)",
+            "id": "404698",
+            "date": "2026-08-17 06:34:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (30m)** Extreme Overbought level reached\nPrice: 512.45 | RSI: 80.82 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "404699",
+            "date": "2026-08-17 06:35:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZEC****/USDT (1h)** Extreme Overbought level reached\nPrice: 513.65 | RSI: 80.58 | [Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)",
+            "id": "404700",
+            "date": "2026-08-17 06:35:27+00:00"
         }
     ]
 }
