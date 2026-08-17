@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-17T11:46:16.730978",
+    "timestamp": "2026-08-17T12:00:08.779604",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -131964,6 +131964,24 @@
             "original_text": "**$ONDO****/USDT (1h)** Overbought level reached\nPrice: 0.3412 | RSI: 70.02 | [Binance](https://www.binance.com/en/trade/ONDO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ONDOUSDT)",
             "id": "404793",
             "date": "2026-08-17 11:45:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$CHIP****/USDT (30m)** MACD Bullish crossover\nLast price: 0.03108 | [[Binance](https://www.binance.com/en/trade/CHIP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:CHIPUSDT)]",
+            "id": "263175",
+            "date": "2026-08-17 11:52:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUMIA****/USDT (4h)** Extreme Overbought level reached\nPrice: 0.0906 | RSI: 80.04 | [Binance](https://www.binance.com/en/trade/LUMIA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUMIAUSDT)",
+            "id": "404794",
+            "date": "2026-08-17 11:55:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUMIA****/USDT (30m)** Extreme Overbought level reached\nPrice: 0.0912 | RSI: 80.37 | [Binance](https://www.binance.com/en/trade/LUMIA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUMIAUSDT)",
+            "id": "404795",
+            "date": "2026-08-17 11:57:18+00:00"
         }
     ]
 }
