@@ -33,7 +33,13 @@ jobs:
         env:
           TELEGRAM_SESSION_B64: ${{ secrets.TELEGRAM_SESSION_B64 }}
         run: |
+          if [ -z "${TELEGRAM_SESSION_B64}" ]; then
+            echo "❌ TELEGRAM_SESSION_B64 is missing!"
+            exit 1
+          fi
+
           echo "${TELEGRAM_SESSION_B64}" | base64 -d > telegram_session.session
+
           echo "✅ Telegram session restored!"
 
       - name: Verify Secrets
@@ -52,11 +58,12 @@ jobs:
              [ -z "${TELEGRAM_CHAT_ID}" ] || \
              [ -z "${GOOGLE_SHEET_ID}" ] || \
              [ -z "${GOOGLE_SHEET_API_KEY}" ] || \
-             [ -z "${GEMINI_API_KEY}" ] || \
-             [ -z "${TELEGRAM_SESSION_B64}" ]; then
+             [ -z "${GEMINI_API_KEY}" ]; then
             echo "❌ One or more required secrets are missing!"
             exit 1
           fi
+
+          echo "✅ All required secrets are present."
 
       - name: Run Telegram AI Agent
         env:
